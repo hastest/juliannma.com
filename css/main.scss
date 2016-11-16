@@ -1,0 +1,142 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Our variables
+$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+// Import partials from the `minima` theme.
+@import
+  "_normalize",
+  "_skeleton"
+;
+
+// Custom styles
+
+// Sticky footer
+body {
+  min-height: 100vh;
+  position: relative;
+}
+
+main {
+  padding-bottom: 8ex;
+}
+
+footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+
+// Nav menu styles
+nav {
+  ul.nav_menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+    li {
+      float: left;
+      margin: 0;
+
+      a {
+        display: inline-block;
+        color: #fff;
+        text-align: center;
+        padding: 0.5ex 1em;
+        text-decoration: none;
+        transition: 0.25s;
+        font-size: 1.25em;
+      }
+
+      a:hover {
+        background-color: #555;
+        color: #fff;
+      }
+    }
+
+    li.icon {
+      display: none;
+    }
+
+    @media screen and (max-width:640px) {
+      li:not(:first-child) {
+        display: none;
+      }
+      li.icon {
+        float: right;
+        display: inline-block;
+      }
+    }
+  }
+
+  @media screen and (max-width:640px) {
+    ul.nav_menu.responsive {
+      position: relative;
+    }
+    ul.nav_menu.responsive li.icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    ul.nav_menu.responsive li {
+      float: none;
+      display: inline;
+    }
+    ul.nav_menu.responsive li a {
+      display: block;
+      text-align: left;
+    }
+  }
+}
+
+// Quotes
+blockquote {
+  font-style: italic;
+  color: $grey-color;
+
+  cite:before {
+    content: "\2014";
+    margin-right: 0.5em;
+  }
+  cite {
+    font-size: 1.25em;
+    float:right;
+  }
+}
+
+// Page title
+header {
+  text-align: center;
+}
+
+// Footer style
+footer {
+  color: $grey-color;
+  text-align: center;
+}

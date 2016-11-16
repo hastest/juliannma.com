@@ -1,0 +1,23 @@
+# Site settings; reloaded only at server startup
+encoding: utf-8
+title: Juliann Ma
+tagline: Interdisciplinary Artist ℘ Pianist ℘ Writer
+description: >
+  A professional site for a New York City based pianist, Juliann Ma.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://juliannma.com" # the base hostname & protocol for your site
+
+birthday: 614221261 # In UNIX time, computes age automagically
+
+professional_email: solicit@juliannma.com
+sponsorship_email: sponsor@juliannma.com
+misc_email: me@juliannma.com
+
+enroll_mailing_list: "https://mailing.list.com"
+
+# Collections, needed to correctly build the website
+collections:
+  - events
+
+# Build settings
+markdown: kramdown

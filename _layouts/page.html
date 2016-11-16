@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<header>
+  <p>
+    <h1>{{ site.title }}</h1>
+  </p>
+  <p>
+    {{ site.tagline }}
+  </p>
+  {% if page.picture-title %}
+    <img src="{{page.picture-title}}" alt="{{page.title}}" />
+  {% else %}
+    <h2>{{ page.title }}</h2>
+  {% endif %}
+  </title>
+  <p>{{ page.subtitle }}</p>
+</header>
+<hr>
+<!--<article>-->
+  {{ content }}
+<!--</article>-->

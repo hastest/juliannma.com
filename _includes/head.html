@@ -1,0 +1,25 @@
+<head>
+  <!-- Generic -->
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
+  <meta name="author" content="{{ site.author }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+  <!-- HTTPS redirect -->
+<!--
+  <script>
+    if (("localhost" != window.location.host) && (window.location.protocol != 'https:')) { window.location = window.location.toString().replace(/^http:/, "https:"); }
+  </script>
+-->
+  <!-- Mobile -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" >
+  <!-- Fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Lato|Oswald' rel='stylesheet' type='text/css'>
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="images/favicon.ico">
+</head>
