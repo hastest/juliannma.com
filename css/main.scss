@@ -27,10 +27,11 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 
-// Import partials from the `minima` theme.
+// Import partials.
 @import
   "_normalize",
   "_skeleton"
+  //"_full_page"
 ;
 
 // Custom styles

@@ -2,13 +2,8 @@
 <html lang="en">
   {% include head.html %}
   <body>
-    {% include header.html %}
-    <main>
-      <div class="container">
-        {{ content }}
-      </div>
-    </main>
-    {% include footer.html %}
+    {{ content }}
     {% include analytics/google_analytics.html %}
+    <!--{% include full_page/full_page.html %}-->
   </body>
 </html>
