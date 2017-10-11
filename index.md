@@ -9,6 +9,7 @@ permalink: /
       <h1>Juliann Ma</h1>
       Pianist ℘ Interdisciplinary Artist
     </div>
+    <div class="bottom"><a class="scroll_arrow" href="#about"></a></div>
   </div>
   <div class="section" style="background-color:#2C292F">
     {% capture raw_about %}{% include about.md %}{% endcapture %}

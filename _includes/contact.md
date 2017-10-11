@@ -23,7 +23,7 @@ I would like to express my sincere gratitude to all those who make my career pos
 Looking forward to your note!
 Yours,
 
-&nbsp;&nbsp; Juliann Ma
+&nbsp;&nbsp; - Juliann Ma
 
 <div class="flex-ribbon">
   <div class="narrow_thirds_tile"><a href="https://www.youtube.com/channel/UCfta2IWh2nIcr0bzbLk3FPg">Youtube</a></div>
