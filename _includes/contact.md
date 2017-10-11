@@ -26,7 +26,7 @@ Yours,
 &nbsp;&nbsp; Juliann Ma
 
 <div class="flex-ribbon">
-  <div class="thirds_tile">Youtube: UCfta2IWh2nIcr0bzbLk3FPg</div>
-  <div class="thirds_tile">Twitter: @juliann_ma</div>
-  <div class="thirds_tile">Facebook org: make one!</div>
+  <div class="thirds_tile"><a href="https://www.youtube.com/channel/UCfta2IWh2nIcr0bzbLk3FPg">Youtube</a></div>
+  <div class="thirds_tile"><a href="https://twitter.com/juliann_ma">Twitter</a></div>
+  <div class="thirds_tile">Facebook org: make one with facebook@juliannma.com!</div>
 </div>
