@@ -1,9 +1,10 @@
 ---
 title: Mannes, The New School for Music, announces Winners of Alsop Entrepreneurship Award
+short_title: Alsop Entrepreneurship Award
 #link: (permalink to the event should go here)
 date: 2016-04-17 13:30:00 -0500
 location: Mannes Glassbox Theater, Arnhold Hall
-location_link: LINK
+short_location: Mannes School of Music, NYC
 ---
 
 On Welcome Day, my fellow Alsop award winners and I will present each of our entrepreneurial projects as part of a public launch for our work. Features a roundtable discussion with Marin Alsop and the award winners, and a panel discussion with Marin Alsop, Nick Firth, Margaret Lioi, Leslie Stifelman, and **Richard Kessler on innovation in the performing arts**.

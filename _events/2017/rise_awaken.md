@@ -1,9 +1,11 @@
 ---
-title: Rise, Awaken at Carnegie
+title: Rise, Awaken
+short_title: Rise, Awaken
 #link: (permalink to the event should go here)
 date: 2017-11-09 19:30:00 -0500
-location: Weill Recital Hall, Carnegie
-location_link: LINK
+location: Weill Recital Hall, Carnegie, New York
+short_location: Carnegie Hall, NYC
+rsvp_link: https://www.carnegiehall.org/SiteCode/Purchase/SeatSelectionPerformance.aspx?startWorkflow=true&quickBuy=false&quantity=1&eventId=31030
 ---
 
 Pro Musicis artist Juliann Ma performs her Carnegie Hall debut recital, attempting to tell the story of humanity’s relationship with nature: the primal joys of discovery by a Faun, destruction of the environment mourned by Sad Birds, rebirth in The Firebird, and transformations in the human psyche as portrayed by Scriabin, Bach, and Thomas Adès. Ms. Ma’s arts collective, SEAS, dances nature’s reaction to climate change in Ravel’s Sad Birds.

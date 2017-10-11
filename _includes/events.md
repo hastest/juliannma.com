@@ -8,18 +8,42 @@ Events
 ### Upcoming events
 <ul>
 {% for event in upcoming_events %}
-  <li>{{ event.title }} : <a href="{{ event.location_link }}">{{ event.location }}</a></li>
+  {% if event.short_title %}
+    {% assign title = event.short_title %}
+  {% else %}
+    {% assign title = event.title %}
+  {% endif %}
+
+  {% if event.short_location %}
+    {% assign location = event.short_location %}
+  {% else %}
+    {% assign location = event.location %}
+  {% endif %}
+
+  <li><span class="calendar_tile">{{ event.date | date: "%-A, %b %-d, %I:%M%p"}}, </span><a href="{{ event.url }}">{{ title}}</a>, at {{ location }} {% if event.rsvp_link %}(<a href="{{ event.rsvp_link }}">RSVP</a>){% endif %}</li>
 {% endfor %}
 </ul>
 {% endif %}
 
 
-{% if upcoming_events != empty %}
+{% if past_events != empty %}
 ### Past events
 <ul>
 {% for event in past_events limit:7 %}
-  <li>{{ event.title }} : <a href="{{ event.location_link }}">{{ event.location }}</a></li>
+  {% if event.short_title %}
+    {% assign title = event.short_title %}
+  {% else %}
+    {% assign title = event.title %}
+  {% endif %}
+
+  {% if event.short_location %}
+    {% assign location = event.short_location %}
+  {% else %}
+    {% assign location = event.location %}
+  {% endif %}
+
+  <li><a href="{{ event.url }}">{{ title}}</a>, at {{ location }} ({{ event.date | date: "%B '%y"}})</li>
 {% endfor %}
+  <li><a href="/events">... more past events</a></li>
 </ul>
-[... more](/events)
 {% endif %}
