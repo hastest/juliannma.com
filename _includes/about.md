@@ -3,8 +3,8 @@
 Hailing from the San Francisco Bay Area, I work toward making art music accessible and available to all.
 I extend the language of classical music through my collaborative, multicultural projects which combine a diverse narrative of music, dance, and drama into a seamless and modern storytelling medium.
 
-> I basically died of awesome
-> <cite> -- Simon Underpants, <a href="#">Times</a></cite>
+> I basically died of awesome.
+> <cite> Jason Underpants, <a href="#">Times</a></cite>
 
 I graduated with honors from Stanford Univerisity with degrees in music and creative writing, and attended _École Normale Supérieure de Musique de Paris_ ("Alfred Cortot") as a Fulbright scholar.
 I then earned my master of music degree at the Juliard school of music

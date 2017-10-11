@@ -16,8 +16,17 @@ Contact Juliann Ma
   </div>
 </div>
 
-Media buttons: youtube, twitter? facebook?
+<hr>
 
 I would like to express my sincere gratitude to all those who make my career possible. To my teachers, mentors, & colleagues, friends, and family, I give thanks for your encouragement and generosity. You have given me a world to thrive in, that I may share with and provide for others. I am humbled by your humanity.
 
-Looking forward to your note! Yours, Juliann Ma
+Looking forward to your note!
+Yours,
+
+&nbsp;&nbsp; Juliann Ma
+
+<div class="flex-ribbon">
+  <div class="thirds_tile">Youtube</div>
+  <div class="thirds_tile">Twitter</div>
+  <div class="thirds_tile">Facebook org</div>
+</div>
