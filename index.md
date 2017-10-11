@@ -1,18 +1,39 @@
 ---
-layout: page
-# title: Front Page
-# subtitle: hi!
+layout: fullpage
 permalink: /
 ---
 
-Fall 2016 will bear witness to Juliann’s latest ensemble work, *SEAs (‘Sustainable Environment through the Arts and Sciences’)**—an original concert-plus-music video project featuring Juilliard choreographers performing alongside Juliann at the piano and telling, through movement and wordless sound, the story of climate change and human impact on nature. Her work is supported through Marin Alsop’s Entrepreneurship Award and the generous dedication of her friends from Juilliard, Parsons, and Stanford University.
+<main id="fullpage">
+  <div class="section main_photo" style="background-color:#818479">
+    <div class="title_card">
+      <h1>Juliann Ma</h1>
+      Pianist ℘ Interdisciplinary Artist
+    </div>
+  </div>
+  <div class="section" style="background-color:#B5CBB7">
+    {% capture raw_about %}{% include about.md %}{% endcapture %}
+    {{ raw_about | markdownify }}
+  </div>
+  <div class="section" style="background-color:#D2E4C4">
+    {% capture raw_media %}{% include media.md %}{% endcapture %}
+    {{ raw_media | markdownify }}
+  </div>
+  <div class="section" style="background-color:#E4E9B2">
+    {% capture raw_events %}{% include events.md %}{% endcapture %}
+    {{ raw_events | markdownify }}
+  </div>
+  <div class="section" style="background-color:#E7E08B">
+    {% capture raw_contact %}{% include contact.md %}{% endcapture %}
+    {{ raw_contact | markdownify }}
+  </div>
+</main>
 
-> Her performance revealed more than her touch and effortless dazzling finger speed…
-> Her musicality, her ability to draw from the mass of musical notations Chopin showers onto the page the essence of his message, is what makes her brilliant.
-> It is a gift from some higher power.
-> <cite>Keith Kreitman, San Mateo County Times</cite>
+{% include plumbing/nav_header.html sections="home,about,media,events,contact" %}
 
-Short Biography
----------------
-
-{% include short_bio.md %}
+<script>
+  fullpage.initialize('#fullpage', {
+    anchors: ['home', 'about', 'media', 'events', 'contact'],
+    menu: '#menu',
+    css3:true
+  });
+</script>

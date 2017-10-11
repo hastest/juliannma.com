@@ -1,0 +1,28 @@
+{% comment %}
+// Takes as argument:
+// sections="A,B,C"
+{% endcomment %}
+
+{% assign sections_array = include.sections | split: "," %}
+
+<nav>
+  <ul class="nav_menu" id="menu">
+    {% for section in sections_array %}
+    <li data-menuanchor="{{ section }}"><a class="page-link" href="#{{ section }}">{{ section | capitalize }}</a></li>
+    {% endfor %}
+    <li class="icon">
+      <a href="javascript:void(0);" onclick="toggle_nav()">&#9776;</a>
+    </li>
+  </ul>
+</nav>
+
+<script>
+  function toggle_nav() {
+      var x = document.getElementById("menu");
+      if (x.className === "nav_menu") {
+          x.className += " responsive";
+      } else {
+          x.className = "nav_menu";
+      }
+  }
+</script>

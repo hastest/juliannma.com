@@ -22,122 +22,114 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    800px;
-
 $on-palm:          600px;
 $on-laptop:        800px;
-
 
 // Import partials.
 @import
   "_normalize",
-  "_skeleton"
-  //"_full_page"
+  "_skeleton",
+  "_full_page",
+  "_nav_menu"
 ;
 
-// Custom styles
-
-// Sticky footer
-body {
-  min-height: 100vh;
-  position: relative;
-}
-
-main {
-  padding-bottom: 8ex;
-}
-
-footer {
-  position: absolute;
-  width: 100%;
-  bottom: 0;
-}
-
-// Nav menu styles
-nav {
-  ul.nav_menu {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-
-    li {
-      float: left;
-      margin: 0;
-
-      a {
-        display: inline-block;
-        color: #fff;
-        text-align: center;
-        padding: 0.5ex 1em;
-        text-decoration: none;
-        transition: 0.25s;
-        font-size: 1.25em;
-      }
-
-      a:hover {
-        background-color: #555;
-        color: #fff;
-      }
-    }
-
-    li.icon {
-      display: none;
-    }
-
-    @media screen and (max-width:640px) {
-      li:not(:first-child) {
-        display: none;
-      }
-      li.icon {
-        float: right;
-        display: inline-block;
-      }
-    }
-  }
-
-  @media screen and (max-width:640px) {
-    ul.nav_menu.responsive {
-      position: relative;
-    }
-    ul.nav_menu.responsive li.icon {
-      position: absolute;
-      right: 0;
-      top: 0;
-    }
-    ul.nav_menu.responsive li {
-      float: none;
-      display: inline;
-    }
-    ul.nav_menu.responsive li a {
-      display: block;
-      text-align: left;
-    }
-  }
-}
-
-// Quotes
-blockquote {
-  font-style: italic;
-  color: $grey-color;
-
-  cite:before {
-    content: "\2014";
-    margin-right: 0.5em;
-  }
-  cite {
-    font-size: 1.25em;
-    float:right;
-  }
-}
-
-// Page title
-header {
-  text-align: center;
-}
-
 // Footer style
-footer {
-  color: $grey-color;
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+// Typography
+.section > p, .section > h1 {
+  margin: auto 2em;
+}
+
+.section > h1 {
   text-align: center;
+}
+
+blockquote {
+  background-color: #D2E4C4;
+  color: #333;
+  padding: 1em;
+  font-style: italic;
+}
+
+blockquote > p {
+  margin-bottom: 0;
+}
+
+// Calendar ribbons
+.ribbon {
+    text-align:center;
+    display:block;
+    width:3em;
+    margin: 0;
+    min-height: 3em;
+    max-height: 3em;
+    height:1em;
+    background:#333;
+    color: #FFF;
+}
+.ribbon:after {
+    content:"";
+    display:block;
+    position:relative;
+    width:0;
+    height:0;
+    top:0;
+    margin: 0;
+    border-width:0.5em 1.5em 0.5em 1.5em;
+    border-style:solid;
+    border-color:#333 #333 transparent #333;
+}
+
+.section {
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+}
+
+.flex-ribbon {
+  display: flex;
+  flex-direction: row;
+  align-content: flex-end;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+
+.thirds_tile {
+  text-align: center;
+  width: 30%;
+  min-width: 10em;
+}
+
+// Front page photo
+.main_photo {
+  background-image: url("/media/photo.jpg");
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+}
+
+.title_card {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  color: #FFF;
+  background-color: #333;
+  text-align: center;
+  margin: auto;
+  h1 {
+    text-align: center;
+    margin: 2px;
+  }
+  display: inline-block;
+  padding: 0.5vh 2em;
 }
