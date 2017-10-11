@@ -25,6 +25,7 @@ permalink: /
   <div class="section" style="background-color:#14131A">
     {% capture raw_contact %}{% include contact.md %}{% endcapture %}
     {{ raw_contact | markdownify }}
+    <div class="bottom">Copyright © {{ 'now' | date: "%Y" }} <a href="{{ site.url }}">JULIANN MA</a>. All Rights Reserved.</div>
   </div>
 </main>
 
