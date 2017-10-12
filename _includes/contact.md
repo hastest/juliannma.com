@@ -8,7 +8,7 @@ Contact Juliann Ma
   </div>
 
   <div class="narrow_thirds_tile">
-  <a href="mailto:ask@juliannma.com">Email]</a> me with professional inquiries including solo/ensemble performances, collaborative work, musical instruction, or if you would like to support my work.
+  <a href="mailto:ask@juliannma.com">Email</a> me with professional inquiries including solo/ensemble performances, collaborative work, musical instruction, or if you would like to support my work.
   </div>
 
   <div class="narrow_thirds_tile">
