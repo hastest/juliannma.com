@@ -2,7 +2,7 @@
 layout: page
 title: Private Piano Instruction
 # subtitle: hi!
-permalink: /lessons
+permalink: /lessons/
 ---
 
 Private Piano Instruction with Juliann Ma
