@@ -23,4 +23,4 @@ I am fluent in English, French, Chinese.
 
 Please <a href="/#contact">contact</a> me to schedule your first lesson, or arrange a meet and greet.
 
-> TODO: remote students anc work with me via tonerow??
+> TODO: remote students can work with me via tonerow??
