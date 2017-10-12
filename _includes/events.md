@@ -20,7 +20,7 @@ Events
     {% assign location = event.location %}
   {% endif %}
 
-  <li><span class="calendar_tile">{{ event.date | date: "%-A, %b %-d, %I:%M%p"}}, </span><a href="{{ event.url }}">{{ title}}</a>, at {{ location }} {% if event.rsvp_link %}(<a href="{{ event.rsvp_link }}">RSVP</a>){% endif %}</li>
+  <li><span class="calendar_tile">{{ event.date | date: "%-A, %b %-d, %I:%M%p"}}, </span><b>{{ title}}</b>, at {{ location }} {% if event.rsvp_link %}(<a href="{{ event.rsvp_link }}">RSVP</a>){% endif %}</li>
 {% endfor %}
 </ul>
 {% endif %}
@@ -42,8 +42,8 @@ Events
     {% assign location = event.location %}
   {% endif %}
 
-  <li><a href="{{ event.url }}">{{ title}}</a>, at {{ location }} ({{ event.date | date: "%B '%y"}})</li>
+  <li><b>{{ title}}</b>, at {{ location }} ({{ event.date | date: "%B '%y"}})</li>
 {% endfor %}
-  <li><a href="/events">... more past events</a></li>
+  <li><a href="#">... more past events</a></li>
 </ul>
 {% endif %}

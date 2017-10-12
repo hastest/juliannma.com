@@ -12,7 +12,9 @@ Contact Juliann Ma
   </div>
 
   <div class="narrow_thirds_tile">
-  <a href="/calendar.ics">Calendar</a> feed of my public events.
+    <a href="https://www.youtube.com/channel/UCfta2IWh2nIcr0bzbLk3FPg">Youtube</a>,
+    <a href="https://twitter.com/juliann_ma">Twitter</a>,
+    <a href="/calendar.ics">Calendar</a> feed of my public events.
   </div>
 </div>
 
@@ -24,9 +26,3 @@ Looking forward to your note!
 Yours,
 
 &nbsp;&nbsp; - Juliann Ma
-
-<div class="flex-ribbon">
-  <div class="narrow_thirds_tile"><a href="https://www.youtube.com/channel/UCfta2IWh2nIcr0bzbLk3FPg">Youtube</a></div>
-  <div class="narrow_thirds_tile"><a href="https://twitter.com/juliann_ma">Twitter</a></div>
-  <div class="narrow_thirds_tile">Facebook org: make one with facebook@juliannma.com!</div>
-</div>
