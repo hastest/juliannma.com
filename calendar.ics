@@ -1,5 +1,6 @@
 ---
 layout: null
+permalink: /calendar.ics
 ---
 BEGIN:VCALENDAR
 VERSION:2.0
@@ -10,8 +11,8 @@ BEGIN:VEVENT
 UID:{{ event.date | date: "%Y%m%d" }}@juliannma.com
 CLASS:PUBLIC
 SUMMARY:{{ event.title | xml_escape }}
-DTSTART:{{ post.date | date: "%Y%m%d" }}T170000Z
-DTEND:{{ post.date | date: "%Y%m%d" }}T190000Z
+DTSTART:{{ event.date | date: "%Y%m%d" }}T170000Z
+DTEND:{{ event.date | date: "%Y%m%d" }}T190000Z
 DTSTAMP:{{ 'now' | date: "%Y%m%d" }}T170000Z
 DESCRIPTION:{{ event.content | xml_escape }}
 URL:{{ event.url | prepend: site.baseurl | prepend: site.url }}
