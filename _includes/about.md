@@ -15,4 +15,4 @@ I have performed in a variety of venues, large and small, including Bing Concert
 
 In my spare time, I write, paint, sail, and find inspiration from nature and my city.
 
-I invite you to attend one of my [upcoming events](#events), and [contact me](#contact) if you have not yet found  private piano instructor.
+I invite you to attend one of my [upcoming events](#events), and [contact me](#contact) if you seek a [private piano instructor](/lessons).
