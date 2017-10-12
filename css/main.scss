@@ -34,11 +34,7 @@ $on-laptop:        800px;
 ;
 
 // Footer style
-html {
-  height: 100%;
-}
-
-body {
+html, body {
   height: 100%;
 }
 
@@ -48,24 +44,24 @@ a {
   text-decoration: none;
 }
 
-.section {
+.page {
   color: #D0D0D0;
 }
 
-.section p {
+.page p {
   line-height: 160%;
   letter-spacing:+0.05em;
   //letter-spacing: 0em;
 }
 
-.section > p, .section > h1 {
+.page > p, .page > h1 {
   margin-left: 2em;
   margin-right: 2em;
   margin-top: 0.25em;
   margin-bottom: 0;
 }
 
-.section > h1 {
+.page > h1 {
   text-align: center;
   margin: 1em;
 }
@@ -219,4 +215,5 @@ hr {
 
 .page {
   height: 100%;
+  margin: 0;
 }

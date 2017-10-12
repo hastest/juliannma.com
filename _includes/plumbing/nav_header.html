@@ -8,7 +8,7 @@
 <nav>
   <ul class="nav_menu" id="menu">
     {% for section in sections_array %}
-    <li data-menuanchor="{{ section }}"><a class="page-link" href="#{{ section }}">{{ section | capitalize }}</a></li>
+      <li data-menuanchor="{{ section }}"><a class="page-link" href="{{ include.prefix }}#{{ section }}">{{ section | capitalize }}</a></li>
     {% endfor %}
     <li class="icon">
       <a href="javascript:void(0);" onclick="toggle_nav()">&#9776;</a>
