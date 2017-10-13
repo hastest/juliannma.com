@@ -5,8 +5,6 @@ title: Private Piano Instruction
 permalink: /events/
 ---
 
-{% include plumbing/nav_header.html prefix="/" sections="home,about,media,events,contact" %}
-
 Events
 ======
 

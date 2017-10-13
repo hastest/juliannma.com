@@ -5,12 +5,10 @@ title: Private Piano Instruction
 permalink: /lessons/
 ---
 
-{% include plumbing/nav_header.html prefix="/" sections="home,about,media,events,contact" %}
-
 Private Piano Instruction
 =========================
 
-I maintain a studio of private students in New York, and offer Beginner, Intermediate, Advanced, and Master Instruction in Piano with a personalized curriculum at yoour residence with your piano.
+I maintain a studio of private students in New York, and offer Beginner, Intermediate, Advanced, and Master Instruction in Piano with a personalized curriculum at your residence with your piano.
 For recurring lessons, my standard rate for is **$100/hour** payable as a monthly fee, with a pre-arranged schedule.
 I request a *1 hour minimum per lesson* in order to justify the commute, and charge in *30 minute* increments.
 

@@ -126,13 +126,14 @@ blockquote cite:before {
 }
 
 .narrow_thirds_tile {
-  text-align: center;
+  text-align: left;
   width: calc(33.33% - 21px);
   min-width: 10em;
   //background-color: #333;
   flex-grow: 1;
   margin-left: 0.5em;
   margin-right: 0.5em;
+  margin-bottom: 1em;
 }
 
 .thirds_tile {
