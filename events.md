@@ -1,3 +1,12 @@
+---
+layout: page
+title: Private Piano Instruction
+# subtitle: hi!
+permalink: /events/
+---
+
+{% include plumbing/nav_header.html prefix="/" sections="home,about,media,events,contact" %}
+
 Events
 ======
 
@@ -37,9 +46,9 @@ Events
 
 
 {% if past_events != empty %}
-### Notable past events
+### Past events
 <ul>
-{% for event in past_events limit:7 %}
+{% for event in past_events %}
   {% if event.short_title %}
     {% assign title = event.short_title %}
   {% else %}
@@ -52,9 +61,20 @@ Events
     {% assign location = event.location %}
   {% endif %}
 
-  <li><b>{{ title}}</b>, at {{ location }} ({{ event.date | date: "%B '%y"}}).</li>
+  {% assign excerpt = event.content %}
+  {% assign id = event.id | replace_first: '/', '' | replace: '/', '-'%}
+
+  <li>
+    <b>
+      {% if excerpt %}<a onclick='toggle_block("{{ id }}")'>{{ title }}</a>{% else %}{{ title }}{% endif %}
+    </b>
+    , at {{ location }}
+    ({{ event.date | date: "%B '%y"}}).
+    {% if excerpt %}
+      <span class="event-detail hidden" id="{{ id }}">{{ excerpt }}<a onclick='toggle_block("{{ id }}")'>(... hide detail)</a></span>
+    {% endif %}
+  </li>
 {% endfor %}
-  <li><a href="/events/">... more past events</a></li>
 </ul>
 {% endif %}
 

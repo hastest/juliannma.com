@@ -17,3 +17,5 @@ Program:
 - BACH Chromatic Fantasia and Fugue in D Minor, BWV 903
 - THOMAS ADÈS Darknesse Visible
 - STRAVINSKY The Firebird (arr. Agosti)
+
+Tickets: $30
