@@ -7,7 +7,7 @@ I extend the language of classical music through my collaborative, multicultural
 > <cite> Jason Underpants, <a href="#">Times</a></cite>
 
 I graduated with honors from Stanford Univerisity with degrees in music and creative writing, and attended _École Normale Supérieure de Musique de Paris_ ("Alfred Cortot") as a Fulbright scholar.
-I then earned my master of music degree at the Juliard school of music
+I then earned my master of music degree at the Juilliard school of music
 and completed a doctorate degree at Mannes (the New School) with a focus on entrepeneurship.
 
 I currently teach music at Avenues The World School, and maintain a studio of private students in new york.
