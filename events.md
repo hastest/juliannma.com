@@ -46,7 +46,7 @@ Events
 
 
 {% if past_events != empty %}
-### Past events
+### Notable past events
 <ul>
 {% for event in past_events %}
   {% if event.short_title %}
