@@ -6,7 +6,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:{{ site.title | xml_escape }}
 METHOD:PUBLISH
-{% for event in site.events limit:10 %}
+
+{% assign upcoming_events = site.events | where_exp: "event", "event.date >= site.time" | sort 'date' | reverse %}
+{% for event in upcoming_events %}
+BEGIN:VEVENT
+UID:{{ event.date | date: "%Y%m%d" }}@juliannma.com
+CLASS:PUBLIC
+SUMMARY:{{ event.title | xml_escape }}
+DTSTART:{{ event.date | date: "%Y%m%d" }}T170000Z
+DTEND:{{ event.date | date: "%Y%m%d" }}T190000Z
+DTSTAMP:{{ 'now' | date: "%Y%m%d" }}T170000Z
+DESCRIPTION:{{ event.content | xml_escape }}
+URL:{{ event.url | prepend: site.baseurl | prepend: site.url }}
+{% if event.location %}LOCATION:{{ event.location }}{% endif %}
+{% if event.geo_coordinates %}GEO:{{ event.geo_coordinates }}{% endif %}
+{% if event.organizer %}ORGANIZER:CN="{{ event.organizer.name }}"MAILTO:{{ event.organizer.email }}{% endif %}
+END:VEVENT
+{% endfor %}
+
+{% assign past_events = site.events | where_exp: "event", "event.date < site.time" | sort 'date' | reverse %}
+{% for event in past_events limit:10 %}
 BEGIN:VEVENT
 UID:{{ event.date | date: "%Y%m%d" }}@juliannma.com
 CLASS:PUBLIC
