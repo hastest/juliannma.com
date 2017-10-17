@@ -52,9 +52,21 @@ Events
     {% assign location = event.location %}
   {% endif %}
 
-  <li><b>{{ title}}</b>, at {{ location }} ({{ event.date | date: "%B '%y"}}).</li>
+  {% assign excerpt = event.content %}
+  {% assign id = event.id | replace_first: '/', '' | replace: '/', '-'%}
+
+  <li>
+    <b>
+      {% if excerpt %}<a onclick='toggle_block("{{ id }}")'>{{ title }}</a>{% else %}{{ title }}{% endif %}
+    </b>
+    , at {{ location }}
+    ({{ event.date | date: "%B '%y"}}).
+    {% if excerpt %}
+      <span class="event-detail hidden" id="{{ id }}">{{ excerpt }}<a onclick='toggle_block("{{ id }}")'>(... hide detail)</a></span>
+    {% endif %}
+  </li>
 {% endfor %}
-  <li><a href="/events/">... more past events</a></li>
+  <li><a href="/events/">... older events</a></li>
 </ul>
 {% endif %}
 

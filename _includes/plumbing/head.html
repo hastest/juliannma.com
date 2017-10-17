@@ -20,7 +20,7 @@
   <!-- Fonts -->
   <link href='https://fonts.googleapis.com/css?family=Lato|Oswald' rel='stylesheet' type='text/css'>
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}">
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="images/favicon.ico">
 </head>
