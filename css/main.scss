@@ -219,6 +219,23 @@ hr {
   padding: 0.5vh 2em;
 }
 
+.title_announcement {
+  position: absolute;
+  bottom: 10%;
+  left: 10%;
+  color: #FFF;
+  //background-color: #333;
+  text-shadow: 2px 2px 4px #333;
+  text-align: center;
+  margin: auto;
+  h1 {
+    text-align: center;
+    margin: 2px;
+  }
+  display: inline-block;
+  padding: 0.5vh 2em;
+}
+
 .scroll_arrow {
   display: block;
   height: 64px;

@@ -9,6 +9,16 @@ permalink: /
       <h1>Juliann Ma</h1>
       Pianist ℘ Interdisciplinary Artist
     </div>
+    <div class="title_announcement">
+      <h1><a href="#events">Rise, Awaken</a></h1>
+      <p>
+        at Carnegie Hall, NYC
+        <br>
+        Thursday, Nov 9, 07:30PM.
+        <br>
+        <a href="https://www.carnegiehall.org/SiteCode/Purchase/SeatSelectionPerformance.aspx?startWorkflow=true&quickBuy=false&quantity=1&eventId=31030">RSVP</a>
+      </p>
+    </div>
     <div class="bottom"><a class="scroll_arrow" href="#about"></a></div>
   </div>
   <div class="section page" style="background-color:#2C292F" id="about">
