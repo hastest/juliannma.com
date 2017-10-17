@@ -32,6 +32,7 @@ permalink: /
 
 {% include plumbing/nav_header.html sections="home,about,media,events,contact" %}
 
+<!--
 <script>
   fullpage.initialize('#fullpage', {
     anchors: ['home', 'about', 'media', 'events', 'contact'],
@@ -39,3 +40,4 @@ permalink: /
     css3:true
   });
 </script>
+-->
