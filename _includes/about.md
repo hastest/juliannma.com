@@ -1,18 +1,18 @@
 # Juliann Ma
 
-Hailing from the San Francisco Bay Area, I work toward making art music accessible and available to all.
-I extend the language of classical music through my collaborative, multicultural projects which combine a diverse narrative of music, dance, and drama into a seamless and modern storytelling medium.
+Hailing from the San Francisco Bay Area, Juliann Ma works toward making art music accessible and available to all.
+She extends the language of classical music through her collaborative, multicultural projects which combine a diverse narrative of music, dance, and drama into a seamless and modern storytelling medium.
 
-> I basically died of awesome.
-> <cite> Jason Underpants, <a href="#">Times</a></cite>
+> "Imaginative, charming, brilliant. She’s always been a wonderful artist"
+> <cite><a href="https://en.wikipedia.org/wiki/Jerome_Lowenthal">Jerome Lowenthal</a></cite>
 
-I graduated with honors from Stanford Univerisity with degrees in music and creative writing, and attended _École Normale Supérieure de Musique de Paris_ ("Alfred Cortot") as a Fulbright scholar.
-I then earned my master of music degree at the Juilliard school of music
+Juliann graduated with honors from Stanford Univerisity with degrees in music and creative writing, and attended _École Normale Supérieure de Musique de Paris_ ("Alfred Cortot") as a Fulbright scholar.
+She then earned her master of music degree at the Juilliard school of music
 and completed a doctorate degree at Mannes (the New School) with a focus on entrepeneurship.
 
-I currently teach music at Avenues The World School, and maintain a studio of private students in new york.
-I have performed in a variety of venues, large and small, including Bing Concert Hall, Gilder Lehrman Hall, New Jersey Performing Arts Center, Dôme des Grandes Écuries, Hitachi Systems Hall at Sendai, Konzertsaal Bundesallee, Salle Cortot, Schoenberg Haus, Three Palms Montego Bay, and Carnegie.
+Juliann currently teaches music at Avenues The World School, and maintains a studio of private students in New York.
+She has performed in a variety of venues, large and small, including Bing Concert Hall, Gilder Lehrman Hall, New Jersey Performing Arts Center, Dôme des Grandes Écuries, Hitachi Systems Hall at Sendai, Konzertsaal Bundesallee, Salle Cortot, Schoenberg Haus, Three Palms Montego Bay, and Carnegie.
 
-In my spare time, I write, paint, sail, and find inspiration from nature and my city.
+In her spare time, Juliann writes, paints, sails, and finds inspiration from nature and her city.
 
-I invite you to attend one of my [upcoming events](#events), and [contact me](#contact) if you seek a [private piano instructor](/lessons).
+You are invited to attend one of Juliann's [upcoming events](#events), and [contact her](#contact) if you seek a [private piano instructor](/lessons).
