@@ -4,7 +4,7 @@ Media and Press
 <div class="flex-ribbon flex-ribbon-widow">
   <div class="thirds_tile"><h2>
     <a href="https://static.hackartscience.com/juliannma/juliann_ma_press_kit.zip">Press Kit</a></h2>
-    <p>press photographs, CV, biography</p>
+    <p>press photographs, biography, CV</p>
   </div>
   <div class='thirds_tile'>
     <h2>2016 Reel</h2>
@@ -16,7 +16,7 @@ Media and Press
   </div>
   <div class="thirds_tile">
     <h2><a href="/seas/">SEAS</a></h2>
-    <p>"Sustainable Environment through the Arts and Sciences", Juliann's original concert and music video project featuring Juilliard choreographers performing alongside Juliann at the piano and telling, through movement and wordless sound, the story of climate change and human impact on nature.</p>
+    <p>"<i>Sustainable Environment through the Arts and Sciences</i>", Juliann's original concert and music video project featuring Juilliard choreographers performing alongside Juliann at the piano and telling, through movement and wordless sound, the story of climate change and human impact on nature.</p>
   </div>
 </div>
 

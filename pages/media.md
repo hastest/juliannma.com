@@ -12,23 +12,32 @@ New Music
 ---------
 <div class="flex-ribbon">
   <div class='thirds_tile'>
-    <h3>Trio Op. 4 (2014)</h3>
+    <h3>Trio Op. 4</h3>
     <p>
       <a href="http://www.alexanderliebermann.com/music/trio-op-4/">(preview)</a>
       <br>
-      Composer: Alexander Liebermann
+      Composer: Alexander Liebermann (2014)
       <br>
       Performed by Onadek Winan (soprano) and Juliann Ma (piano)
     </p>
   </div>
   <div class='thirds_tile'>
-    <h3>Rondeaux Op. 3 (2013)</h3>
+    <h3>Rondeaux Op. 3</h3>
     <p>
       <a href="http://www.alexanderliebermann.com/music/rondeaux-op-3/">(preview)</a>
       <br>
-      Composer: Alexander Liebermann
+      Composer: Alexander Liebermann (2013)
       <br>
       Performed by Ani Bukujian (violin), Madeleine Bouïssou (cello), and Juliann Ma (piano)
+    </p>
+  </div>
+  <div class='thirds_tile'>
+    <h3>Echos dans la vallée</h3>
+    <div class='embed-container'><iframe width="100%" height="64px" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347342257&amp;color=%231eaedb&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;&show_artwork=false&amp;sharing=false&amp;&visual=true"></iframe></div>
+    <p>
+      Composer: Édith Lejet (2012)
+      <br>
+      Performed by Wen-Jing Yeh (clarinet), Kumiko Wada (violin), and Juliann Ma (piano)
     </p>
   </div>
 </div>
@@ -52,7 +61,7 @@ Improvisation
 Solo
 ----
 
-<div class="flex-ribbon flex-ribbon-widow">
+<div class="flex-ribbon">
   <div class='thirds_tile'>
     <h3>2016 Reel</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/bUocSsoBr_U?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
@@ -61,7 +70,6 @@ Solo
     <h3>Peanuts Gallery</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/ui48Zbuq06Y?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
   </div>
-
   <div class='thirds_tile'>
     <h3>Beethoven</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/W0XPSiiDgIw?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
@@ -118,7 +126,7 @@ Chamber
 Concerto
 --------
 
-<div class="flex-ribbon flex-ribbon-widow">
+<div class="flex-ribbon">
   <div class='thirds_tile'>
     <h3>2008</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/dhCoORprIGk?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
@@ -138,16 +146,9 @@ Concerto
 Projects
 --------
 
-<div class="flex-ribbon">
-  <div class="thirds_tile">
-    <h3><a href="/seas/">SEAS</a></h3>
-    <p>"Sustainable Environment through the Arts and Sciences", Juliann's original concert and music video project featuring Juilliard choreographers performing alongside Juliann at the piano and telling, through movement and wordless sound, the story of climate change and human impact on nature.</p>
-  </div>
-  <div class="thirds_tile">
-    <h3>Peanut Gallery????</h3>
-    <p>Blurb</p>
-  </div>
-</div>
+### [SEAS: Sustainable Environment through the Arts and Sciences](/seas/)
+
+Juliann's original concert and music video project featuring Juilliard choreographers performing alongside Juliann at the piano and telling, through movement and wordless sound, the story of climate change and human impact on nature.
 
 Press Kit
 ---------

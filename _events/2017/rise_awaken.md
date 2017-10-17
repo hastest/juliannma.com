@@ -18,4 +18,4 @@ Program:
 - THOMAS ADÈS Darknesse Visible
 - STRAVINSKY The Firebird (arr. Agosti)
 
-Tickets: $30
+Tickets: $30; [RSVP here]({{page.rsvp_link}})

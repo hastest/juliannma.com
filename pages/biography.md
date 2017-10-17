@@ -1,15 +1,19 @@
 ---
 layout: page
-title: Biography
-# subtitle: ???
-permalink: /biography/
+title: Blast from the Past
+# subtitle: hi!
+permalink: /bio/
 ---
+
+Juliann Ma's Biography
+======================
 
 Often lauded as an “audience favorite” ( –Pianomania Festival), 25-year-old pianist Juliann Ma has performed across the United States, Austria, France, Germany, Jamaica, and the Netherlands. Juliann has been invited to give solo, chamber, collaborative, and interdisciplinary concerts in such venues as the American Church in Paris, Arnold Schönberg Center, Cantor Arts Center, British Consul General Residence (San Francisco), Dôme des Grandes Ecuries (Chantilly), Gilder Lerman Hall (Morgan Library & Museum), Herbst Theater, Konzertsaal Bundesallee, New Jersey Performing Arts Center, Salle Cortot, and Weill Recital Hall (Carnegie Hall). She enjoys traveling and experiencing different cultures: in 2011-2012, she was based in Paris as a Fulbright Scholar; currently, she resides in New York City.
 
 
 Education
 ---------
+
 Born and raised in the San Francisco Bay Area, Juliann began performing classical piano at the age of four, making her orchestral debut with the El Camino Youth Symphony at the age of eight. At fifteen, Juliann was the featured soloist with the California Youth Symphony and San Francisco Chamber Orchestra, and became a regular performing artist at the Junior Bach Festival and guest at the Carmel Bach Festival and Pro-Arte Symphony’s Pianomania Festival. In 2011, Juliann completed her Bachelor of Music degree from Stanford University on full scholarship, graduating with honors and distinction and a minor in Creative Writing. She was awarded the prestigious Robert M. Golden Medal for her outstanding contributions to the Humanities and the Arts to the Stanford community. Following her time at Stanford, Juliann earned her Diplôme d’Exécution de Piano et de Musique de Chambre from École Normale Supérieure de Musique de Paris «Alfred Cortot», during her Fulbright studies. Currently, Juliann is completing her Master of Music degree at The Juilliard School in New York as a student of Hung Kuan Chen, Jerome Lowenthal, and Matti Raekallio.
 
 

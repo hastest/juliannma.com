@@ -62,7 +62,11 @@ a {
   margin-bottom: 0;
 }
 
-.page > h1 {
+.page p {
+  margin-bottom: 2ex;
+}
+
+.page > h1, .page > h2 {
   text-align: center;
   margin: 1em;
 }
@@ -72,6 +76,7 @@ blockquote {
   color: #FFFFFF;
   padding: 1em;
   font-style: italic;
+  margin-bottom: inherit;
 }
 
 blockquote > p {
@@ -178,6 +183,7 @@ blockquote cite:before {
   text-align: center;
   position: absolute;
   width: 100%;
+  left: 0;
   bottom: 0;
 }
 
@@ -202,6 +208,10 @@ hr {
   height: 100%;
 }
 
+main > .main_photo {
+  min-height: 500px;
+}
+
 .title_card {
   position: absolute;
   top: 50%;
@@ -221,7 +231,7 @@ hr {
 
 .title_announcement {
   position: absolute;
-  bottom: 10%;
+  bottom: 5%;
   left: 10%;
   color: #FFF;
   //background-color: #333;
