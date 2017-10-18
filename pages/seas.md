@@ -11,7 +11,7 @@ SEAS: Sustainable Environment through the Arts and Sciences
 An original concert and video work telling, through movement and wordless sound, the story of climate change and human impact on nature.
 SEAS brings together eclectic and environmentally-minded artists and scientists to create unique and immersive experiences to emphasize human impact on nature. Inspired by a desire to spark conversations among unlikely collaborators and tackle global issues, SEAS manifests stories drawn from scientific research on stage, through uniquely interdisciplinary performances and film.
 
-<div class='embed-container'><iframe src="https://player.vimeo.com/video/238681737" width="640" height="207" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div class='embed-container embed-container-wide'><iframe src="https://player.vimeo.com/video/238681737" width="640" height="207" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 SEAS marries written word, music, and dance in a seamless medium, SEAS presents ***Rise, Awaken***, their first music video. Giving voice to species endangered by our continued exploitation of our environment. It is Juliann’s hope that these works will encourage audiences to care for the home they share with all life on Earth, and take an active role in safeguarding it for the future via outreach, education, and other support for conservation efforts.
 
@@ -24,18 +24,29 @@ Seating is limited; please [RSVP here](https://www.carnegiehall.org/SiteCode/Pur
 Previously, SEAS presented their first Open Workshop on November 2016, exhibiting their unique music and choreography to an open audience in an interactive performance.
 
 ## SEAS Contributors
-- Juliann Ma, founding director, producer, choreographer, pianist
-- TODO: WHO IS YOUR SCIENCE CREDIT?
-- Kara Chan, choreographer, dancer
-- Angela Falk, choreographer, dancer
-- Peter Farrow, choreographer, dancer
-- Jesse Obremski, choreographer, dancer
-- Miranda Quinn, choreographer, dancer
-- Thomas Woodman, choreographer, dancer
-- Soaa Kim, videographer
+
+**Juliann Ma**, founding director, producer, choreographer, costume designer, pianist
+
+#### Video Production:
+- **Aaron Ross** (Audio)
+- **SooA Kim** (Video artist)
+
+#### Dance Ensemble, Choreography:
+- **Kara Chan** (Soloist)
+- **Angela Falk**
+- **Peter Farrow**
+- **Eliza Jane Jones**
+- **Miranda Quinn** (Team Leader)
+- **Thomas Woodman** (Team Leader)
+
+#### Consultants:
+- **Jared Brewer** (environmental research)
+- **Hope Dougherty**, **Casey Hess**, and **Ben Simoens** (choreography)
 
 ## Support
 
-SEAS is made possible by the generous support of (Grant info? Pro Musics ??? / Others?), the Marin Alsop’s Entrepreneurship Award, and Juliann's supporters at the Mannes, Juilliard, Parsons, and Stanford University.
+SEAS is funded through generous sponsorship by Pro Musics International via a Father Merlet Grant, the Marin Alsop’s Entrepreneurship Award.
+
+Furthermore, this work is made possible through the general support of the following individuals and organizations: Stefania Bulbarella, Norma Deull, Stanislav Fridman, John Haag, Tanya Kalmanovitch, **The New School for Music**, Ilia Lebedev, Qing Qing Miao, **Pro Musicis International**, Lara Saldanha, J.Y. Song, James Waldo, and **Yamaha Artist Services, Inc**.
 
 Please [contact Juliann Ma](/#contact) if you wish to support this work.

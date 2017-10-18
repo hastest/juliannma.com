@@ -8,25 +8,53 @@ permalink: /media/
 Juliann Ma's Performances and Press
 ===================================
 
+Interdisciplinary Projects
+--------------------------
+
+<div class="flex-ribbon">
+  <div class='thirds_tile'>
+    <h3>Silk Road</h3>
+    <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/SXaiuwTGjGE?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
+    <p>
+      Mohini (Melody by Sandeep Das, arrangement and performed by Tirakitataka)
+    </p>
+  </div>
+  <div class='thirds_tile'>
+    <h3><a href="/seas/">SEAS: Sustainable Environment through the Arts and Sciences</a></h3>
+    <p>
+      "<i>Sustainable Environment through the Arts and Sciences</i>",
+      Juliann's original concert and music video project featuring Juilliard choreographers performing alongside Juliann at the piano and telling, through movement and wordless sound, the story of climate change and human impact on nature.
+    </p>
+  </div>
+</div>
+
+Press Kit
+---------
+
+- Long biography (1 page, PDF)
+- Short biography (250 words)
+- Brief (100 words)
+- Press photographs
+
 New Music
 ---------
 <div class="flex-ribbon">
   <div class='thirds_tile'>
     <h3>Trio Op. 4</h3>
+    <div class='embed-container'><iframe width="100%" height="64px" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347423390&amp;color=%231eaedb&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;&show_artwork=false&amp;sharing=false&amp;&visual=true"></iframe></div>
     <p>
-      <a href="http://www.alexanderliebermann.com/music/trio-op-4/">(preview)</a>
       <br>
-      Composer: Alexander Liebermann (2014)
+      Composer: <a href="http://www.alexanderliebermann.com/music/trio-op-4/">Alexander Liebermann</a> (2014)
       <br>
       Performed by Onadek Winan (soprano) and Juliann Ma (piano)
     </p>
   </div>
   <div class='thirds_tile'>
     <h3>Rondeaux Op. 3</h3>
+    <div class='embed-container'><iframe width="100%" height="64px" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347423664&amp;color=%231eaedb&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;&show_artwork=false&amp;sharing=false&amp;&visual=true"></iframe></div>
     <p>
-      <a href="http://www.alexanderliebermann.com/music/rondeaux-op-3/">(preview)</a>
       <br>
-      Composer: Alexander Liebermann (2013)
+      Composer: <a href="http://www.alexanderliebermann.com/music/rondeaux-op-3/">Alexander Liebermann</a> (2013)
       <br>
       Performed by Ani Bukujian (violin), Madeleine Bouïssou (cello), and Juliann Ma (piano)
     </p>
@@ -106,62 +134,46 @@ Solo
   </div>
 </div>
 
-Chamber
+Chamber, Concerto
 -------
 
 <div class="flex-ribbon">
   <div class='thirds_tile'>
-    <h3>2013</h3>
+    <h3>Brahms</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/bUocSsoBr_U?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
     <p>
       Brahms, Piano Quartet in C minor Op. 60
       <br>
       I. Allegro non troppo
       <br>
-      Performed by Haeji Kim (violin), Katy Ho (viola), Jung Hsuan Ko (cello), and Juliann Ma (piano)
-    </p>
-  </div>
-</div>
-
-Concerto
---------
-
-<div class="flex-ribbon">
-  <div class='thirds_tile'>
-    <h3>Silk Road</h3>
-    <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/SXaiuwTGjGE?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
-    <p>
-      Mohini (Melody by Sandeep Das, arrangement and performed by Tirakitataka)
+      Performed by Haeji Kim (violin), Katy Ho (viola), Jung Hsuan Ko (cello), and Juliann Ma (piano), 2013
     </p>
   </div>
   <div class='thirds_tile'>
-    <h3>2008</h3>
+    <h3>Rachmaninoff</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/dhCoORprIGk?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
     <p>
       Rachmaninoff, Piano Concerto No. 2
       <br>
       I. Moderato.
       <br>
-      Music Teachers Association of California State Piano Concerto Competition Finals
+      Music Teachers Association of California State Piano Concerto Competition Finals, 2008
     </p>
-  </div>
-  <div class='thirds_tile'>
-    <h3><a href="/blastfromthepast">Blast from the Past</a></h3>
   </div>
 </div>
 
-Projects
---------
+Blast from the Past
+-------------------
 
-### [SEAS: Sustainable Environment through the Arts and Sciences](/seas/)
-
-Juliann's original concert and music video project featuring Juilliard choreographers performing alongside Juliann at the piano and telling, through movement and wordless sound, the story of climate change and human impact on nature.
-
-Press Kit
----------
-
-- Long biography (1 page, PDF)
-- Short biography (250 words)
-- Brief (100 words)
-- Press photographs
-- ???
+<div class="flex-ribbon">
+  <div class='thirds_tile'>
+    <h2>1996</h2>
+    <p>Juliann Ma plays J.S. Bach's E flat and G Major Marches (1996)</p>
+    <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/6-2f9-CxWjM?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
+  </div>
+  <div class='thirds_tile'>
+    <h2>1998</h2>
+    <p>Juliann Ma plays J.S. Bach's Piano Concerto in F Minor (1998)</p>
+    <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/69xmCWKCjIU?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
+  </div>
+</div>
