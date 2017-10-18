@@ -1,13 +1,13 @@
 # Juliann Ma
 
-Hailing from the San Francisco Bay Area, Juliann Ma works toward making art music accessible and available to all.
-She extends the language of classical music through her collaborative, multicultural projects which combine a diverse narrative of music, dance, and drama into a seamless and modern storytelling medium.
-
 > "Imaginative, charming, brilliant. She’s always been a wonderful artist"
-> <cite><a href="https://en.wikipedia.org/wiki/Jerome_Lowenthal">Jerome Lowenthal</a>, Piano, <a href="https://www.juilliard.edu/music/faculty/lowenthal-jerome">The Juilliard School</a></cite>
+> <cite><a href="https://en.wikipedia.org/wiki/Jerome_Lowenthal">Jerome Lowenthal</a>, Professor, <a href="https://www.juilliard.edu/music/faculty/lowenthal-jerome">The Juilliard School</a></cite>
 >
 > "A dynamo who has an artistic vision and can turn it into a reality"
 > <cite>Margaret M. Lioi, CEO, <a href="http://www.chamber-music.org/">Chamber Music America</a></cite>
+
+Hailing from the San Francisco Bay Area, Juliann Ma works toward making art music accessible and available to all.
+She extends the language of classical music through her collaborative, multicultural projects which combine a diverse narrative of music, dance, and drama into a seamless and modern storytelling medium.
 
 Juliann graduated with honors from Stanford Univerisity with degrees in music and creative writing, and attended _École Normale Supérieure de Musique de Paris_ ("Alfred Cortot") as a Fulbright scholar.
 She then earned her master of music degree at The Juilliard School

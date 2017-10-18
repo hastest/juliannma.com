@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Private Piano Instruction
+title: Concerts and Gatherings
 # subtitle: hi!
-permalink: /events/
+permalink: /concerts-gatherings/
 ---
 
-Events
-======
+Concerts and Gatherings
+=======================
 
 {% assign upcoming_events = site.events | where_exp: "event", "event.date >= site.time" | sort 'date' | reverse %}
 {% assign past_events = site.events | where_exp: "event", "event.date < site.time" | sort 'date' | reverse %}
 
 {% if upcoming_events != empty %}
-### Upcoming events
+### Upcoming
 <ul>
 {% for event in upcoming_events %}
   {% if event.short_title %}
@@ -27,8 +27,11 @@ Events
     {% assign location = event.location %}
   {% endif %}
 
-  {% assign excerpt = event.content %}
   {% assign id = event.id | replace_first: '/', '' | replace: '/', '-'%}
+
+  {% if event.content.size > 2 %}
+    {% assign excerpt = event.content %}
+  {% endif %}
 
   <li>
     <span class="calendar_tile">{{ event.date | date: "%-A, %b %-d, %I:%M%p"}}, </span>
@@ -44,7 +47,7 @@ Events
 
 
 {% if past_events != empty %}
-### Notable past events
+### Notable
 <ul>
 {% for event in past_events %}
   {% if event.short_title %}
@@ -59,8 +62,13 @@ Events
     {% assign location = event.location %}
   {% endif %}
 
-  {% assign excerpt = event.content %}
   {% assign id = event.id | replace_first: '/', '' | replace: '/', '-'%}
+
+  {% if event.content.size > 2 %}
+    {% assign excerpt = event.content %}
+  {% else %}
+    {% assign excerpt = false %}
+  {% endif %}
 
   <li>
     <b>

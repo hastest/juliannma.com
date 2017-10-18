@@ -19,17 +19,17 @@ permalink: /
         <a href="https://www.carnegiehall.org/SiteCode/Purchase/SeatSelectionPerformance.aspx?startWorkflow=true&quickBuy=false&quantity=1&eventId=31030">RSVP</a>
       </p>
     </div>
-    <div class="bottom"><a class="scroll_arrow" href="#about"></a></div>
+    <div class="bottom"><a class="scroll_arrow" href="#bio"></a></div>
   </div>
-  <div class="section page" style="background-color:#2C292F" id="about">
+  <div class="section page" style="background-color:#2C292F" id="biography">
     {% capture raw_about %}{% include about.md %}{% endcapture %}
     {{ raw_about | markdownify }}
   </div>
-  <div class="section page" style="background-color:#140E1B" id="media">
+  <div class="section page" style="background-color:#140E1B" id="work">
     {% capture raw_media %}{% include media.md %}{% endcapture %}
     {{ raw_media | markdownify }}
   </div>
-  <div class="section page" style="background-color:#1B131A" id="events">
+  <div class="section page" style="background-color:#1B131A" id="concerts">
     {% capture raw_events %}{% include events.md %}{% endcapture %}
     {{ raw_events | markdownify }}
   </div>
@@ -40,12 +40,12 @@ permalink: /
   </div>
 </main>
 
-{% include plumbing/nav_header.html sections="home,about,media,events,contact" %}
+{% include plumbing/nav_header.html sections="biography,work,concerts,contact" %}
 
 <!--
 <script>
   fullpage.initialize('#fullpage', {
-    anchors: ['home', 'about', 'media', 'events', 'contact'],
+    anchors: ['home', 'bio', 'media', 'concerts', 'contact'],
     menu: '#menu',
     css3:true
   });
