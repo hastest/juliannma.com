@@ -244,6 +244,7 @@ blockquote cite:before {
   }
   display: inline-block;
   padding: 0.5vh 2em;
+  z-index: 99;
 }
 
 .page {

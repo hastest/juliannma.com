@@ -19,7 +19,7 @@ permalink: /
         <a href="https://www.carnegiehall.org/SiteCode/Purchase/SeatSelectionPerformance.aspx?startWorkflow=true&quickBuy=false&quantity=1&eventId=31030">RSVP</a>
       </p>
     </div>
-    <div class="bottom"><a class="scroll_arrow" href="#bio"></a></div>
+    <div class="bottom"><a class="scroll_arrow" href="#biography"></a></div>
   </div>
   <div class="section page" style="background-color:#2C292F" id="biography">
     {% capture raw_about %}{% include about.md %}{% endcapture %}

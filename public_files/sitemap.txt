@@ -5,7 +5,9 @@ permalink: /sitemap.txt
 
 {{ site.url }}/
 {{ site.url }}/bio
-{{ site.url }}/events
+{{ site.url }}/concerts-gatherings
+{{ site.url }}/performances
 {{ site.url }}/lessons
-{{ site.url }}/media
 {{ site.url }}/seas
+{{ site.url }}/performances
+{{ site.url }}/press

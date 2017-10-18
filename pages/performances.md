@@ -55,11 +55,18 @@ New Tides
   <div class='thirds_tile'>
     <h3>Peanuts Gallery</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/ui48Zbuq06Y?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
+    <p>
+      Peanuts Gallery Piano Concerto:
+      an original narrative which brings his cartoon characters and Zwilich's subtle musical nuances to life.
+    </p>
   </div>
   <!-- Carnaval (excerpt from Video Reel 28:37 -> 32:39) ?start=1717&end=1959& -->
   <div class='thirds_tile'>
     <h3>Carnaval</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/bUocSsoBr_U?start=1717&end=1959&controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
+    <p>
+      Robert Schumann, Carnaval Op. 9 more selections~ w/ live illustration* as written by Ma and choreographed by Juilliard dancers.
+    </p>
   </div>
   <!-- Improv on 4 notes -->
   <div class='thirds_tile'>
@@ -87,6 +94,9 @@ New Tides
   <div class='thirds_tile'>
     <h3>Sur Un Même Accord</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/bUocSsoBr_U?start=798&end=1016&controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
+    <p>
+      Henri Dutilleux, Prélude 2: Sur un même accord.
+    </p>
   </div>
   <!-- and SoundCloud audio clips -->
   <div class='thirds_tile'>
@@ -125,13 +135,13 @@ Blast from the Past
 <div class="flex-ribbon">
   <div class='thirds_tile'>
     <h2>1996</h2>
-    <p>Juliann Ma plays J.S. Bach's E flat and G Major Marches</p>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/6-2f9-CxWjM?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
+    <p>Juliann Ma plays J.S. Bach's E flat and G Major Marches</p>
   </div>
   <div class='thirds_tile'>
     <h2>1998</h2>
-    <p>Juliann Ma plays J.S. Bach's Piano Concerto in F Minor</p>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/69xmCWKCjIU?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
+    <p>Juliann Ma plays J.S. Bach's Piano Concerto in F Minor</p>
   </div>
   <div class='thirds_tile'>
     <h3>2008</h3>
