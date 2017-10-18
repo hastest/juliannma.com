@@ -30,7 +30,9 @@ $on-laptop:        800px;
   "_normalize",
   "_skeleton",
   "_full_page",
-  "_nav_menu"
+  "_nav_menu",
+  "_hr",
+  "_scroll_arrow"
 ;
 
 // Footer style
@@ -187,16 +189,6 @@ blockquote cite:before {
   bottom: 0;
 }
 
-hr {
-  border: 0;
-  height: 55px;
-  margin-left: auto;
-  margin-right: auto;
-  background-image: url(http://www.aorank.com/tutorial/hr/image/type_4.png);
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
 // Front page photo
 .main_photo {
   background-image: url("https://static.hackartscience.com/juliannma/photo.jpg");
@@ -240,16 +232,6 @@ hr {
   }
   display: inline-block;
   padding: 0.5vh 2em;
-}
-
-.scroll_arrow {
-  display: block;
-  height: 64px;
-  width: 64px;
-  margin-bottom: 1em;
-  margin-left: auto;
-  margin-right: auto;
-  color: #D0D0D0;
 }
 
 .page {
