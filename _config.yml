@@ -18,6 +18,11 @@ collections:
 
 # Build settings
 markdown: kramdown
+exclude:
+ - Gemfile
+ - Gemfile.lock
+ - LICENSE
+ - README.md
 
 kramdown:
   auto_ids:       false
