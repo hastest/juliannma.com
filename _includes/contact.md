@@ -16,8 +16,7 @@ Contact Juliann Ma
 
   <div class="narrow_thirds_tile">
   <h3>Social Media</h3>
-    <a href="https://www.youtube.com/channel/UCfta2IWh2nIcr0bzbLk3FPg">Youtube</a>,
-    <a href="https://twitter.com/juliann_ma">Twitter</a>,
+    <a href="https://www.youtube.com/channel/UCfta2IWh2nIcr0bzbLk3FPg">Youtube</a>
     and <a href="/calendar.ics">Calendar</a> feed of Juliann's public events.
   </div>
 </div>
