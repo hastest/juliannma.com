@@ -9,7 +9,7 @@ Press Kit
 =========
 
 - Long biography (1 page, PDF)
-- Short biography (250 words)
+- [Short biography](/short_bio.txt) (250 words)
 - Brief (100 words)
 - Reel
 - Press photographs
