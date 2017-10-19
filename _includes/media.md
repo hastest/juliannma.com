@@ -20,7 +20,7 @@ Notable Works and Press
   <div class="thirds_tile">
     <h3><a href="/seas/">SEAS</a></h3>
     <p>
-      Ma’s concert and music video project, <i>‘Sustainable Environment through the Arts and Sciences’</i>, is an original artistic effort to awaken our senses to the growing global issue of climate change. Chosen and led by Ma, a team of environmentally-mindful artists strive to immerse audiences, through uniquely collaborative and interdisciplinary performances, in the story of human’s impact on nature.
+      Ma’s concert and music video project, <i>‘Sustainable Environment through the Arts and Sciences’</i>, is an original artistic initiative to awaken our senses to the growing global issue of climate change. Chosen and led by Ma, a team of environmentally-mindful artists strive to immerse audiences, through uniquely collaborative and interdisciplinary performances, in the story of human’s impact on nature.
     </p>
   </div>
   <div class='thirds_tile'>
