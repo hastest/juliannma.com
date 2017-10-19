@@ -23,6 +23,8 @@ exclude:
  - Gemfile.lock
  - LICENSE
  - README.md
+ - edit.sh
+ - commit.sh
 
 kramdown:
   auto_ids:       false
