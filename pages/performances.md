@@ -47,8 +47,7 @@ New Tides
   <div class='thirds_tile'>
     <h3><a href="/seas/">SEAS: Sustainable Environment through the Arts and Sciences</a></h3>
     <p>
-      "<i>Sustainable Environment through the Arts and Sciences</i>",
-      Juliann's original concert and music video project featuring Juilliard choreographers performing alongside Juliann at the piano and telling, through movement and wordless sound, the story of climate change and human impact on nature.
+      Ma’s concert and music video project, <i>‘Sustainable Environment through the Arts and Sciences’</i>, is an original artistic effort to awaken our senses to the growing global issue of climate change. Chosen and led by Ma, a team of environmentally-mindful artists strive to immerse audiences, through uniquely collaborative and interdisciplinary performances, the story of human’s impact on nature.
     </p>
   </div>
   <!-- PEANUTS -->

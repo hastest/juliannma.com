@@ -4,7 +4,6 @@ permalink: /sitemap.txt
 ---
 
 {{ site.url }}/
-{{ site.url }}/bio
 {{ site.url }}/concerts-gatherings
 {{ site.url }}/performances
 {{ site.url }}/lessons
