@@ -5,6 +5,7 @@ pages:
     - bundle install
     - jekyll build -d public/
   artifacts:
+    expire_in: 12 mos
     paths:
       - public
   only:
