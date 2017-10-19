@@ -25,6 +25,7 @@ exclude:
  - README.md
  - edit.sh
  - commit.sh
+ - force-rebuild.sh
 
 kramdown:
   auto_ids:       false
