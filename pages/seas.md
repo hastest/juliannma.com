@@ -8,8 +8,7 @@ permalink: /seas/
 SEAS: Sustainable Environment through the Arts and Sciences
 ===========================================================
 
-An original concert and video work telling, through movement and wordless sound, the story of climate change and human impact on nature.
-SEAS brings together eclectic and environmentally-minded artists and scientists to create unique and immersive experiences to emphasize human impact on nature. Inspired by a desire to spark conversations among unlikely collaborators and tackle global issues, SEAS manifests stories drawn from scientific research on stage, through uniquely interdisciplinary performances and film.
+An original concert and video work telling, through movement and wordless sound, the story of climate change and human impact on nature. SEAS brings together eclectic and environmentally-minded artists and scientists to create unique and immersive experiences to emphasize human impact on nature. Inspired by a desire to spark conversations among unlikely collaborators to tackle the global issue of climate change, SEAS manifests stories drawn from scientific research onto the stage, through uniquely interdisciplinary performances and film.
 
 <div class='embed-container embed-container-wide'><iframe src="https://player.vimeo.com/video/238681737" width="640" height="207" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
