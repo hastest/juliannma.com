@@ -1,7 +1,7 @@
 Concerts and Gatherings
 -----------------------
 
-{% assign upcoming_events = site.events | where_exp: "event", "event.date >= site.time" | sort 'date' | reverse %}
+{% assign upcoming_events = site.events | where_exp: "event", "event.date >= site.time" | sort 'date' %}
 {% assign past_events = site.events | where_exp: "event", "event.date < site.time" | sort 'date' | reverse %}
 
 {% if upcoming_events != empty %}

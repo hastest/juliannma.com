@@ -14,7 +14,7 @@ Press Kit
 - Press photographs
 - [downloadable kit](https://static.hackartscience.com/juliannma/juliann_ma_press_kit.zip)
 
-{% assign upcoming_events = site.events | where_exp: "event", "event.date >= site.time" | sort 'date' | reverse %}
+{% assign upcoming_events = site.events | where_exp: "event", "event.date >= site.time" | sort 'date' %}
 {% if upcoming_events != empty %}
 <h2>Upcoming Events</h2>
 <ul>

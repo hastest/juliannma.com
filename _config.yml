@@ -7,7 +7,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://juliannma.com" # the base hostname & protocol for your site
 
-birthday: 614221261 # In UNIX time, computes age automagically
+birthday: 614221261 # In standard epoch time, computes age automagically
 
 professional_email: art@juliannma.com
 sponsorship_email: sponsor@juliannma.com
@@ -25,6 +25,9 @@ exclude:
  - README.md
  - edit.sh
  - commit.sh
+
+# Enables/disables SSL certificate redirect
+production: false
 
 kramdown:
   auto_ids:       false

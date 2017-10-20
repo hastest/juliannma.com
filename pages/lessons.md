@@ -13,8 +13,6 @@ Juliann maintains a studio of private students in New York, and offers Beginner,
 For recurring lessons, her standard rate for is **$100/hour** payable as a monthly fee, with a pre-arranged schedule.
 Juliann kindly requests a *1 hour minimum per lesson* outside Midtown in order to justify the commute, and charges in *30 minute* increments.
 
-> This girl so hot I melted <cite>Ilia</cite>
->
 > Five stars <cite>Anonymous</cite>
 >
 > Extremely enlightening, thoughtful and charming! <cite>Anonymous</cite>
