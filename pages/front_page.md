@@ -10,7 +10,7 @@ permalink: /
       Pianist ℘ Interdisciplinary Artist
     </div>
     <div class="title_announcement">
-      <h1><a href="#events">Rise, Awaken</a></h1>
+      <h1><a href="#concerts">Rise, Awaken</a></h1>
       <p>
         at Carnegie Hall, NYC
         <br>

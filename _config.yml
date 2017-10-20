@@ -25,6 +25,7 @@ exclude:
  - README.md
  - edit.sh
  - commit.sh
+ - force-rebuild.sh
 
 # Enables/disables SSL certificate redirect
 production: false
