@@ -24,6 +24,7 @@ She also offers lessons remotely as a [member of the ToneRow faculty](https://ww
 <!--
 Frequently Asked Questions
 - No piano?: If you wish to hire her, but do not have access to a piano or keyboard, space is available at practice halls such as [Michiko Studios](https://www.michikostudios.com/) (149 West 46th) or similar establishments at the student's expense (generally $15-$50, depending on the instrument). For effective learning, Juliann recommends the student should procure a keyboard or piano.
+- Instrument rentals are ___ (see Avenues after school program)
 - Contract: This page enumerates the terms of retaining Juliann as a private instructor. A PDF of the contract is available.
 - Payment: Square cash, Google wallet, Venmo, and Paypal transfers. Cash and checks are is also acceptable. Credit card transactions can be arranged with an additional 4% fee.
 - Non-repeating lesson(s), such as supervised practice for a performance: sure, no problem.
