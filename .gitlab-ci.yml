@@ -1,8 +1,10 @@
 pages:
   stage: deploy
   image: ruby:2.3
-  script:
+  before_script:
+    - apt-get update && apt-get install -y nodejs
     - bundle install
+  script:
     - jekyll build -d public/
   artifacts:
     expire_in: 12 mos
