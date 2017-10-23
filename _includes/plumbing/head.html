@@ -6,11 +6,6 @@
   <meta name="author" content="{{ site.author }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-  <!-- HTTPS redirect -->
-  {% if site.production %}
-    {% include plumbing/https_redirect.html %}
-  {% endif %}
-
   <!-- Mobile -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- RSS -->

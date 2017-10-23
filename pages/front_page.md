@@ -1,5 +1,5 @@
 ---
-layout: fullpage
+layout: default
 permalink: /
 ---
 
@@ -41,13 +41,3 @@ permalink: /
 </main>
 
 {% include plumbing/nav_header.html sections="biography,work,concerts,contact" %}
-
-<!--
-<script>
-  fullpage.initialize('#fullpage', {
-    anchors: ['home', 'bio', 'media', 'concerts', 'contact'],
-    menu: '#menu',
-    css3:true
-  });
-</script>
--->

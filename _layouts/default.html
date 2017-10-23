@@ -4,5 +4,9 @@
   <body>
     {{ content }}
     {% include plumbing/analytics/google_analytics.html %}
+    <!-- HTTPS redirect -->
+    {% if site.production %}
+      {% include plumbing/https_redirect.html %}
+    {% endif %}
   </body>
 </html>
