@@ -7,7 +7,7 @@ pages:
   script:
     - jekyll build -d public/
   artifacts:
-    expire_in: 12 mos
+    expire_in: 1 days
     paths:
       - public
   only:
