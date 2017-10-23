@@ -5,7 +5,7 @@ tagline: Pianist ℘ Interdisciplinary Artist
 description: >
   A professional site for Juliann Ma, New York City based pianist, interdisciplinary artist.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://juliannma.com" # the base hostname & protocol for your site
+url: "https://new.juliannma.com" # the base hostname & protocol for your site
 
 birthday: 614221261 # In standard epoch time, computes age automagically
 
@@ -28,7 +28,7 @@ exclude:
  - force-rebuild.sh
 
 # Enables/disables SSL certificate redirect
-production: false
+production: true
 
 kramdown:
   auto_ids:       false
