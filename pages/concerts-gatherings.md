@@ -27,7 +27,7 @@ Concerts and Gatherings
     {% assign location = event.location %}
   {% endif %}
 
-  {% assign id = event.id | replace_first: '/', '' | replace: '/', '-'%}
+  {% assign id = event.id | replace_first: '/', '' | replace: '-', '_' | remove: '"' | remove: " " %}
 
   {% if event.content.size > 2 %}
     {% assign excerpt = event.content %}
@@ -35,7 +35,7 @@ Concerts and Gatherings
 
   <li>
     <span class="calendar_tile">{{ event.date | date: "%-A, %b %-d, %I:%M%p"}}, </span>
-    <b>{% if excerpt %}<a onclick='toggle_block("{{ id }}")'>{{ title }}</a>{% else %}{{ title }}{% endif %}</b>,
+    <b>{% if excerpt %}<a onclick="toggle_block('{{ id }}')">{{ title }}</a>{% else %}{{ title }}{% endif %}</b>,
     at {{ location }}
     {% if event.rsvp_link %}(<a href="{{ event.rsvp_link }}">RSVP</a>){% endif %}
     {% if excerpt %}
@@ -63,7 +63,7 @@ Concerts and Gatherings
     {% assign location = event.location %}
   {% endif %}
 
-  {% assign id = event.id | replace_first: '/', '' | replace: '/', '-'%}
+  {% assign id = event.id | replace_first: '/', '' | replace: '-', '_' | remove: '"' | remove: " " %}
 
   {% if event.content.size > 2 %}
     {% assign excerpt = event.content %}
@@ -73,7 +73,7 @@ Concerts and Gatherings
 
   <li>
     <b>
-      {% if excerpt %}<a onclick='toggle_block("{{ id }}")'>{{ title }}</a>{% else %}{{ title }}{% endif %}
+      {% if excerpt %}<a onclick="toggle_block('{{ id }}')">{{ title }}</a>{% else %}{{ title }}{% endif %}
     </b>,
     at {{ location }}
     ({{ event.date | date: "%B '%y"}}).
