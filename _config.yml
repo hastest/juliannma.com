@@ -28,7 +28,10 @@ exclude:
  - force-rebuild.sh
 
 # Enables/disables SSL certificate redirect
-production: true
+production: false
+
+plugins_dir:
+  - jekyll-press
 
 # Parameters for minification
 jekyll-press:

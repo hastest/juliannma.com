@@ -33,13 +33,13 @@ Notable Works and Press
     </p>
   </div>
   <div class="thirds_tile">
-    <h3><a href="/press/">Press Kit</a></h3>
-    <p>press photographs, biography, more</p>
+    <h3><a href="/photos/">Select Photographs</a></h3>
+    <p>high resolution pohotographs for use in press and more.</p>
   </div>
   <div class="thirds_tile">
-    <h2><a href="/performances/">More performances ...</a></h2>
+    <h2><a href="/performances/">More performances</a></h2>
     <p>
-      Video and audio of Juliann's performances, her projects, biography, and select photographs.
+      Video and audio of Juliann's solo performances, her collaborations, and her projects.
     </p>
   </div>
 </div>

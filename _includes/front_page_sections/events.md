@@ -65,9 +65,7 @@ Concerts and Gatherings
   {% endif %}
 
   <li>
-    <b>
-      {% if excerpt %}<a onclick="toggle_block('{{ id }}')">{{ title }}</a>{% else %}{{ title }}{% endif %}
-    </b>,
+    <b>{% if excerpt %}<a onclick="toggle_block('{{ id }}')">{{ title }}</a>{% else %}{{ title }}{% endif %}</b>,
     at {{ location }}
     ({{ event.date | date: "%B '%y"}}).
     {% if excerpt %}
