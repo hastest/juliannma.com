@@ -34,7 +34,7 @@ Notable Works and Press
   </div>
   <div class="thirds_tile">
     <h3><a href="/photos/">Select Photographs</a></h3>
-    <p>high resolution pohotographs for use in press and more.</p>
+    <p>High resolution pohotographs for use in press and more.</p>
   </div>
   <div class="thirds_tile">
     <h2><a href="/performances/">More performances</a></h2>

@@ -155,6 +155,11 @@ blockquote cite:before {
   margin-bottom: 1em;
 }
 
+.photo-ribbon > a {
+  max-width: 100%;
+  overflow: hidden;
+}
+
 .photo-ribbon > a > img {
   max-width: none;
   margin: 2px;
