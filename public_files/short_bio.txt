@@ -1,6 +1,0 @@
----
-layout: null
-permalink: /short_bio.txt
----
-{% include short_bio.md %}
-Follow her journey at juliannma.com

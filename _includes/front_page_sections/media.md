@@ -18,9 +18,9 @@ Notable Works and Press
     </p>
   </div>
   <div class="thirds_tile">
-    <h3><a href="/seas/">SEAS</a></h3>
+    <h3><a href="/seas/">Sustainable Environment through the Arts & Sciences (SEAS)</a></h3>
     <p>
-      Ma’s concert and music video project, <i>‘Sustainable Environment through the Arts and Sciences’</i>, is an original artistic initiative to awaken our senses to the growing global issue of climate change. Chosen and led by Ma, a team of environmentally-mindful artists strive to immerse audiences, through uniquely collaborative and interdisciplinary performances, in the story of human’s impact on nature.
+      Juliann Ma's concert and music video project, is an original artistic initiative to awaken our senses to the growing global issue of climate change. Chosen and nurtured by Ms. Ma, a team of environmentally mindful artists strive to immerse audiences, through uniquely collaborative and interdisciplinary performances, in the story of the human impact on nature. SEAS' first music video and Juliann's directorial debut, <i>Rise Awaken</i>, is being released to the public autumn 2017. It is her hope that these works will encourage audiences to care for the home they share with all life on Earth, and take an active role in safeguarding it for the future via outreach, education, and other support for conservation efforts.
     </p>
   </div>
   <div class='thirds_tile'>

@@ -3,9 +3,9 @@ layout: null
 permalink: /sitemap.txt
 ---
 
-{{ site.url }}/
-{{ site.url }}/concerts-gatherings
-{{ site.url }}/lessons
-{{ site.url }}/seas
-{{ site.url }}/performances
-{{ site.url }}/press
+{{ site.url }}/index.htm
+{{ site.url }}/concerts-gatherings/index.htm
+{{ site.url }}/lessons/index.htm
+{{ site.url }}/performances/index.htm
+{{ site.url }}/seas/index.htm
+{{ site.url }}/photos/index.htm
