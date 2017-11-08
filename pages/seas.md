@@ -10,7 +10,7 @@ SEAS: Sustainable Environment through the Arts and Sciences
 
 An original concert and video work telling, through movement and wordless sound, the story of climate change and human impact on nature. SEAS brings together eclectic and environmentally-minded artists and scientists to create unique and immersive experiences to emphasize human impact on nature. Inspired by a desire to spark conversations among unlikely collaborators to tackle the global issue of climate change, SEAS manifests stories drawn from scientific research onto the stage, through uniquely interdisciplinary performances and film.
 
-<div class='embed-container embed-container-wide'><iframe src="https://player.vimeo.com/video/238681737" width="640" height="207" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div class='embed-container embed-container-wide'><iframe scrolling="no" width="640" height="360" src="https://www.youtube.com/embed/XnPsKIL-zqQ?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" gesture="media" allowfullscreen></iframe></div>
 
 SEAS marries written word, music, and dance in a seamless medium, SEAS presents ***Rise, Awaken***, their first music video. Giving voice to species endangered by our continued exploitation of our environment. It is Juliann’s hope that these works will encourage audiences to care for the home they share with all life on Earth, and take an active role in safeguarding it for the future via outreach, education, and other support for conservation efforts.
 
