@@ -17,7 +17,7 @@ SEAS marries written word, music, and dance in a seamless medium, SEAS presents 
 
 ## Events
 
-SEAS will be featured in a special live segment in Juliann’s [Carnegie Weill Hall solo debut](/events/) November 9th.
+SEAS will be featured in a special live segment in Juliann’s [Carnegie Weill Hall solo debut](/concerts-gatherings/) November 9th.
 Seating is limited; please [RSVP here](https://www.carnegiehall.org/SiteCode/Purchase/SeatSelectionPerformance.aspx?startWorkflow=true&quickBuy=false&quantity=1&eventId=31030).
 
 Previously, SEAS presented their first Open Workshop on November 2016, exhibiting their unique music and choreography to an open audience in an interactive performance.
