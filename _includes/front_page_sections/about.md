@@ -5,4 +5,4 @@
 
 {% include short_bio.md %}
 
-You are invited to attend one of Juliann's [upcoming events](#events), or [contact her](#contact) directly.
+You are invited to attend one of Juliann's [upcoming events](#concerts), or [contact her](#contact) directly.
