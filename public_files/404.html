@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Generic -->
+  <meta charset="utf-8">
+  <title>404: The page you're looking for could not be found. </title>
+
+  <!-- Redirect home -->
+  <meta http-equiv="refresh" content="0; url={{ site.baseurl | prepend: site.url }}" />
+
+  <!-- Mobile -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+<script>
+    window.location = "{{ site.baseurl | prepend: site.url }}"; }
+</script>
+
+<h1>404</h1>
+<p>The page you're looking for could not be found.</p>
+<p><a href="{{ site.baseurl | prepend: site.url }}">Redirect home.</a></p>
+</body>
+</html>
