@@ -22,26 +22,6 @@ Seating is limited; please [RSVP here](https://www.carnegiehall.org/SiteCode/Pur
 
 Previously, SEAS presented their first Open Workshop on November 2016, exhibiting their unique music and choreography to an open audience in an interactive performance.
 
-## SEAS Contributors
-
-**Juliann Ma**, founding director, producer, choreographer, costume designer, pianist
-
-#### Video Production:
-- **Aaron Ross** (Audio)
-- **SooA Kim** (Video artist)
-
-#### Dance Ensemble, Choreography:
-- **Kara Chan** (Soloist)
-- **Angela Falk**
-- **Peter Farrow**
-- **Eliza Jane Jones**
-- **Miranda Quinn** (Team Leader)
-- **Thomas Woodman** (Team Leader)
-
-#### Consultants:
-- **Jared Brewer** (environmental research)
-- **Hope Dougherty**, **Casey Hess**, and **Ben Simoens** (choreography)
-
 ## Support
 
 SEAS is funded through generous sponsorship by Pro Musics International via a Father Merlet Grant, the Marin Alsop’s Entrepreneurship Award.
