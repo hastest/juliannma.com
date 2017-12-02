@@ -32,7 +32,7 @@ Previously, SEAS presented their first Open Workshop May of 2016, testing and bu
 
 SEAS thanks also the following individuals for their donated consultation, contributions, and support: Stefania Bulbarella, Shimon Dotan, Hope Dougherty, Stanislav Fridman, John Haag, Casey Hess, Tanya Kalmanovitch, Ilia Lebedev, Qing Qing Miao, Aaron Ross, Lara Saldanha, Benjamin Simoens, and J.Y. Song.
 
-## SEAS
+## Core
 
 Jared Brewer *
 Kara Chan *

@@ -23,10 +23,7 @@ Contact Juliann Ma
 
 <hr>
 
-> I would like to express my sincere gratitude to all those who make my career possible.
-> To my teachers, mentors, & colleagues, friends, and family, I give thanks for your encouragement and generosity.
-> You have given me a world to thrive in, that I may share with and provide for others.
+> To my mentors, teachers, colleagues, friends, and family, thank you for your energy, encouragement, and generosity.
+> You all inspire me, and you've enabled a world I am thrilled to share with countless others.
 > I am humbled by your humanity. <br/><br/>
-> Looking forward to your note! <br/>
-> Yours,
-> &nbsp;&nbsp; <cite>Juliann Ma</cite>
+> &nbsp;&nbsp; <cite> Juliann </cite>
