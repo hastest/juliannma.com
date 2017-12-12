@@ -11,6 +11,8 @@ Select Photographs
 <div class="photo-ribbon" >
   <a href="https://static.hackartscience.com/juliannma/photos/0.jpg"><img src="/media/0.jpg" /></a>
   <a href="https://static.hackartscience.com/juliannma/photos/carnegie.jpg"><img src="/media/carnegie.jpg" /></a>
+  <a href="https://static.hackartscience.com/juliannma/photos/seas_shoot.jpg"><img src="https://static.hackartscience.com/juliannma/photos/seas_shoot.jpg" /></a>
+  <a href="https://static.hackartscience.com/juliannma/photos/carnegie_dancers.jpg"><img src="https://static.hackartscience.com/juliannma/photos/carnegie_dancers.jpg" /></a>
   <a href="https://static.hackartscience.com/juliannma/photos/1.jpg"><img src="https://static.hackartscience.com/juliannma/photos/1.jpg" /></a>
   <a href="https://static.hackartscience.com/juliannma/photos/2.jpg"><img src="https://static.hackartscience.com/juliannma/photos/2.jpg" /></a>
   <a href="https://static.hackartscience.com/juliannma/photos/3.jpg"><img src="https://static.hackartscience.com/juliannma/photos/3.jpg" /></a>
