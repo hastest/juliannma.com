@@ -8,22 +8,25 @@ permalink: /lessons/
 Private Piano Instruction
 =========================
 
-Juliann maintains a studio of private students in New York, and offers Beginner, Intermediate, Advanced, and Master Instruction in Piano with a personalized curriculum at your residence with your piano.
+Juliann maintains a studio of private students at her residence in New York, and offers Beginner, Intermediate, Advanced, and Master Instruction in Piano with personalized curriculum.
 
-For recurring lessons, her standard rate for is **$100/hour** payable as a monthly fee, with a pre-arranged schedule.
-Juliann kindly requests a *1 hour minimum per lesson* outside Midtown in order to justify the commute, and charges in *15 minute* increments.
+For recurring lessons, tuition is **$100/hour** payable as a monthly fee, with a pre-arranged schedule.
+For lessons at your residence, Juliann kindly requests a *1 hour minimum per lesson* outside Midtown in order to justify the commute, and charges in *15 minute* increments.
 
-> Five stars <cite>Anonymous, 1/2017</cite>
+>I can't imagine a better piano teacher... I'm so happy you're my teacher. <cite>10-year-old private student, 12/2017</cite>
 >
-> Extremely enlightening, thoughtful and charming! <cite>Anonymous, 7/2017</cite>
-
-Please <a href="mailto:lessons@juliannma.com">contact her</a> to schedule your first lesson, or arrange a meet and greet.
+> Extremely enlightening, thoughtful and charming! <cite>anonymous, ToneRow, 7/2017</cite>
+>
+> Five stars <cite>anonymous, ToneRow, 1/2017</cite>
+>
 
 She also offers lessons remotely as a [member of the ToneRow faculty](https://www.tonerow.com/juliannma).
 
+Please <a href="mailto:lessons@juliannma.com">contact Juliann</a> to arrange a meet & greet and schedule your first lesson.
+
 <!--
 Frequently Asked Questions
-- No piano?: If you wish to hire her, but do not have access to a piano or keyboard, space is available at practice halls such as [Michiko Studios](https://www.michikostudios.com/) (149 West 46th) or similar establishments at the student's expense (generally $15-$50, depending on the instrument). For effective learning, Juliann recommends the student should procure a keyboard or piano.
+- No piano?: If you wish to hire her, but do not have access to a piano or keyboard, space is available at practice halls such as [Michiko Studios](https://www.michikostudios.com/) (149 West 46th) or similar establishments at the student's expense (generally $15-$50, depending on the instrument). For effective learning, Juliann recommends the student procure a keyboard or piano.
 - Instrument rentals are ___ (see Avenues after school program)
 - Contract: This page enumerates the terms of retaining Juliann as a private instructor. A PDF of the contract is available.
 - Payment: Square cash, Google wallet, Venmo, and Paypal transfers. Cash and checks are is also acceptable. Credit card transactions can be arranged with an additional 4% fee.
