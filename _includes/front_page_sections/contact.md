@@ -23,7 +23,7 @@ Contact Juliann Ma
 
 <hr>
 
-> To my mentors, teachers, colleagues, friends, and family, thank you for your energy, encouragement, and generosity.
+> To my teachers, mentors, colleagues, friends, and family, thank you for your energy, encouragement, and generosity.
 > You all inspire me, and you've enabled a world I am thrilled to share with countless others.
 > I am humbled by your humanity. <br/><br/>
 > &nbsp;&nbsp; <cite> Juliann </cite>
