@@ -293,3 +293,16 @@ blockquote cite:before {
 .hidden {
   display: none;
 }
+
+.centered, .centered * {
+  text-align: center !important;
+}
+
+// Gallerey lightbox styles
+.lum-lightbox-image-wrapper {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.lum-lightbox-caption {
+  color: #FFF;
+}
