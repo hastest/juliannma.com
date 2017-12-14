@@ -24,7 +24,8 @@ She also offers lessons remotely as a [member of the ToneRow faculty](https://ww
 
 Please <a href="mailto:lessons@juliannma.com">contact Juliann</a> to arrange a meet & greet and schedule your first lesson.
 
-<!--
+{% comment %}
+
 Frequently Asked Questions
 - No piano?: If you wish to hire her, but do not have access to a piano or keyboard, space is available at practice halls such as [Michiko Studios](https://www.michikostudios.com/) (149 West 46th) or similar establishments at the student's expense (generally $15-$50, depending on the instrument). For effective learning, Juliann recommends the student procure a keyboard or piano.
 - Instrument rentals are ___ (see Avenues after school program)
@@ -45,4 +46,5 @@ TODO: For continued instruction, student is expected to engage in self-directed 
 TODO: Children. Instruction is one-on-one. If instructing children in a family with multiple students, the scheduled lesson will be one-on-one short lessons with each student.
 
 TODO: Are you prepared to recommend a keyboard / piano / similar things?
--->
+
+{% endcomment %}

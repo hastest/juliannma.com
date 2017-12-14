@@ -8,7 +8,7 @@ permalink: /seas/
 SEAS: Sustainable Environment through the Arts & Sciences
 ===========================================================
 
-Understanding climate change and environmental sustainability as global concerns and yet difficult subjects to broach, Juliann began her search for new languages to spark conversation between "unlikely" collaborators to address these issues together; thus, SEAS was born.
+Understanding climate change and environmental sustainability as global concerns and yet difficult subjects to broach, Juliann began her search for new languages to spark conversation between _unlikely_ collaborators to address these issues together; thus, SEAS was born.
 
 A melting pot of eclectic talents, SEAS unites artists and scientists in creating visceral, unique performing arts experiences that immerse audiences and themselves in the story of human's impact on nature. Its mission: to humanize scientific data and make the unfathomable come alive to our senses, in live performance and on screen.SEAS seeks also to challenge and open up traditional roles, settings, and audiences of classical music, contemporary dance, and scientific research publications, providing an innovative platform for professionals in such fields to come into contact with and affect each other's work on equal footing, develop appreciation for and share ideas across these fields so often segregated from one another.
 
@@ -24,7 +24,7 @@ Fusing prose, music, and dance into a seamless medium, SEAS draws us into the wo
 SEAS will be featured in a special live segment in Juliann’s [solo debut at Carnegie Hall's Weill Recital Hall](/concerts-gatherings/) November 9th.
 Seating is limited; please [RSVP here](https://www.carnegiehall.org/SiteCode/Purchase/SeatSelectionPerformance.aspx?startWorkflow=true&quickBuy=false&quantity=1&eventId=31030).
 
-Previously, SEAS presented their first Open Workshop May of 2016, testing and building upon their choreography live in an interactive demonstration and discussion workshop with the audience. In November the same year, SEAS, gave its world premiere performances of Ravel's complete ***Miroirs*** suite as part of Mannes Sounds Festival: Mirrors of Nature, curated by J.Y. Song.   
+Previously, SEAS presented their first Open Workshop May of 2016, testing and building upon their choreography live in an interactive demonstration and discussion workshop with the audience. In November the same year, SEAS, gave its world premiere performances of Ravel's complete ***Miroirs*** suite as part of Mannes Sounds Festival: Mirrors of Nature, curated by J.Y. Song.
 
 ## Support
 
@@ -34,15 +34,16 @@ SEAS thanks also the following individuals for their donated consultation, contr
 
 ## Core
 
-Jared Brewer *
-Kara Chan *
-Angela Falk *
-Peter Farrow *
-Eliza (Lanham) Jones *
-SooA Kim *
-Juliann Ma *
-Jesse Obremski *
-Miranda "Quinn" Wienecke *
+Jared Brewer,             &nbsp;&nbsp;
+Kara Chan,                &nbsp;&nbsp;
+Angela Falk,              &nbsp;&nbsp;
+Peter Farrow,             &nbsp;&nbsp;
+Eliza (Lanham) Jones,     &nbsp;&nbsp;
+SooA Kim,                 &nbsp;&nbsp;
+Juliann Ma,               &nbsp;&nbsp;
+Jesse Obremski,           &nbsp;&nbsp;
+Miranda "Quinn" Wienecke, &nbsp;&nbsp;
 Thomas Woodman
+{: .centered }
 
 To support or find out how you may join SEAS,[contact Juliann Ma](/#contact) .

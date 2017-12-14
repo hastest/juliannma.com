@@ -33,6 +33,12 @@ Notable Works and Press
     </p>
   </div>
   <div class="thirds_tile">
+    <h2><a href="/press/">Press and Reviews</a></h2>
+    <p>
+      Published critiques and press covering Juliann's work.
+    </p>
+  </div>
+  <div class="thirds_tile">
     <h3><a href="/photos/">Select Photographs</a></h3>
     <p>High resolution pohotographs for use in press and more.</p>
   </div>
