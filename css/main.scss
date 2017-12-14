@@ -32,7 +32,8 @@ $on-laptop:        800px;
   "_full_page",
   "_nav_menu",
   "_hr",
-  "_scroll_arrow"
+  "_scroll_arrow",
+  "_luminous-basic.scss"
 ;
 
 // Footer style
@@ -296,13 +297,4 @@ blockquote cite:before {
 
 .centered, .centered * {
   text-align: center !important;
-}
-
-// Gallerey lightbox styles
-.lum-lightbox-image-wrapper {
-  background-color: rgba(0, 0, 0, .5);
-}
-
-.lum-lightbox-caption {
-  color: #FFF;
 }
