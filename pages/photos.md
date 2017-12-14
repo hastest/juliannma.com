@@ -13,7 +13,7 @@ Select Photographs
   <a class="gallerey-image"
     href="https://static.hackartscience.com/juliannma/photos/0.jpg">
     <img src="/media/0.jpg"
-          title="photo credit: Brian Santich" />
+          title="Photo credit: Brian Santich" />
   </a>
   <a class="gallerey-image"
     href="https://static.hackartscience.com/juliannma/photos/carnegie.jpg">
