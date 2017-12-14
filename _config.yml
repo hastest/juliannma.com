@@ -27,8 +27,7 @@ exclude:
  - commit.sh
  - force-rebuild.sh
 
-# Enables/disables SSL certificate redirect
-production: true
+# SSL certificate redirect is included for the "production" environment
 
 plugins_dir:
   - jekyll-press

@@ -5,7 +5,7 @@ pages:
     - apt-get update && apt-get install -y nodejs
     - bundle install
   script:
-    - jekyll build -d public/
+    - JEKYLL_ENV=production jekyll build -d public/
   artifacts:
     expire_in: 1 days
     paths:
