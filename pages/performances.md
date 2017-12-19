@@ -17,7 +17,7 @@ Classic Sounds
     <h3>Chromatic Fantasy & Fugue</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/bUocSsoBr_U??start=0&end=798&controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
     <p>
-      J.S. Bach, Chromatic Fantasy & Fugue BWV 903
+      J.S. Bach, Chromatic Fantasy & Fugue BWV 903 (2016)
     </p>
   </div>
 
@@ -26,7 +26,7 @@ Classic Sounds
     <h3>A taste of Carnaval</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/bUocSsoBr_U?start=1282&end=1716&controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
     <p>
-      A taste of Carnaval: Robert Schumann, Carnaval Op. 9 selections
+      Robert Schumann, Carnaval Op. 9, selections (2015)
     </p>
   </div>
   <!-- Reel Une barque sur l’océan (32:40 -> 40:39) ?start=1960&end=2439& -->
@@ -34,18 +34,18 @@ Classic Sounds
     <h3>Une barque sur l’océan</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/bUocSsoBr_U?start=1960&end=2439&controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
     <p>
-      Maurice Ravel, Miroirs: Une barque sur l'océan
+      Maurice Ravel, Miroirs: Une barque sur l'océan (2016)
     </p>
   </div>
 </div>
 
-New Tides
----------
+Written & Directed by Juliann Ma
+--------------------------------
 
 <div class="flex-ribbon">
   <!-- SEAS -->
   <div class='thirds_tile'>
-    <h3><a href="/seas/">SEAS: Sustainable Environment through the Arts and Sciences</a></h3>
+    <h3><a href="/seas/">SEAS: Sustainable Environment through the Arts & Sciences</a></h3>
     <p>
       Ma’s concert and music video project, <i>‘Sustainable Environment through the Arts and Sciences’</i>, is an original artistic initiative to awaken our senses to the growing global issue of climate change. Chosen and led by Ma, a team of environmentally-mindful artists strive to immerse audiences, through uniquely collaborative and interdisciplinary performances, in the story of human’s impact on nature.
     </p>
@@ -56,7 +56,7 @@ New Tides
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/ui48Zbuq06Y?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
     <p>
       Peanuts Gallery Piano Concerto:
-      an original narrative which brings his cartoon characters and Zwilich's subtle musical nuances to life.
+      From Ellen Taaffe Zwilich's music spring to life Charles M. Schulz's beloved characters, in a series of hilarious and poignant events. Original arrangement; pervasive improvisation. Written and directed by Juliann Ma (2016)
     </p>
   </div>
   <!-- Carnaval (excerpt from Video Reel 28:37 -> 32:39) ?start=1717&end=1959& -->
@@ -64,9 +64,14 @@ New Tides
     <h3>Carnaval</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/bUocSsoBr_U?start=1717&end=1959&controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
     <p>
-      Robert Schumann, Carnaval Op. 9 more selections~ w/ live illustration* as written by Ma and choreographed by Juilliard dancers.
+      Robert Schumann, Carnaval Op. 9 more selections~ with li Stories written by Ma, dances improvised by colleagues in Juilliard's Dance Division (2015)
     </p>
   </div>
+</div>
+
+Improvisation
+-------------
+<div class="flex-ribbon">
   <!-- Improv on 4 notes -->
   <div class='thirds_tile'>
     <h3>Improv on 4 notes</h3>
@@ -79,22 +84,28 @@ New Tides
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/wWrbVTr6utw?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
     <p>Free improv poetry with Chrysanthe Tan (2015)</p>
   </div>
-  <!-- Silk Road -->
+<!-- Mohini -->
   <div class='thirds_tile'>
-    <h3>Silk Road</h3>
+    <h3>Improv on Mohini</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/SXaiuwTGjGE?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
     <p>
-      Interdisciplinary performance inspired by a selection of world music.
-      <br>
-      Mohini (Melody by Sandeep Das, arrangement and performed by Tirakitataka)
+      Interdisciplinary performance inspired by Sandeep Das's melody: 'Mohini'. Arranged, improvised upon, and performed by Guru Das and Tirakitataka (2017)
     </p>
   </div>
-  <!-- Sur Un Même Accord (excerpt from Video Reel 13:18 -> 16:56) ?start=798&end=1016& -->
+  <!-- Russian Sher in A -->
+  <div class='thirds_tile'>
+    <h3>Russian Sher in A</h3>
+    <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/rxhLsGRO_zc?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
+    <p>
+      Klezmer tune, directed by Hankus Netsky, performed by Happy Donkeys Band, featuring Silk Road Global Musician Workshop 2017.
+    </p>
+  </div>
+<!-- Sur Un Même Accord (excerpt from Video Reel 13:18 -> 16:56) ?start=798&end=1016& -->
   <div class='thirds_tile'>
     <h3>Sur Un Même Accord</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/bUocSsoBr_U?start=798&end=1016&controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
     <p>
-      Henri Dutilleux, Prélude 2: Sur un même accord.
+      Henri Dutilleux, Prélude 2: Sur un même accord (2015)
     </p>
   </div>
   <!-- and SoundCloud audio clips -->
