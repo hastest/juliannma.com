@@ -13,28 +13,32 @@ Select Photographs
   <a class="gallerey-image"
     href="https://static.hackartscience.com/juliannma/photos/0.jpg">
     <img src="/media/0.jpg"
-          title="Photo credit: Brian Santich" />
+          title="Prelude to Evgeny Kissin, NJPAC. PC Brian Santich 2014" />
   </a>
   <a class="gallerey-image"
     href="https://static.hackartscience.com/juliannma/photos/carnegie.jpg">
-    <img src="/media/carnegie.jpg" />
+    <img src="/media/carnegie.jpg"
+          title="Debut @ Carnegie. PC Jennifer Taylor 2017" />
   </a>
   <a class="gallerey-image"
     href="https://static.hackartscience.com/juliannma/photos/seas_shoot.jpg">
     <img  src="/media/seas_shoot.jpg"
-          title="SEAS photoshoot. Photo credit: <a href='https://ilia.hackartscience.com'>Ilia Lebedev</a>"/>
+          title="SEAS photoshoot. PC <a href='https://ilia.hackartscience.com'>Ilia Lebedev</a> 2016"/>
   </a>
   <a class="gallerey-image"
     href="https://static.hackartscience.com/juliannma/photos/carnegie_dancers.jpg">
-    <img src="/media/carnegie_dancers.jpg" />
+    <img src="/media/carnegie_dancers.jpg"
+          title="SEAS @ Carnegie. PC Jennifer Taylor 2017" />
   </a>
   <a class="gallerey-image"
     href="https://static.hackartscience.com/juliannma/photos/1.jpg">
     <img src="https://static.hackartscience.com/juliannma/photos/1.jpg" />
+          title="Premiering Alexander Liebermann's Rondeaux. Juliann Ma (piano) & Onadek Winan (soprano). PC Beowulf Sheehan 2015" />
   </a>
   <a class="gallerey-image"
     href="https://static.hackartscience.com/juliannma/photos/2.jpg">
     <img src="https://static.hackartscience.com/juliannma/photos/2.jpg" />
+          title="Thank you Alex, for the music. PC Beowulf Sheehan 2015" />
   </a>
   <a class="gallerey-image"
     href="https://static.hackartscience.com/juliannma/photos/3.jpg">
