@@ -6,6 +6,10 @@ pages:
     - bundle install
   script:
     - JEKYLL_ENV=production jekyll build -d public/
+    - mkdir compressed.public
+    - cp -r public/* compressed.public/
+    - gzip -r compressed.public
+    - cp -r compressed.public/* public/
   artifacts:
     expire_in: 1 days
     paths:

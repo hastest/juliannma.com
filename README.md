@@ -21,21 +21,21 @@ Feature Requests
 ----------------
 - Allow "TBD" events, which are forever-in-the-futre until altered.
 - Simplify images and photo credits.
-- Automagically handle files in /media: these should be auto-resized and stored elsewhere 
+- Automagically handle files in /media: these should be auto-resized and stored elsewhere
 
 Table of Contents
 -----------------
-1. [Site architecture, briefly](# Site architecture, briefly)
+1. [Site architecture, briefly](#site-architecture-briefly)
 2. Tutorials for common edits to the site:
-   - [Creating events](# Creating events)
-   - [Editing or deleting events](# Editing or deleting events)
-   - [Adding/editing pictures in the gallery](# Adding/editing pictures in the gallery)
+   - [Creating events](#creating-events)
+   - [Editing or deleting events](#editing-or-deleting-events)
+   - [Adding/editing pictures in the gallery](#addingediting-pictures-in-the-gallery)
 3. Tutorials for basic tools and infrastructure:
-   - [Terminal](# Terminal, command line mini-tutorial)
-   - [Git (version  control and publishing)](# Git, tools for version control and publishing, tutorial)
-   - [juliannma.com domain](# juliannma.com domain administration micro-tutorial)
-   - [Jekyll, the website generator](# Jekyll, this website generator, micro-tutorial)
-3. [Website chores](# Website chores)
+   - [Terminal](#terminal-command-line-mini-tutorial)
+   - [Git (version  control and publishing)](#git-tools-for-version-control-and-publishing-tutorial)
+   - [juliannma.com domain](#juliannmacom-domain-administration-micro-tutorial)
+   - [Jekyll, the website generator](#jekyll-this-website-generator-micro-tutorial)
+3. [Website chores](#website-chores)
 
 Site architecture, briefly
 --------------------------
