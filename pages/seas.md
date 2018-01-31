@@ -8,15 +8,19 @@ permalink: /seas/
 SEAS: Sustainable Environment through the Arts & Sciences
 ===========================================================
 
-Understanding climate change and environmental sustainability as global concerns and yet difficult subjects to broach, Juliann began her search for new languages to spark conversation between _unlikely_ collaborators to address these issues together; thus, SEAS was born.
+Recognizing climate change and environmental sustainability as rapidly growing global concerns still largely unaddressed and poorly understood by many, Juliann began her search for new languages to spark conversation between unlikely collaborators to address these issues together; thus, SEAS was born.
 
-A melting pot of eclectic talents, SEAS unites artists and scientists in creating visceral, unique performing arts experiences that immerse audiences and themselves in the story of human's impact on nature. Its mission: to humanize scientific data and make the unfathomable come alive to our senses, in live performance and on screen.SEAS seeks also to challenge and open up traditional roles, settings, and audiences of classical music, contemporary dance, and scientific research publications, providing an innovative platform for professionals in such fields to come into contact with and affect each other's work on equal footing, develop appreciation for and share ideas across these fields so often segregated from one another.
+A melting pot of eclectic talents, SEAS unites artists and environmental research experts in creating visceral, unique performing arts experiences that immerse audiences and themselves in the story of human's impact on nature. Its mission: humanize and make felt the science of climate change through empathetic performances on stage and screen. SEAS seeks to challenge and diversify traditional roles, settings, and audiences of classical music, contemporary dance, and scientific research publications, providing an innovative platform for professionals and audiences to interact, develop appreciation for, share ideas, and co-create across fields so often segregated from one another and which may benefit each other in ways as yet undiscovered.
+
 
 ## Rise, Awaken
 
 <div class='embed-container embed-container-wide'><iframe scrolling="no" width="640" height="360" src="https://www.youtube.com/embed/XnPsKIL-zqQ?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" gesture="media" allowfullscreen></iframe></div>
 
-Fusing prose, music, and dance into a seamless medium, SEAS draws us into the world of birds in their debut music video, ***Rise, Awaken***. The artists step into the skins of a species endangered by our continued exploitation of our environment, and are transported instantly to their realm, fraught with manifestations of that exploitation. Trapped in bird bodies, the artists undergo a transformation, until the human spirit and bird are one, suffering and diminishing together. It is Juliann’s hope that these works will awaken audiences to care for the home they share with all life on Earth, and take an active role in safeguarding it for the future via outreach, education, and other support for conservation efforts.
+
+In their debut music video, SEAS draws us into the world of birds. The artists step into the skins of a species endangered by our continued exploitation of our environment and are transported instantly into their realm, fraught with hunger, disease, plastics, pollution, deforestation, fires, and oil spills. Trapped in bird bodies, the artists undergo a transformation, until the human spirit and bird are one, suffering and diminishing together.
+
+It is Juliann’s hope that these works will stir audiences to take an active role in safeguarding the home they share with all life on Earth through mindful lifestyle practices (e.g. responsible recycling, composting, disposing, keeping up to date on environmental news, research, and policy), outreach, education, support for sustainable energy and conservation efforts.
 
 
 ## Events
