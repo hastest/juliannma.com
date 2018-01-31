@@ -32,13 +32,14 @@ Select Photographs
   </a>
   <a class="gallerey-image"
     href="https://static.hackartscience.com/juliannma/photos/1.jpg">
-    <img src="https://static.hackartscience.com/juliannma/photos/1.jpg" />
+    <img src="https://static.hackartscience.com/juliannma/photos/1.jpg"
           title="Premiering Alexander Liebermann's Rondeaux. Juliann Ma (piano) & Onadek Winan (soprano). PC Beowulf Sheehan 2015" />
   </a>
   <a class="gallerey-image"
     href="https://static.hackartscience.com/juliannma/photos/2.jpg">
-    <img src="https://static.hackartscience.com/juliannma/photos/2.jpg" />
-          title="Thank you Alex, for the music. PC Beowulf Sheehan 2015" />
+    <img src="https://static.hackartscience.com/juliannma/photos/2.jpg"
+          title="Thank you Alex, for the music. PC Beowulf Sheehan 2015"
+          />
   </a>
   <a class="gallerey-image"
     href="https://static.hackartscience.com/juliannma/photos/3.jpg">

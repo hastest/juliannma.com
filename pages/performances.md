@@ -39,15 +39,15 @@ Classic Sounds
   </div>
 </div>
 
-Written & Directed by Juliann Ma
---------------------------------
+Original Storytelling by Juliann Ma
+-----------------------------------
 
 <div class="flex-ribbon">
   <!-- SEAS -->
   <div class='thirds_tile'>
     <h3><a href="/seas/">SEAS: Sustainable Environment through the Arts & Sciences</a></h3>
     <p>
-      Ma’s concert and music video project, <i>‘Sustainable Environment through the Arts and Sciences’</i>, is an original artistic initiative to awaken our senses to the growing global issue of climate change. Chosen and led by Ma, a team of environmentally-mindful artists strive to immerse audiences, through uniquely collaborative and interdisciplinary performances, in the story of human’s impact on nature.
+      Ma’s concert and music video project, <i>‘Sustainable Environment through the Arts and Sciences’</i>, is an original artistic initiative to awaken our senses to the growing global issue of climate change. Chosen and led by Ma, a team of environmentally-mindful artists strive to immerse audiences, through uniquely collaborative and interdisciplinary performances, in the story of human’s impact on nature. Click to watch SEAS's debut music video: 'Rise, Awaken'.
     </p>
   </div>
   <!-- PEANUTS -->
@@ -64,8 +64,8 @@ Written & Directed by Juliann Ma
     <h3>Carnaval</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/bUocSsoBr_U?start=1717&end=1959&controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
     <p>
-      Robert Schumann, Carnaval Op. 9 more selections~ with li Stories written by Ma, dances improvised by colleagues in Juilliard's Dance Division (2015)
-    </p>
+      Robert Schumann, Carnaval Op. 9 more selections~ with dances improvised by colleagues from Juilliard's Dance Division based on stories by Juliann Ma (2015)
+      </p>
   </div>
 </div>
 
@@ -82,8 +82,14 @@ Improvisation
   <div class='thirds_tile'>
     <h3>Improv with Chrysanthe Tan</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/wWrbVTr6utw?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
-    <p>Free improv poetry with Chrysanthe Tan (2015)</p>
+    <p>Free improv poetry with Chrysanthe Tan (2015)
+    </p>
   </div>
+</div>
+
+World Music
+-----------
+<div class="flex-ribbon">
 <!-- Mohini -->
   <div class='thirds_tile'>
     <h3>Improv on Mohini</h3>
@@ -92,7 +98,7 @@ Improvisation
       Interdisciplinary performance inspired by Sandeep Das's melody: 'Mohini'. Arranged, improvised upon, and performed by Guru Das and Tirakitataka (2017)
     </p>
   </div>
-  <!-- Russian Sher in A -->
+<!-- Russian Sher in A -->
   <div class='thirds_tile'>
     <h3>Russian Sher in A</h3>
     <div class='embed-container'><iframe scrolling="no" width="256" height="256" src="https://www.youtube.com/embed/rxhLsGRO_zc?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" allowfullscreen></iframe></div>
@@ -100,6 +106,11 @@ Improvisation
       Klezmer tune, directed by Hankus Netsky, performed by Happy Donkeys Band, featuring Silk Road Global Musician Workshop 2017.
     </p>
   </div>
+</div>
+
+Today's Composers
+-----------------
+<div class="flex-ribbon">
 <!-- Sur Un Même Accord (excerpt from Video Reel 13:18 -> 16:56) ?start=798&end=1016& -->
   <div class='thirds_tile'>
     <h3>Sur Un Même Accord</h3>
