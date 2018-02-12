@@ -9,28 +9,34 @@ url: "https://juliannma.com" # the base hostname & protocol for your site
 
 birthday: 614221261 # In standard epoch time, computes age automagically
 
-professional_email: art@juliannma.com
-sponsorship_email: sponsor@juliannma.com
+email: art@juliannma.com
+
+# Things that will show up in the bar of navigation links
+nav_sections:
+  - Biography
+  - Work
+  - Concerts
+  - Photography
+  - Press
+  - Contact
+
+# Ignore these when publishing the website
+exclude:
+ - media
+ - Gemfile
+ - Gemfile.lock
+ - LICENSE
+ - README.md
+ - force-rebuild.sh
 
 # Collections, needed to correctly build the website
 collections:
   - events
 
-# Build settings
-markdown: kramdown
-exclude:
- - Gemfile
- - Gemfile.lock
- - LICENSE
- - README.md
- - edit.sh
- - commit.sh
- - force-rebuild.sh
-
+# This is plumbing; disregard
 # SSL certificate redirect is included for the "production" environment
 
-plugins_dir:
-  - jekyll-press
+plugins_dir: ./_plugins
 
 # Parameters for minification
 jekyll-press:
@@ -38,6 +44,8 @@ jekyll-press:
   js_options: {}      # js minifier options
   css_options: {}     # css minifier options
   html_options: {}    # html minifier options
+
+markdown: kramdown
 
 kramdown:
   auto_ids:       false

@@ -1,0 +1,9 @@
+---
+layout: partials/tile
+---
+{% if site.inline.tile.url %}
+  <h3><a href="{{ site.inline.tile.url }}">{{ site.inline.tile.title }}</a></h3>
+{% else %}
+  <h3>{{ site.inline.tile.title | markdownify }}</h3>
+{% endif %}
+<p>{{ site.inline.tile.text | markdownify }}</p>

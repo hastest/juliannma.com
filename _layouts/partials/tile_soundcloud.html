@@ -1,0 +1,9 @@
+---
+layout: partials/tile
+---
+
+<h3>{{ site.inline.tile.title | markdownify }} </h3>
+<div class="overlay-play">
+<a class='embed-container embed-container-gallery' data-sub-html=".caption" data-iframe="true" data-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{site.inline.tile.track_id}}&amp;color=%231eaedb&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;&show_artwork=false&amp;sharing=false&amp;&visual=true"><img src="{% image_small media/soundcloud-{{ site.inline.tile.track_id }}.jpg %}" /></a>
+</div>
+<p>{{ site.inline.tile.text | markdownify }}</p>

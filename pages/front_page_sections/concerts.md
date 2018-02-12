@@ -1,5 +1,10 @@
-Concerts and Gatherings
------------------------
+---
+layout: partials/section
+---
+
+# Concerts and Gatherings
+{:id="concerts"}
+<!-- The tag above is a navigation link, as expected by the nav bar. Configure the nav bar in _config.yml -->
 
 {% assign upcoming_events = site.events | where_exp: "event", "event.date >= site.time" | sort 'date' %}
 {% assign past_events = site.events | where_exp: "event", "event.date < site.time" | sort 'date' | reverse %}

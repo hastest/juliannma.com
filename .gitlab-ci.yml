@@ -6,6 +6,7 @@ pages:
     - bundle install
   script:
     - JEKYLL_ENV=production jekyll build -d public/
+    - for i in public/images/*; do echo "Removing metadata from $i"; exiftool -geotag= "$i"; done
     - mkdir compressed.public
     - cp -r public/* compressed.public/
     - gzip -r compressed.public

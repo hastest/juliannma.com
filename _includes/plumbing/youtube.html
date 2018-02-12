@@ -1,0 +1,9 @@
+{% if include.start_seconds %}
+  {% assign start = include.start_seconds %}
+{% endif %}
+{% if site.inline.tile.end_seconds %}
+  {% assign end = include.end_seconds %}
+{% endif %}
+<div class="overlay-play">
+<a class='embed-container embed-container-gallery' data-sub-html=".caption" data-iframe="true"  data-src="https://www.youtube.com/embed/{{ include.video_id }}?{{ start }}{{ end }}&controls=1&showinfo=0&modestbranding=1&rel=0"><img src="{% image_small media/youtube-{{ include.video_id }}.jpg %}" /></a>
+</div>

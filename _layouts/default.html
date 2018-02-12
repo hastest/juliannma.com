@@ -1,8 +1,21 @@
+{% if page.nav_prefix %}
+  {% assign nav_prefix = page.nav_prefix %}
+{% else %}
+  {% assign nav_prefix = layout.nav_prefix %}
+{% endif %}
+
 <!DOCTYPE html>
 <html lang="en">
   {% include plumbing/head.html %}
   <body>
-    {{ content }}
+    {% include plumbing/lightgallery.html %}
+    <main>
+      {{ content }}
+    </main>
+    <footer>Copyright © {{ 'now' | date: "%Y" }} <a href="{{ site.url }}">JULIANN MA</a>. All Rights Reserved.</footer>
+    <!-- Navigation header -->
+    {% include plumbing/nav_header.html prefix=nav_prefix sections=site.nav_sections %}
+    <!-- Analytics -->
     {% include plumbing/analytics/google_analytics.html %}
     <!-- HTTPS redirect -->
     {% if jekyll.environment == "production" %}

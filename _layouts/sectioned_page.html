@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+{{ content }}
+{% for section in page.sections %}
+  {% inline file="{{page.sections_folder}}/{{section}}.md" %}
+{% endfor %}

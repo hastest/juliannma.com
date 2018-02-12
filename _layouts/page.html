@@ -1,8 +1,12 @@
 ---
 layout: default
+nav_prefix: '/#'
 ---
-<div class="page" style="background-color:#140E1B;">
+
+{% if site.inline.page-id %}
+  {% assign id_tag = "id='" | append: site.inline.page-id | append: "'" %}
+{% endif %}
+
+<section {{ id_tag }}>
   {{ content }}
-  <div class="bottom">Copyright © {{ 'now' | date: "%Y" }} <a href="{{ site.url }}">JULIANN MA</a>. All Rights Reserved.</div>
-</div>
-{% include plumbing/nav_header.html prefix="/" sections="biography,work,concerts,contact" %}
+</section>

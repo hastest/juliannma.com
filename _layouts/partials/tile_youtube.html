@@ -1,0 +1,7 @@
+---
+layout: partials/tile
+---
+
+<h3>{{ site.inline.tile.title | markdownify }} </h3>
+{% include plumbing/youtube.html video_id=site.inline.tile.video_id start_seconds=site.inline.tile.start_seconds end_seconds=site.inline.tile.end_seconds %}
+<p class="caption">{{ site.inline.tile.text | markdownify }}</p>
