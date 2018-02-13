@@ -2,7 +2,7 @@
 title: A Night in the Parisian Wild
 short_title: A Night in the Parisian Wild
 #link: (permalink to the event should go here)
-date: 2017-10-21 19:00:00 -0500
+date: 2017-10-21 19:00
 location: Private venue, Upper West Side, NYC
 short_location: UWS, Manhattan
 rsvp_link: mailto:rsvp@juliannma.com

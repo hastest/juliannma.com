@@ -1,7 +1,7 @@
 ---
 title: Juilliard Composers Concert
 #link: (permalink to the event should go here)
-date: 2014-12-01 20:00:00 -0500
+date: 2014-12-01 20:00
 location: Paul Hall
 location_link: LINK
 ---

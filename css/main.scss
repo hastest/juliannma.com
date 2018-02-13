@@ -67,6 +67,7 @@ section p, section ul {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 2ex;
+  list-style-type: circle;
   //letter-spacing: 0em;
 }
 
@@ -75,6 +76,19 @@ section > h1, {
   margin-right: 2em;
   margin-top: 0.25em;
   margin-bottom: 0;
+}
+
+.active_event {
+  .event_heading {
+    font-size: 1.25em;
+    font-weight: bold;
+  }
+  .event_heading:before {
+    content: '➥';
+  }
+  padding: 1em;
+  background-color: #2C292F;
+  list-style-type: none;
 }
 
 h1 {
@@ -115,6 +129,19 @@ blockquote cite:before {
 
 cite {
   color: darken(#FFF, 50%);
+}
+
+#carousel img {
+  max-width: inherit;
+  height: 50vh;
+}
+
+.button_prev {
+  float: left;
+}
+
+.button_next {
+  float: right;
 }
 
 // Calendar ribbons

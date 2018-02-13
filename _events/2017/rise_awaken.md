@@ -2,7 +2,7 @@
 title: Rise, Awaken
 short_title: Rise, Awaken
 #link: (permalink to the event should go here)
-date: 2017-11-09 19:30:00 -0500
+date: 2017-11-09 19:30
 location: Weill Recital Hall, Carnegie, New York
 short_location: Carnegie Hall, NYC
 rsvp_link: https://www.carnegiehall.org/Calendar/2017/11/9/0730/PM/Juliann-Ma-Piano/

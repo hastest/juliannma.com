@@ -15,10 +15,10 @@ tiles:
     title: SEAS
     url: /seas
     text: >
-      SEAS - 'Sustainable Environment through the Arts & Sciences' is Juliann Ma's original artistic initiative to awaken our senses to the growing global issue of climate change.
-      Chosen and nurtured by Ms. Ma, a team of environmentally mindful artists strive to immerse audiences, through uniquely collaborative and interdisciplinary performances, in the story of human impact on nature.
-      SEAS' first music video and Juliann Ma's directorial debut, <i>Rise, Awaken</i>, was released this past November.
-      It is her hope that these works will encourage audiences to care for the home they share with all life on Earth, and take an active role in safeguarding it for the future via outreach, education, and other support for conservation efforts.
+      Ma’s concert and music video project, _‘Sustainable Environment through the Arts and Sciences’_,
+      is an original artistic initiative to awaken our senses to the growing global issue of climate change.
+      Chosen and led by Ma, a team of environmentally-mindful artists strive to immerse audiences, through uniquely collaborative and interdisciplinary performances, in the story of human’s impact on nature.
+      Seas has released their debut music video: ['Rise, Awaken'](/seas).
   - tile: youtube
     title: Silk Road
     video_id: SXaiuwTGjGE
@@ -26,11 +26,6 @@ tiles:
       Interdisciplinary performance inspired by a selection of world music.
       <br>
       Mohini (Melody by Sandeep Das, arrangement and performed by Tirakitataka).
-  - tile: link
-    title: Featured Photography
-    url: /photos/
-    text: >
-      A collection of photographs of Juliann Ma's work.
   - tile: link
     title: More performances
     url: /performances

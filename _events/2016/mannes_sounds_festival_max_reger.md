@@ -2,7 +2,7 @@
 title: "Mannes Sounds Festival: Max Reger: the man and his music"
 short_title: "Max Reger: the man and his music"
 #link: (permalink to the event should go here)
-date: 2016-01-25 18:30:00 -0500
+date: 2016-01-25 18:30
 location: German Consulate General, NYC
 link: http://www.germany.info/Vertretung/usa/en/__pr/GKs/NEWY/2016/02/29__Mannes.html
 ---

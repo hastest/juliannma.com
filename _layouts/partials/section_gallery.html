@@ -1,0 +1,19 @@
+<section>
+{{ content }}
+
+<div id="lightgallery" class="photo-ribbon" >
+{% for photo in page.photos %}
+  <a class="gallerey-image"
+    data-sub-html=".gallerey-caption"
+    href="{% image_large media/{{ photo.source }} %}">
+    <img src="{% image_small media/{{ photo.source }} %}"
+          title="{{ photo.title | markdownify }}. PC:{{ photo.photo_credit }}" />
+    <div class="gallerey-caption" style="display:none">
+      {{ photo.title }}<br><cite>{{ photo.photo_credit }}</cite>
+    </div>
+  </a>
+{% endfor %}
+</div>
+
+<script>lightGallery(document.getElementById('lightgallery'), {download: false, subHtmlSelectorRelative: true, enableTouch: true});</script>
+</section>

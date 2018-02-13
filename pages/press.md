@@ -10,6 +10,7 @@ permalink: /press/
 > Please [contact](/#contact) Juliann for a press kit or to arrange press passes for her events.
 
 ## Pro Musicis Presents Juliann Ma in Review
+{:id="rise-awaken"}
 
 > Originally [published](http://nyconcertreview.com/reviews/pro-musicis-presents-juliann-ma-in-review/) by [Rorianne Schrade](http://nyconcertreview.com/author/rorianne/) for [New York Concert Review](http://nyconcertreview.com/); New York, NY
 

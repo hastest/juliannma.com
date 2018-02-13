@@ -1,7 +1,7 @@
 ---
 title: "Lowenthal Studio’s Tribute to Nijinsky"
 #link: (permalink to the event should go here)
-date: 2015-04-08 20:00:00 -0500
+date: 2015-04-08 20:00
 location: Morse Hall
 ---
 

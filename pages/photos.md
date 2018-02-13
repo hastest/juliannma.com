@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Select Photographs
+title: Featured Photographs
 # subtitle: hi!
 permalink: /photos/
 photos:
@@ -46,7 +46,7 @@ photos:
 
 ---
 
-# Select Photographs
+# Featured Photographs
 <!-- Any text here will go before the photo gallery -->
 
 <!-- The gallery will be generated from the data above -->
