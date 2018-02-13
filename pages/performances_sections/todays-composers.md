@@ -5,6 +5,7 @@ tiles:
   - tile: youtube
     title: "Sur Un Même Accord"
     video_id: bUocSsoBr_U
+    thumbnail: media/youtube-bUocSsoBr_U_5.jpg
     start_seconds: 798
     end_seconds: 1016
     text: "Henri Dutilleux, Prélude 2: Sur un même accord (2015)"

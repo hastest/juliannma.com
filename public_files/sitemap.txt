@@ -5,7 +5,8 @@ permalink: /sitemap.txt
 
 {{ site.url }}/
 {{ site.url }}/concerts-gatherings/
-{{ site.url }}/lessons/
 {{ site.url }}/performances/
+{{ site.url }}/lessons/
 {{ site.url }}/seas/
 {{ site.url }}/photos/
+{{ site.url }}/press/

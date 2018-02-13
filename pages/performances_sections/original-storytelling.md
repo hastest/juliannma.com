@@ -23,7 +23,8 @@ tiles:
   - tile: youtube
     title: "Carnaval"
     video_id: bUocSsoBr_U
-    start_seconds: 1717
+    thumbnail: media/youtube-bUocSsoBr_U_2.jpg
+    start_seconds: 1719
     end_seconds: 1959
     text: >
       Robert Schumann, Carnaval Op. 9 more selections~

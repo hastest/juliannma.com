@@ -5,6 +5,7 @@ tiles:
   - tile: youtube
     title: "Chromatic Fantasy & Fugue"
     video_id: bUocSsoBr_U
+    thumbnail: media/youtube-bUocSsoBr_U_1.jpg
     start_seconds: 0
     end_seconds: 798
     text: >
@@ -13,6 +14,7 @@ tiles:
   - tile: youtube
     title: "A taste of Carnaval"
     video_id: bUocSsoBr_U
+    thumbnail: media/youtube-bUocSsoBr_U_3.jpg
     start_seconds: 1282
     end_seconds: 1716
     text: >
@@ -21,6 +23,7 @@ tiles:
   - tile: youtube
     title: "Une barque sur l’océan"
     video_id: bUocSsoBr_U
+    thumbnail: media/youtube-bUocSsoBr_U_4.jpg
     start_seconds: 1960
     end_seconds: 2439
     text: >

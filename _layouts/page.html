@@ -3,6 +3,10 @@ layout: default
 nav_prefix: '/#'
 ---
 
+{% if page.page-id %}
+  {% assign id_tag = "id='" | append: page.page-id | append: "'" %}
+{% endif %}
+
 {% if site.inline.page-id %}
   {% assign id_tag = "id='" | append: site.inline.page-id | append: "'" %}
 {% endif %}
