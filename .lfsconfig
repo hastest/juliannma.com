@@ -1,4 +1,0 @@
-[lfs]
-	sslVerify = False
-[http "https://storage.googleapis.com/"]
-	sslVerify = False
