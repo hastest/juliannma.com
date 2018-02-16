@@ -4,7 +4,7 @@ pages:
   variables:
     GIT_SSL_NO_VERIFY: 1
   before_script:
-    - apt-get update && apt-get install -y imagemagick graphicsmagick
+    - apt-get update && apt-get install -y imagemagick graphicsmagick exiftool
     - bundle install
   script:
     - JEKYLL_ENV=production jekyll build -d public/
