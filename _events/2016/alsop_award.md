@@ -2,7 +2,7 @@
 title: Mannes, The New School for Music, announces Winners of Alsop Entrepreneurship Award
 short_title: Alsop Entrepreneurship Award
 #link: (permalink to the event should go here)
-date: 2016-04-17 13:30:00 -0500
+date: 2016-04-17 13:30
 location: Mannes Glassbox Theater, Arnhold Hall
 short_location: Mannes School of Music, NYC
 ---

@@ -1,15 +1,35 @@
 ---
 layout: page
-title: Press
+title: "Press and Reviews"
 # subtitle: hi!
 permalink: /press/
 ---
 
-Press coverage of Juliann's work
-================================
+# Press and Reviews of Juliann's Work
 
-<!-- Carnegie ProMusicus review for nyconcertreview -->
-{% capture included_review %}
-  {% include reviews/carnegie_nyconcertreview.md %}
-{% endcapture %}
-{{ included_review | markdownify }}
+> Please [contact](/#contact) Juliann for a press kit or to arrange press passes for her events.
+
+## Pro Musicis Presents Juliann Ma in Review
+{:id="rise-awaken"}
+
+> Originally [published](http://nyconcertreview.com/reviews/pro-musicis-presents-juliann-ma-in-review/) by [Rorianne Schrade](http://nyconcertreview.com/author/rorianne/) for [New York Concert Review](http://nyconcertreview.com/); New York, NY
+
+A noteworthy recital debut occurred last Thursday, that of excellent pianist Juliann Ma, under the auspices of the Pro Musicis organization. Pro Musicis, founded in 1965, has for decades had a track record of presenting outstanding and communicative young artists in both conventional venues and community service concerts. Their roster has had such an illustrious array of musicians that it is impossible to select just a few names (but one can visit [www.promusicis.org](http://www.promusicis.org) to learn more). Whether the Pro Musicis magic is more in their choosing of exceptional talent or in their nurturing of it through concerts and outreach may be up for debate – surely a mixture of both – but, in any case, they continue to thrive. Juliann Ma, their 2016 addition to the roster, provided ample evidence of that at her recital.
+
+Ms. Ma is much more than an excellent pianist. A graduate of the Juilliard School (MM), she also has a degree in music from Stanford University (BA) with a minor in Creative Writing, plus a Diplôme d’Exécution de Piano from the École Normale Supérieure de Paris Alfred Cortot (on a Fulbright grant) and a Professional Studies certificate from Mannes (The New School for Music). She possesses the communicative gifts, appealing stage presence, and keen instinct for clever, accessible programming that will serve her well in her musical ambassadorship in the coming years.
+
+Ms. Ma has an individual mission as well, which is to spread the message about the beauty and fragility of nature. Her carefully crafted program, entitled “Arise, Awaken” was filled with works inspired by nature, including Debussy’s Prélude à L’Aprés-midi d’un faune (“The Afternoon of a Faun”) transcribed by the pianistic wizard, Vyacheslav Gryaznov, and three movements from Stravinsky’s Firebird, in Guido Agosti’s knockout version that has experienced quite a popular resurgence in the past decade.
+
+Ms. Ma’s passion for nature became most overt, though, in her dramatic performance of Ravel’s exquisite Oiseaux Tristes (“Sad Birds” from Miroirs), upon which she based a collaborative interdisciplinary project. She preceded her performance with her own environmentalist poem entitled “Arise Awaken,” and then incorporated six dancers into her piano interpretation to dramatize the sad birds’ story. Towards the close, the “birds” fell into a despairing cluster around the piano, and Ms. Ma folded her arms over the nearest one, thus in a sense becoming part of the dance. A similar performance (though more elaborate and without the finish around the piano) was just released by her organization, Sustainable Environment through the Arts and Sciences (SEAS): [https://juliannma.com/seas](https://juliannma.com/seas).
+
+For the visually oriented audiences of today, Ms. Ma’s conception may have a strong impact. There is always something extra-musical to watch or consider, so it may well touch the hearts of audiences not yet enamored of this music; for someone already deeply devoted to this music, however, the composer’s pure creation already represents an artistic pinnacle. Ravel transformed nature’s sounds into something uniquely spiritual, and the question arises as to whether it serves his creation to go the reverse direction and concretize the ethereal. For this listener, the dance ultimately distracted from the music, and increasing the distraction were various extraneous issues – percussive footsteps on Weill Hall’s wooden floor, the hard-to-ignore squeak of a barefoot pirouette, and some unforgiving lighting, all necessitating some suspension of disbelief in order for one’s imagination is to truly take flight. In the polished video, the latter were non-issues, yet this listener’s preference for the unadorned music remains the same. Admittedly, pianist/reviewers are probably not the target demographic.
+
+Just as Oiseaux Tristes needs no enhancement, Ms. Ma as a pianist does not. She possesses the ability to find the essence of each work, and with help from her strong, fluid technique, she projects the musical shape, color, and drama vividly. Her opening Debussy was a joy, and the lush Gryaznov version made up in pianistic shadings whatever was lost in the transcription from the orchestral original. One could hardly imagine it performed better than Ms. Ma did.
+
+Her Scriabin Sonata No. 5 (Op. 53) was also excellent, as brilliant and full of fire and ecstasy as one ever hears, as well as remarkably clean and polished throughout. Additionally, she gave it one of the strongest and most dramatically persuasive endings that I can recall in a lifetime of hearing the piece. Brava!
+
+On the subject of drama, Ms. Ma has a strong bent for theatricality, which may make some curmudgeons spring to the accusation “all flash and no substance”; I am delighted to report, however, that this is definitely not the case. The supreme test was after intermission, with J. S. Bach’s Chromatic Fantasy and Fugue in D minor (BWV 903), and Ms. Ma more than passed with flying colors. Her performance was a model of thoughtful phrasing and voicing – the highlight of the program for this listener.
+
+Following the Bach was Darknesse Visible by Thomas Adés (b. 1971), a musical descent into despair that Ms. Ma performed impressively from memory. The last few measures (after John Dowland) led without pause – a wonderful segue – into the opening octave blast of Danse Infernale, Berceuse, and Finale” from Agosti’s transcription of The Firebird, a musical phoenix rising from the ashes.
+
+It was a marvelous evening, all in all, and the cheering audience was rewarded with an encore of the jazz standard “Body and Soul.” It will be a genuine pleasure to watch Ms. Ma’s career advance from this highly auspicious debut.

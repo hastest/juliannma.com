@@ -173,7 +173,14 @@ Technical reference for this site
 
 ### Prerequisites
 
-You will need a `git` client, and enough ruby/rails to install the requirements listed `Gemfile`. This can sometimes be annoying, but is often as simple as installing Rails and running `bundle install` in the website's folder in Terminal.
+You will need a `git` client, `graphicsmagick` (`gm convert`, to be specific), `ruby` (`2.3.6`), `bundler`, and a wealth of ruby gems. On OSX (A macbook, for example), you can make all of this happen as follows:
+
+1. Install [homebrew](https://brew.sh/) - a package manager for various things Apple hasn't included.
+2. Install [RVM](https://rvm.io/) - a manager for ruby installations that will prevent this site from messing with other software on your laptop.
+3. Install ruby `2.3.6`: `rvm install 2.3.6 && rvm use 2.3.6 --default`
+4. Install [git](https://git-scm.com/): `brew install git` - a very common version control system that we will use to publish the site.
+5. Install [graphicsmagick](http://www.graphicsmagick.org/) - a library for resizing and compressing images: `brew install graphicsmagick`.
+6. Install the ruby gems the website requires (in the website's folder): `bundle install`.
 
 ### SSL Certificate
 GitLab pages is nice enough to offer custom certificates! We use the excellent and free [letsencrypt.org][letsencrypt] for all of our certificate needs.

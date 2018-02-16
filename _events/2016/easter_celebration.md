@@ -1,7 +1,7 @@
 ---
 title: "Easter Celebration"
 #link: (permalink to the event should go here)
-date: 2016-03-27 11:00:00 -0500
+date: 2016-03-27 11:00
 location: Long Island Newton Reformed Church, NYC
 ---
 

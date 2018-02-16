@@ -1,7 +1,7 @@
 ---
 title: "Master of Music Graduation Recital"
 #link: (permalink to the event should go here)
-date: 2015-04-04 20:30:00 -0500
+date: 2015-04-04 20:30
 location: Paul Hall
 location_link: LINK
 ---

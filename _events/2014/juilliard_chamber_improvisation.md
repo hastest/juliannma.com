@@ -1,7 +1,7 @@
 ---
 title: "Juilliard’s Premiere Chamber Improvisation Concert"
 #link: (permalink to the event should go here)
-date: 2014-12-07 17:00:00 -0500
+date: 2014-12-07 17:00
 location: Morse Hall
 location_link: LINK
 ---

@@ -6,6 +6,7 @@ pages:
     - bundle install
   script:
     - JEKYLL_ENV=production jekyll build -d public/
+    - exiftool -all= --icc_profile:all public/static/
     - mkdir compressed.public
     - cp -r public/* compressed.public/
     - gzip -r compressed.public

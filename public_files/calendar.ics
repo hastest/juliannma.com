@@ -13,9 +13,9 @@ BEGIN:VEVENT
 UID:{{ event.date | date: "%Y%m%d" }}@juliannma.com
 CLASS:PUBLIC
 SUMMARY:{{ event.title | xml_escape }}
-DTSTART:{{ event.date | date: "%Y%m%d" }}T170000Z
-DTEND:{{ event.date | date: "%Y%m%d" }}T190000Z
-DTSTAMP:{{ 'now' | date: "%Y%m%d" }}T170000Z
+DTSTART:{{ event.date | date: "%Y%m%d" }}T{{ event.date | date: "%H%M%S" }}Z
+DTEND:{{ event.date | date: "%Y%m%d" }}T{{ event.date | date: "%H%M%S" }}Z
+DTSTAMP:{{ 'now' | date: "%Y%m%d" }}T{{ 'now' | date: "%H%M%S" }}Z
 DESCRIPTION:{{ event.content | xml_escape }}
 URL:{{ event.url | prepend: site.baseurl | prepend: site.url }}
 {% if event.location %}LOCATION:{{ event.location }}{% endif %}
@@ -30,9 +30,9 @@ BEGIN:VEVENT
 UID:{{ event.date | date: "%Y%m%d" }}@juliannma.com
 CLASS:PUBLIC
 SUMMARY:{{ event.title | xml_escape }}
-DTSTART:{{ event.date | date: "%Y%m%d" }}T170000Z
-DTEND:{{ event.date | date: "%Y%m%d" }}T190000Z
-DTSTAMP:{{ 'now' | date: "%Y%m%d" }}T170000Z
+DTSTART:{{ event.date | date: "%Y%m%d" }}T{{ event.date | date: "%H%M%S" }}Z
+DTEND:{{ event.date | date: "%Y%m%d" }}T{{ event.date | date: "%H%M%S" }}Z
+DTSTAMP:{{ 'now' | date: "%Y%m%d" }}T{{ 'now' | date: "%H%M%S" }}Z
 DESCRIPTION:{{ event.content | xml_escape }}
 URL:{{ event.url | prepend: site.baseurl | prepend: site.url }}
 {% if event.location %}LOCATION:{{ event.location }}{% endif %}

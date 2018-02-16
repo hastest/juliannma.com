@@ -12,7 +12,9 @@ ruby "2.3.6"
 gem "jekyll", "3.4.3"
 
 # Minifier for Jekyll: compress HTML, CSS, JS that will be served over a netowrk
-gem 'jekyll-press'
+#gem 'jekyll-minifier'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+gem "micro_magick"

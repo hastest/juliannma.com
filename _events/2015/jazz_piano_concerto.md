@@ -2,7 +2,7 @@
 title: "Mannes Sounds Festival: The Jazz Piano Concerto"
 title: The Jazz Piano Concerto
 #link: (permalink to the event should go here)
-date: 2015-12-14 19:30:00 -0500
+date: 2015-12-14 19:30
 location: Stiefel Hall, Mannes 55 W 13th St (4TH floor), NYC
 short_location: Mannes School of Music, NYC
 ---

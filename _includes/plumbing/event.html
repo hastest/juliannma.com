@@ -1,0 +1,41 @@
+
+{% if include.event.show-date %}
+  {% assign date = include.event.show-date %}
+{% else %}
+  {% if include.longdate %}
+    {% assign date = include.event.date | date: "%a, %b %-d, %Y" %}
+  {% else %}
+    {% assign date = include.event.date | date: "%b %-d, %Y" %}
+  {% endif %}
+{% endif %}
+
+{% if include.event.short_title %}
+  {% assign title = include.event.short_title %}
+{% else %}
+  {% assign title = include.event.title %}
+{% endif %}
+
+{% if include.event.short_location %}
+  {% assign location = include.event.short_location %}
+{% else %}
+  {% assign location = include.event.location %}
+{% endif %}
+
+{% assign id = include.event.id | replace_first: '/', '' | replace: '-', '_' | remove: '"' | remove: " " %}
+
+{% if include.event.content.size > 2 %}
+  {% assign excerpt = include.event.content %}
+{% endif %}
+
+<li>
+  <span class="event_heading">
+    <span class="calendar_tile">{{ date }}:</span>
+    <b>{% if excerpt %}<a onclick="toggle_block('{{ id }}')">{{ title }}</a>{% else %}{{ title }}{% endif %}</b>, <cite>{{ location }}</cite>
+    {% if include.rsvp and include.event.rsvp_link %}
+      (<a href="{{ include.event.rsvp_link }}">RSVP</a>)
+    {% endif %}
+  </span>
+  {% if excerpt %}
+    <span class="event-detail hidden" id="{{ id }}">{{ excerpt }}<a onclick='toggle_block("{{ id }}")'>(... hide detail)</a></span>
+  {% endif %}
+</li>

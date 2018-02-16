@@ -1,7 +1,7 @@
 ---
 title: "Cooking on the Piano: An Evening with Café Boulud and Steinway & Sons"
 #link: (permalink to the event should go here)
-date: 2015-06-01 18:00:00 -0500
+date: 2015-06-01 18:00
 location: Café Boulud
 location_link: LINK
 ---

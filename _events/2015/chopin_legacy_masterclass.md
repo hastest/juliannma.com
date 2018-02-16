@@ -1,7 +1,7 @@
 ---
 title: "Chopin’s Legacy, Masterclasses"
 #link: (permalink to the event should go here)
-date: 2015-04-10 19:00:00 -0500
+date: 2015-04-10 19:00
 location: Orchestra Room 543
 location_link: LINK
 ---

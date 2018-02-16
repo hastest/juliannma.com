@@ -1,0 +1,11 @@
+<section>
+  {{ content }}
+
+  <div class="flex-ribbon flex-ribbon-widow" id="work_tiles-{{ page.uid }}">
+    {% for tile in page.tiles %}
+      {% inline file="_layouts/partials/tile_{{ tile["tile"] }}.html", tile=tile} %}
+    {% endfor %}
+  </div>
+</section>
+
+<script>lightGallery(document.getElementById('work_tiles-{{ page.uid }}'), {selector: '.embed-container-gallery', iframeMaxWidth: "80%", download: false, subHtmlSelectorRelative: true, controls: false, keyPress: false, counter: false});</script>

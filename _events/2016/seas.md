@@ -2,7 +2,7 @@
 title: Sustainable Environment through the Arts and Sciences (SEAS Open Workshop)
 short_title: SEAS Open Workshop
 #link: (permalink to the event should go here)
-date: 2016-11-11 20:00:00 -0500
+date: 2016-11-11 20:00
 location: Stiefel Hall, Mannes 55 W 13th St (4TH floor)
 short_location: Mannes School of Music, NYC
 ---

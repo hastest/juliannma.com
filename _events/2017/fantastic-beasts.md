@@ -1,6 +1,6 @@
 ---
 title: Fantastic Beasts and Where to Listen for Them
-date: 2017-03-12 12-30-00 -0500
+date: 2017-03-12 12-30
 location: Stiefel Hall, Mannes 55 W 13th St, NYC
 short-location: Mannes, NY
 ---

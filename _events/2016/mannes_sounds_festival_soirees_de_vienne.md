@@ -2,7 +2,7 @@
 title: "Mannes Sounds Festival: Soirées de Vienne"
 short_title: "Soirées de Vienne"
 #link: (permalink to the event should go here)
-date: 2016-04-05 18:00:00 -0500
+date: 2016-04-05 18:00
 location: The Union Club, NYC
 ---
 

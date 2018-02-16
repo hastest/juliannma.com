@@ -3,6 +3,7 @@ layout: page
 title: SEAS&#58; Sustainable Environment through the Arts and Sciences
 # subtitle: hi!
 permalink: /seas/
+page-id: "seas-page"
 ---
 
 SEAS: Sustainable Environment through the Arts & Sciences
@@ -12,11 +13,9 @@ Recognizing climate change and environmental sustainability as rapidly growing g
 
 A melting pot of eclectic talents, SEAS unites artists and environmental research experts in creating visceral, unique performing arts experiences that immerse audiences and themselves in the story of human's impact on nature. Its mission: humanize and make felt the science of climate change through empathetic performances on stage and screen. SEAS seeks to challenge and diversify traditional roles, settings, and audiences of classical music, contemporary dance, and scientific research publications, providing an innovative platform for professionals and audiences to interact, develop appreciation for, share ideas, and co-create across fields so often segregated from one another and which may benefit each other in ways as yet undiscovered.
 
-
 ## Rise, Awaken
 
-<div class='embed-container embed-container-wide'><iframe scrolling="no" width="640" height="360" src="https://www.youtube.com/embed/XnPsKIL-zqQ?controls=1&showinfo=0&modestbranding=1&rel=0" frameborder="0" gesture="media" allowfullscreen></iframe></div>
-
+{% include plumbing/youtube.html video_id="XnPsKIL-zqQ" %}
 
 In their debut music video, SEAS draws us into the world of birds. The artists step into the skins of a species endangered by our continued exploitation of our environment and are transported instantly into their realm, fraught with hunger, disease, plastics, pollution, deforestation, fires, and oil spills. Trapped in bird bodies, the artists undergo a transformation, until the human spirit and bird are one, suffering and diminishing together.
 
@@ -34,9 +33,12 @@ Previously, SEAS presented their first Open Workshop May of 2016, testing and bu
 
 ***Rise, Awaken*** was made possible in part thanks to the Marin Alsop Entrepreneurship Award and Father Merlet Grant. SEAS salutes Maestro Marin Alsop (Baltimore Symphony Orchestra), Norma Deull, and Pro Musicis Foundation for their support through these grants, and to Mannes: The New School for Music and Yamaha Artist Services Inc. for generous extension of their resources.
 
+If you would like to support SEAS directly, please consider donating to our project.
+<div class="centered"><button data-iframe="false"><a href="https://www.paypal.me/juliannma">Gift via Paypal</a></button></div>
+
 SEAS thanks also the following individuals for their donated consultation, contributions, and support: Stefania Bulbarella, Shimon Dotan, Hope Dougherty, Stanislav Fridman, John Haag, Casey Hess, Tanya Kalmanovitch, Ilia Lebedev, Qing Qing Miao, Aaron Ross, Lara Saldanha, Benjamin Simoens, and J.Y. Song.
 
-## Core
+## Our Collaborators
 
 Jared Brewer,             &nbsp;&nbsp;
 Kara Chan,                &nbsp;&nbsp;
@@ -50,4 +52,10 @@ Miranda "Quinn" Wienecke, &nbsp;&nbsp;
 Thomas Woodman
 {: .centered }
 
-To support or find out how you may join SEAS,[contact Juliann Ma](/#contact) .
+To support or find out how you may join SEAS, [contact Juliann Ma](/#contact) .
+
+<!--
+This is some plumbing to get the video working.
+-->
+
+<script>lightGallery(document.getElementById('seas-page'), {selector: '.embed-container-gallery', iframeMaxWidth: "80%", download: false, subHtmlSelectorRelative: true, controls: false, keyPress: false, counter: false});</script>

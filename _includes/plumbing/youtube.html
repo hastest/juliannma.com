@@ -1,0 +1,16 @@
+{% if include.start_seconds %}
+  {% assign start = "&start="| append: include.start_seconds %}
+{% endif %}
+{% if site.inline.tile.end_seconds %}
+  {% assign end = "&end=" | append: include.end_seconds %}
+{% endif %}
+{% if site.inline.tile.thumbnail %}
+  {% assign thumbnail = site.inline.tile.thumbnail %}
+{% else %}
+  {% assign thumbnail = "media/youtube-" | append: include.video_id | append: ".jpg" %}
+{% endif %}
+
+
+<div class="overlay-play">
+<a class='embed-container embed-container-gallery' data-sub-html=".caption" data-iframe="true"  data-src="https://www.youtube.com/embed/{{ include.video_id }}?allowfullscreen{{ start }}{{ end }}&controls=1&showinfo=0&modestbranding=1?autoplay=1&rel=0"><img src="{% image_small {{ thumbnail }} %}" /></a>
+</div>

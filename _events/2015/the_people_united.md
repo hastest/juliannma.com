@@ -2,7 +2,7 @@
 title: "THE PEOPLE UNITED WILL NEVER BE DEFEATED"
 short_title: "THE PEOPLE UNITED ..."
 #link: (permalink to the event should go here)
-date: 2015-12-12 19:00:00 -0500
+date: 2015-12-12 19:00
 location: Yamaha Hall, NYC
 ---
 

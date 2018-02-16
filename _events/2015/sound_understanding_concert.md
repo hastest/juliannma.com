@@ -1,7 +1,7 @@
 ---
 title: "Sound Understanding Concert"
 #link: (permalink to the event should go here)
-date: 2015-04-16 19:30:00 -0500
+date: 2015-04-16 19:30
 location: Weill Recital Hall, Carnegie Hall, NYC
 short_location: Carnegie Hall, NYC
 ---

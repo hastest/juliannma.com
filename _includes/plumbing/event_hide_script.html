@@ -1,0 +1,12 @@
+<script>
+  function toggle_block(id) {
+  	var text = document.getElementById(id);
+    if (text.classList.contains("hidden")) {
+      text.classList.remove("hidden");
+      text.parentNode.classList.add("active_event");
+    } else {
+      text.classList.add("hidden");
+      text.parentNode.classList.remove("active_event");
+    }
+  }
+</script>

@@ -10,50 +10,56 @@ $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-// Width of the content area
-$content-width:    800px;
-$on-palm:          600px;
-$on-laptop:        800px;
-
 // Import partials.
 @import
   "_normalize",
   "_skeleton",
-  "_full_page",
   "_nav_menu",
   "_hr",
   "_scroll_arrow",
-  "_luminous-basic.scss"
+  "lightgallery"
 ;
 
-// Footer style
-html, body {
-  height: 100%;
+html {
+  background-color: #000;
 }
-
-// Typography
 
 a {
   text-decoration: none;
+  color: #1eaedb;
 }
 
-.page {
+a:hover {
+  cursor: pointer;
+}
+
+section {
   color: #D0D0D0;
-  padding: 16px;
+  padding: 0;
+  margin: 0;
   text-align: center;
+  border: 0.1px solid rgba(0,0,0,0); // hack to prevent margins from collapsing with previous element
 }
 
-.page p, .page ul {
+section:nth-of-type(3n+0) {
+  background-color: #140E1B;
+}
+
+section:nth-of-type(3n+1) {
+  background-color: #14131A;
+}
+
+section:nth-of-type(3n+2) {
+  background-color: #1B131A;
+}
+
+section:last-child::after {
+  content: " ";
+  display: block;
+  min-height: 2em;
+}
+
+section p, section ul {
   line-height: 160%;
   letter-spacing:+0.05em;
   text-align: left;
@@ -61,24 +67,42 @@ a {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 2ex;
+  list-style-type: circle;
   //letter-spacing: 0em;
 }
 
-.page > h1, {
+section > h1, {
   margin-left: 2em;
   margin-right: 2em;
   margin-top: 0.25em;
   margin-bottom: 0;
 }
 
-.page img {
+.active_event {
+  .event_heading {
+    font-size: 1.25em;
+    font-weight: bold;
+  }
+  .event_heading:before {
+    content: '➥';
+  }
+  padding: 1em;
+  background-color: #2C292F;
+  list-style-type: none;
+}
+
+h1 {
+  padding-top: 1em;
+}
+
+section img {
   max-width: 60%;
   max-height: 40vh;
   margin-left: auto;
   margin-right: auto;
 }
 
-.page > h1, .page > h2 {
+section > h1, section > h2 {
   text-align: center;
   margin: 1em;
 }
@@ -99,7 +123,25 @@ blockquote > p {
 }
 
 blockquote cite:before {
-  content: "-"
+  content: "-";
+  color: darken(#FFF, 50%);
+}
+
+cite {
+  color: darken(#FFF, 50%);
+}
+
+#carousel img {
+  max-width: inherit;
+  height: 50vh;
+}
+
+.button_prev {
+  float: left;
+}
+
+.button_next {
+  float: right;
 }
 
 // Calendar ribbons
@@ -164,6 +206,8 @@ blockquote cite:before {
 .photo-ribbon > a > img {
   max-width: none;
   margin: 2px;
+  height: 33vh;
+  min-height: 33vh;
 }
 
 /*
@@ -209,10 +253,15 @@ blockquote cite:before {
   margin-left: auto;
   margin-right: auto;
   max-width: 640px;
-  padding-bottom: calc(20em*0.562);
+  //padding-bottom: calc(20em*0.562);
   padding-top: 0px;
   height: 0;
   overflow: hidden;
+}
+
+.embed-container img {
+  width: 100%;
+  max-width: 100%;
 }
 
 .embed-container iframe, .embed-container object, .embed-container embed {
@@ -221,10 +270,50 @@ blockquote cite:before {
   left: 0;
   width: 100%;
   height: 100%;
-  overflow: hidden
+  overflow: hidden;
  }
 
+@mixin play-button($fill) {
+  position: relative;
+  &:after {
+    pointer-events: none;
+    background-image: url('data:image/svg+xml;utf8,
+    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve"><circle fill="' + $fill + '" cx="514.065" cy="504.152" r="477.545"/><polygon fill="white" points="383,510.151 383,318.502 548.696,414.327 714.529,510.151 548.765,605.976 383,701.801 "/></svg>
+   ');
+    background-position: center center;
+    background-repeat: no-repeat;
+    content: ' ';
+    display: block;
+    height: 3em;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 3em;
+  }
+}
+
+.overlay-play {
+  max-width: 65em;
+  margin-left: auto;
+  margin-right: auto;
+  @include play-button(rgba(#616161, 0.5));
+}
+
+.overlay-play:hover {
+  @include play-button(#1eaedb);
+}
+
 .bottom {
+   text-align: center;
+   position: absolute;
+   width: 100%;
+   left: 0;
+   bottom: 0;
+ }
+
+footer {
+  color: #D0D0D0;
   text-align: center;
   position: absolute;
   width: 100%;
@@ -233,14 +322,32 @@ blockquote cite:before {
 }
 
 // Front page photo
-.main_photo {
-  background-image: url("/media/photo.jpg");
+.fullpage_photo {
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
   text-align: center;
-  height: 100%;
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.main_photo {
+  background-image: url("{% image_large media/portrait.jpg %}");
+}
+
+.featured_photo {
+  background-image: url("{% image_large media/seas_shoot.jpg %}");
+  filter: grayscale(0%);
+}
+
+.centered_in_section {
+  margin-top: 20vh;
+  button {
+    font-size: 1em;
+  }
 }
 
 .title_card {
@@ -278,12 +385,18 @@ blockquote cite:before {
   z-index: 99;
 }
 
-.page {
+section {
+  padding: 16px;
   position: relative;
   min-height: 100vh;
   height:auto !important;
   margin: 0;
 }
+
+.fullpage-section {
+  padding: 0;
+}
+
 
 .event-detail {
   display: block;
