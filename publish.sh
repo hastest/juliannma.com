@@ -6,6 +6,7 @@ git stash apply
 git add .
 git commit -m "$1"
 git push
+git status
 
 echo "#############"
 echo '## Above, you should see: "'
