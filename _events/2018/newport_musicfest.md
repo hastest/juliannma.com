@@ -1,5 +1,5 @@
 ---
-title: Newport Music Festival: Schumann & Rachmaninoff
+title: "Newport Music Festival: Schumann & Rachmaninoff"
 #link: (permalink to the event should go here)
 date: 2018-07-22 11:00 # sometime in a not-so-distant future
 # Set to the *NEXT* month if you want to only show a month
