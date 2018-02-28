@@ -9,7 +9,7 @@ page-id: "seas-page"
 SEAS: Sustainable Environment through the Arts & Sciences
 ===========================================================
 
-Recognizing climate change and environmental sustainability as rapidly growing global concerns still poorly understood by many and thus inadequately addressed, Juliann began her search for new languages to spark conversation between unlikely collaborators to tackle bringing about awareness and reform; thus, SEAS was born.
+Recognizing climate change and environmental sustainability as rapidly growing global concerns still largely unaddressed and poorly understood by many, Juliann began her search for new languages to spark conversation between collaborators to tackle bringing about awareness and reform; thus, SEAS was born.
 
 A melting pot of eclectic talents, SEAS unites artists and environmental research experts in creating visceral, unique performing arts experiences which translates scientific data into immediate and emotionally more tangible experiences to awaken audiences to the impact we humans have on nature.
 
