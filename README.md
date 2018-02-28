@@ -1,64 +1,95 @@
-https://juliannma.com
-====================
+# https://juliannma.com
+
 This site, `juliannma.com` is hosted via [GitLab Pages][glpages], and is generated from [markdown][markdown] (via heavily scripted [Jekyll][jekyll], a blog-friendly high level tool for generating static websites).
-Small media (picture thumbnails) may be served along with the rest of the website, but large data (audio, video, full-resolution pictures) should be kept elsewhere, such as the [hackartscience.com][] cloud.
+Photographs and other image media are handled transparently via [git-lfs][git-lfs], while sound, video, etc. are relegated to the platforms that handle them best: YouTube, Sound Cloud, etc. In odd cases, large static files may be served from elsewhere, such as the [hackartscience.com][] cloud.
 
+## Warning: privacy  of published information
 
-Warning: privacy  of published information
-==========================================
 Anything you publish to the web in general, and with this infrastructure in particular is no longer private.
 
 Published information may be copied, cached by search engines and browsers, and should be considered public forever.
-There is no way to reliably "un-publish" information, even if you promptly it from your website, and delete it from GitLab's history.
+There is no way to reliably "un-publish" information, even if you promptly it from your website, and scrub it from GitLab's history.
 
 Be very careful to avoid publishing unwanted or sensitive information or files. This includes parts of the site that are not easily visible in the browser, such as unlinked files, or `<!-- comments -->`.
 
 If you accidentally publish passwords, sensitive information, etc, you should try to scrub it ASAP, which is tricky and not guaranteed; consider the information compromised (e.g if these are passwords, change them *immediately*).
 [This](https://help.github.com/articles/removing-sensitive-data-from-a-repository/) is a guide, but the exact steps will very case by case.
 
+## Feature Requests
 
-Feature Requests
-----------------
-- Allow "TBD" events, which are forever-in-the-futre until altered.
-- Simplify images and photo credits.
-- Automagically handle files in /media: these should be auto-resized and stored elsewhere
+- Fix HTML showing in hover text on images.
+- Add carousel view.
+- Update this readme
+- Blog entries, to be discussed with Jules
+- Make script to install prerequisites to simplify future installations from scratch.
 
-Table of Contents
------------------
+## Table of Contents
+
 1. [Site architecture, briefly](#site-architecture-briefly)
 2. Tutorials for common edits to the site:
+   - [Minor edits](#minor-edits)
    - [Creating events](#creating-events)
    - [Editing or deleting events](#editing-or-deleting-events)
    - [Adding/editing pictures in the gallery](#addingediting-pictures-in-the-gallery)
-3. Tutorials for basic tools and infrastructure:
-   - [Terminal](#terminal-command-line-mini-tutorial)
-   - [Git (version  control and publishing)](#git-tools-for-version-control-and-publishing-tutorial)
-   - [juliannma.com domain](#juliannmacom-domain-administration-micro-tutorial)
-   - [Jekyll, the website generator](#jekyll-this-website-generator-micro-tutorial)
 3. [Website chores](#website-chores)
+4. Tutorials for basic tools and infrastructure:
+   - [Atom editor](#atom-editor)
+5. Advanced tutorials, just in case:
+   - [ADVANCED: Terminal](#terminal-command-line-mini-tutorial)
+   - [ADVANCED: Git (version  control and publishing)](#git-tools-for-version-control-and-publishing-tutorial)
+   - [ADVANCED: juliannma.com domain](#juliannmacom-domain-administration-micro-tutorial)
+   - [ADVANCED: Jekyll, the website generator](#jekyll-this-website-generator-micro-tutorial)
 
-Site architecture, briefly
---------------------------
+## Site architecture, briefly
 
 Most pages are in `pages/`, and some special files (like a list of pages for Google) are in `public_files`.
 Most pages are written in [Markdown][markdown] ([a cheatsheet][gl-markdown], for your convenience), which makes adding simple styles like headings, paragraphs, lists, quotes, links, pictures, etc. easy  and consistent.
 
-The front page is a little special, as it is pieced together from *sections* in `_includes/front_page_sections`, and is largely not easy to  edit.
-The *content* of the front page, however, is pretty  easy:
-- The quotes above the short bio are in `_includes/front_page_sections/about.md`
-- The short bio is in `_includes/short_bio.md`
-- Your sign-off thanks/message is in `_includes/front_page_sections/contact.md`
+There exist a few distinct layouts:
+- A straightforward page (like `seas`, or `lessons`)
+- A gallery page (like `photos`)
+- A composite page madeof sections of above types (like `performances`, or the front page).
 
-There are a few other pages that *generate* content based on other things, and are therefore not very useful to edit:
-- Your events/concerts page (`pages/concerts-gatherings.md`) is a dense complicated web of code that uses event  files `_events`. Don't edit the event page itself. Edit the individual events instead in `_events/`.
+Most content edits you would wish to make can be confined to files inside `pages/`.
 
-The website is styled with CSS (Actually, SCSS that gets compiled to CSS, to be precise), and editing the styles without the help of someone who knows the web media model is probably a frustrating exercise.
-It's a little unfortunate, but there are a _lot_ of experts in CSS styles.
+There are a few pages that *generate* content based on other things, and are therefore not very useful to edit directly:
 
-Tutorials for website edits
----------------------------
+- Your events/concerts page (`pages/concerts-gatherings.md`), which reads events from `_events/`.
+
+The website is styled with CSS (Actually, SCSS that gets compiled to CSS, to be precise, but is largely irrelevant), and editing the styles without the help of someone who knows the web media model is probably a frustrating exercise. Feel free to explore! The styles are in `css/main.scss`.
+It's a little unfortunate, but there are a _lot_ of knowlegeable individuals with expertise in CSS styles out there.
+
+## Tutorials for website edits
 
 Here, we describe some common tasks.
+
+### Minor edits
+
+Let's add a few words to the `seas` page.
+
+Before we do anything else, let's fetch the latest version of your site from the internet. Your local copy is usually up-to-date, since you are the editor-in-chief, but let's be sure. The system won't allow you to blow away any changes, but it's easiest to avoid conflicts altogether.
+
+In the lower right corner of the Atom window (probably this window), there is a footer with two arrows and a few other things. These interact with [git][git], which is the tool we use to publish your site.
+
+1. Click on the down arrow in the lower right hand corner of this window.
+2. Click "pull" on the button that pops up.
+
+Great! You now have the latest copy (In the unlikely case of concurrent edits leading to merge conflicts, you can work through them easily enough).
+
+Open up `pages/seas.md`, and add whatever changes you wish.
+
+See if the site functions correctly with local preview:
+
+1. your local copy of the site will automagically re-build itself every time you save a file in Atom. If this doesn't happen for some reason, run `make` in a terminal at the website folder.
+2. A running local preview will serve the up-to-date website after it builds. To start the local preview, run `make preview` in a terminal at the website folder.
+
+Looks great! Let's go ahead and publish it. Press `F8` to bring up the `git` interface in Atom.
+
+1. **Stage** (previously `git add`) the edits you wish to publish. If you want to publish all your edits, "stage all" in the top right is the way to go. Otherwise, cherry pick the files you wish to update on the live website.
+2. **Commit** your staged edits, taking care to briefly describe what the edits are (lower right hand corner).
+3. **Push** (publish) your edits: press the up arrow in the footer (bottom right), then "Push" button.
+
+The website will now build (at MIT/hackartscience or Amazon cloud, whichever is first available), and will go live in a few minutes.
 
 ### Creating events
 
@@ -70,7 +101,7 @@ At a minimum, `sassy-drinks.md` **must** include some *metatadata* (also called 
 ```
 ---
 title: Sassy drinks with Juliann
-date: 2018-01-24 20:30:00 -0500
+date: January 2019 19:30
 location: The Hawthorne, Boston, MA
 ---
 
@@ -80,26 +111,16 @@ location: The Hawthorne, Boston, MA
 
 The above describes an event titled "Sassy drinks with Juliann" (arbitrary text given by `title`) taking place at The Hawthorne in Bosotn (arbitrary text given by `location`).
 
-The event is scheduled for 8:30PM eastern standard time, as given by `date`, which *must* be formatted in an appropriate manner: `2018-01-24 20:30:00 -0500` (`YYYY-MM-DD HH-MM-SS TIMEZONE`), where `TIMEZONE` is the UTC timezone where the event will take place (Estern Standard Time is [UTC-05:00](https://en.wikipedia.org/wiki/UTC%E2%88%9205:00), represented by `-0500`, and Eastern Daylight in `-0400`).
-The timezones are easy to get wrong, especially with standard/daylight changes, but only affect which events have happenbed, and which are in the future.
+The event is scheduled for 7:30 PM, as given by `date`, which *must* be formatted in a machine-readable manner (This is quite flexible in practice, but conservatively, any prefix of `2018-01-24 20:30:00 -0500` works, which encodes the date as `YYYY-MM-DD HH-MM-SS TIMEZONE`), meaning `"tomorrow"` is not a valid date and will cause problems when building the site.
 
 In addition to the 3 metadata entries that are required, a few additional ones are optional:
 
-- `short_title: Sassy drinks`, which is arbitrary text. If given, this is the title that will be displayed in the list of events.
-- `short_location: Hawthorne, Boston`, which is arbitrary text. If given, this is the location that will be displayed in the list of events.
-- `rsvp_link: https://www.thehawthornebar.com/`, a URL. If present, the website will include a prominent "RSVP" link next to the event. Do be sure the URL links to the right place before you publish. Try to keep the URL short! None of the ?ref=2987bjk23b4jh23g4jh23g4jhg234 garbage at the end, please.
+- `short_title: Sassy drinks`, which is arbitrary text. If given, this is the title that will be displayed in the list of events. The full title will show up in the calendar.
+- `short_location: Hawthorne, Boston`, which is arbitrary text. If given, this is the location that will be displayed in the list of events. The full location will be given in the calendar.
+- `rsvp_link: https://www.thehawthornebar.com/`, a URL. If present, the website will include a prominent "RSVP" link next to the event. Do be sure the URL links to the right place before you publish. Try to keep the URL short! None of the `?ref=2987bjk23b4jh23g4jh23g4jhg234` garbage at the end, please.
 
-Each article should include a(some metadata which the site will use to contextualize the article), much like the following:
-
-    ---
-    layout: post
-    title:  "My amazing article"
-    banner: http://domain.com/picture.jpg
-    excerpt_separator: <!--excerpt-->
-    ---
-
-The article itself should be written in the markdown language ([helpful cheatsheet][gl-markdown]), which is great for styling text in simple ways.
-If you absolutely must get crazy (think before you decide you do. If you repeatedly hack the ame style), you can add arbitrary HTML inside markdown documents.
+The body of the event itself (everything below the metadata) should be written in the markdown language ([helpful cheatsheet][gl-markdown]), which is great for styling text in simple ways.
+If you absolutely must get crazy (think twice before you decide you do), you can add arbitrary HTML inside markdown documents.
 
 For now, let's keep things nice and simple. The entire event:
 
@@ -139,37 +160,28 @@ Remember that `date` metadata must be formatted correctly, and preview the chang
 ### Adding/editing pictures in the gallery
 
 The gallery lives in `pages/photos.md`, and that's the file you want to edit.
-This isn't very convenient, and changes are certainly on the way.
-
-To add a new picture, three things are necessary:
-
-#### - *Make available a full resolution picture*
-
-The full-resolution picture must be in a stable place online somewhere, say `https://stable-place/new_photo.jpg`. The [hackartscience.com][hackartscience.com] cloud is one such possible place.
-
-Files in the `juliannma.com` folder in your [files.hackartscience][files.hackartscience] cloud are publically hosted via `https://static.hackartscience.com/juliannma`.
-For example, `juliannma.com`->`photos`->`seas_shoot.jpg` is public via the URL [https://static.hackartscience.com/juliannma/photos/seas_shoot.jpg](https://static.hackartscience.com/juliannma/photos/seas_shoot.jpg).
-
-Feel free to put your own files anywhere in the `juliannma.com` folder, but remember that **anything you publish online is public forever**.
-
-#### - *Make available a fast-loading picture*
-
-The small (< 100KB or so), fast-loading "preview" picture that is embedded on the page should be in the `media` folder of the website itself, say `media/new_photo_small.jpg`.
-
-####  - *Add the picture to the gallery*
-
-The `pages/photos.md` should have an entry for the new photo. Each picture an entry of the form
+This page doesn't have a ton of content, but instead relies on a list of featured photographs (`photos`) in the metadata. Each photograph has three pieces of data that describe it (followed by an empty line):
 
 ```
-<a class="gallerey-image"
-    href="https://stable-place/new_photo.jpg">
-    <img src="/media/new_photo_small.jpg"
-          title="Caption and photo credit. Some characters are not allowed (such as quotes), and should be *escaped* (google an html escape calculator)." />
-  </a>
+   - title: "The Title for this Photograph"
+   - source: "file_in_media_folder.jpg"
+   - photo_credit: "Some Person, 1890"
+
 ```
 
-Technical reference for this site
----------------------------------
+When the website builds, it will find this and all other pictures (in `media/`), and will get them ready for the web. Specifically, photo metadata (*taken with an iPhone 4S at 5pm on a Tuesday in Central Park by Juliann Ma*) will be removed, the color space will be converted to a web-friendly one, and the picture will be resized and compressed in a sophisticated way to make it load quickly but look good. Magic!
+
+To add a photo, put it in the `media/` folder, add a mention of it (as described above) in `pages/photos.md` (and/or the relevant front page section).
+
+Check it out in local preview, and if all looks well, publish.
+
+### Adding pictures in other pages
+
+- Small picture: `[This is my picture]({% image_small media/my-favorite-picture.jpg %})`
+- Large picture: `[This is my picture]({% image_large media/my-favorite-picture.jpg %})`
+
+
+## Technical reference for this site
 
 ### Prerequisites
 
@@ -185,18 +197,15 @@ You will need a `git` client, `graphicsmagick` (`gm convert`, to be specific), `
 ### SSL Certificate
 GitLab pages is nice enough to offer custom certificates! We use the excellent and free [letsencrypt.org][letsencrypt] for all of our certificate needs.
 
-Website chores
---------------
+## Website chores
 
 - Peek at the [visitor statistics](https://analytics.google.com/analytics/web/#embed/report-home/a62085326w97000748p101157333/) and the [search statistics](https://www.google.com/webmasters/tools/dashboard?hl=en&pli=1&siteUrl=https%3A%2F%2Fjuliannma.com%2F) for this website from time to time, they are sometimes interesting.
 - Update the certificate (used for HTTPS) for this site every few months.
 - Keep text on the site coherent with the prensent (don't excitedly talk about "future" events that have already passed), update broken links, etc.
 
-Tool and infrastructure tutorials
--------------------------------------
+## Tool and infrastructure tutorials
 
 ### Terminal, command line mini-tutorial
-
 
 Do be careful, as the terminal won't ask you for confirmations and there is no way to un-delete things if you accidentally move a file over a folder with the same name, for example.
 
@@ -293,6 +302,7 @@ If you keep refreshing the page, and your edits aren't showing up, you probably 
 Edits to global variables defined in `_config.yml` are only seen if you stop and re-start the local preview.
 
 [glpages]: https://pages.gitlab.io/
+[git-lfs]: https://git-lfs.github.com/
 [hackartscience.com]: http://hackartscience.com
 [files.hackartscience]: http://files.hackartscience.com
 [jekyll]: https://jekyllrb.com/
