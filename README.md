@@ -3,6 +3,8 @@
 This site, `juliannma.com` is hosted via [GitLab Pages][glpages], and is generated from [markdown][markdown] (via heavily scripted [Jekyll][jekyll], a blog-friendly high level tool for generating static websites).
 Photographs and other image media are handled transparently via [git-lfs][git-lfs], while sound, video, etc. are relegated to the platforms that handle them best: YouTube, Sound Cloud, etc. In odd cases, large static files may be served from elsewhere, such as the [hackartscience.com][] cloud.
 
+hi!
+
 ## Warning: privacy  of published information
 
 Anything you publish to the web in general, and with this infrastructure in particular is no longer private.
