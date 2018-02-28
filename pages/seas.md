@@ -9,7 +9,7 @@ page-id: "seas-page"
 SEAS: Sustainable Environment through the Arts & Sciences
 ===========================================================
 
-Recognizing climate change and environmental sustainability as rapidly growing global concerns still poorly understood by many and thus inadequately unaddressed, Juliann began her search for new languages to spark conversation between unlikely collaborators to tackle bringing about awareness and reform; thus, SEAS was born.
+Recognizing climate change and environmental sustainability as rapidly growing global concerns still poorly understood by many and thus inadequately addressed, Juliann began her search for new languages to spark conversation between unlikely collaborators to tackle bringing about awareness and reform; thus, SEAS was born.
 
 A melting pot of eclectic talents, SEAS unites artists and environmental research experts in creating visceral, unique performing arts experiences which translates scientific data into immediate and emotionally more tangible experiences to awaken audiences to the impact we humans have on nature.
 
@@ -26,7 +26,7 @@ It is Juliann’s hope that these works will stir audiences to take an active ro
 
 ## Events
 
-SEAS will feature their first major production this April 11th, 2018, at 7 P.M. in Yamaha Artist Services New York, located in the heart of midtown Manhattan on Fifth Avenue and 54th Street. This will be a 1 1/2 hour event, including world premieres of all-new musical works and choreography highlighting 3 global concerns centering on the ocean: disappearing coral reefs, disappearing ice, and the pervasiveness and hazards of plastic. 
+SEAS will feature their first major production this April 11th, 2018, at 7 P.M. in Yamaha Artist Services New York, located in the heart of midtown Manhattan on Fifth Avenue and 54th Street. This will be a 1 1/2 hour event, including world premieres of all-new musical works and choreography highlighting 3 global concerns centering on the ocean: disappearing coral reefs, disappearing ice, and the pervasiveness and hazards of plastic.
 
 Previously, SEAS presented their first Open Workshop May of 2016, testing and building upon their choreography live in an interactive demo + discussion workshop with the audience. In November the same year, SEAS, gave its world premiere performance of Ravel's complete ***Miroirs*** suite as part of Mannes Sounds Festival: Mirrors of Nature, curated by J.Y. Song.
 
