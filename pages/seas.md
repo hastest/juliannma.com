@@ -9,11 +9,11 @@ page-id: "seas-page"
 SEAS: Sustainable Environment through the Arts & Sciences
 ===========================================================
 
-Recognizing climate change and environmental sustainability as rapidly growing global concerns still largely unaddressed and poorly understood by many, Juliann began her search for new languages to spark conversation between collaborators to tackle bringing about awareness and reform; thus, SEAS was born.
+Climate change and environmental sustainability are immense and immediate global concerns still poorly understood. Recognizing the problem as one largely of communication and driven to bring these issues to public attention, Juliann began searching for creative new languages to spark reform in how we understand and treat our planet. Thus, SEAS was born.
 
-A melting pot of eclectic talents, SEAS unites artists and environmental research experts in creating visceral, unique performing arts experiences which translates scientific data into immediate and emotionally more tangible experiences to awaken audiences to the impact we humans have on nature.
+A melting pot of eclectic talents, SEAS unites artists and environmental experts in creating unique performing arts experiences translating scientific research and data into immediate, visceral experiences, awakening audiences to the impact we have on nature.
 
-SEAS seeks to challenge and diversify traditional roles, settings, and audiences of classical music, contemporary dance, and scientific research publications, providing an innovative platform for professionals and audiences to interact, develop appreciation for, share ideas, and co-create across fields so often segregated from one another and which may benefit each other in ways as yet undiscovered.
+SEAS seeks to challenge and diversify traditional audiences, roles, and settings of classical music, contemporary dance, and scientific research, serving as an innovative platform for professionals and audiences to interact and share ideas across often-segregated fields that would benefit through collaboration.
 
 ## Rise, Awaken
 
@@ -26,15 +26,15 @@ It is Juliann’s hope that these works will stir audiences to take an active ro
 
 ## Events
 
-SEAS will feature their first major production this April 11th, 2018, at 7 P.M. in Yamaha Artist Services New York, located in the heart of midtown Manhattan on Fifth Avenue and 54th Street. This will be a 1 1/2 hour event, including world premieres of all-new musical works and choreography highlighting 3 global concerns centering on the ocean: disappearing coral reefs, disappearing ice, and the pervasiveness and hazards of plastic.
+SEAS will feature their first major production this April 11th, 2018, at 7 P.M. in Yamaha Artist Services New York, located in the heart of midtown Manhattan on Fifth Avenue and 54th Street. This will be a 1 1/2 hour event, including world premieres of all-new musical compositions and choreography, highlighting 3 global concerns centering on the ocean: disappearing coral reefs, disappearing ice, and the pervasiveness and hazards of plastic.
 
-Previously, SEAS presented their first Open Workshop May of 2016, testing and building upon their choreography live in an interactive demo + discussion workshop with the audience. In November the same year, SEAS, gave its world premiere performance of Ravel's complete ***Miroirs*** suite as part of Mannes Sounds Festival: Mirrors of Nature, curated by J.Y. Song.
+Previously, SEAS presented their first Open Workshop in May of 2016, in which they tested and built upon their choreography live in an interactive demo + discussion workshop with the audience. In November the same year, SEAS, gave its world premiere performance of Ravel's complete ***Miroirs*** suite as part of Mannes Sounds Festival: Mirrors of Nature, curated by J.Y. Song.
 
-SEAS featured a live performance of 'Rise, Awaken' specially choreographed for Juliann's [solo debut at Carnegie Hall's Weill Recital Hall](/concerts-gatherings/) November 9th.[RSVP here](https://www.carnegiehall.org/SiteCode/Purchase/SeatSelectionPerformance.aspx?startWorkflow=true&quickBuy=false&quantity=1&eventId=31030).
+This past November, SEAS featured a live performance of 'Rise, Awaken' specially choreographed for Juliann's [solo debut at Carnegie Hall's Weill Recital Hall](/concerts-gatherings/)[RSVP here](https://www.carnegiehall.org/SiteCode/Purchase/SeatSelectionPerformance.aspx?startWorkflow=true&quickBuy=false&quantity=1&eventId=31030).
 
 ## Support
 
-***Rise, Awaken*** was made possible in part thanks to the Marin Alsop Entrepreneurship Award and Father Merlet Grant. SEAS salutes Maestro Marin Alsop (Baltimore Symphony Orchestra), Norma Deull, and Pro Musicis Foundation for their support through these grants, and to Mannes: The New School for Music and Yamaha Artist Services Inc. for generous extension of their resources.
+***Rise, Awaken*** was made possible in part thanks to the Marin Alsop Entrepreneurship Award and Father Merlet Grant. SEAS salutes Maestro Marin Alsop (Baltimore Symphony Orchestra), Ms. Norma Deull, and Pro Musicis Foundation for their support through these grants, and to Mannes: The New School for Music and Yamaha Artist Services Inc. for generous extension of their resources.
 
 If you would like to support SEAS directly, please consider donating to our cause.
 <div class="centered"><button data-iframe="false"><a href="https://www.paypal.me/juliannma">Gift via Paypal</a></button></div>
@@ -43,18 +43,19 @@ SEAS thanks also the following individuals for their donated consultation, contr
 
 ## Our Collaborators
 
-Jared Brewer,             &nbsp;&nbsp;
-Kara Chan,                &nbsp;&nbsp;
-Marc Evans,               &nbsp;&nbsp;
-Angela Falk,              &nbsp;&nbsp;
-Peter Farrow,             &nbsp;&nbsp;
-Eliza (Lanham) Jones,     &nbsp;&nbsp;
-SooA Kim,                 &nbsp;&nbsp;
-Juliann Ma,               &nbsp;&nbsp;
-Jesse Obremski,           &nbsp;&nbsp;
-Hannah Sun,               &nbsp;&nbsp;
-Miranda "Quinn" Wienecke, &nbsp;&nbsp;
-Thomas Woodman
+<a href="http://fischer.atmos.colostate.edu/index.php">Jared Brewer</a>             &nbsp;&nbsp;
+<a href="http://www.karachandance.com/">Kara Chan</a>                  &nbsp;&nbsp;
+<a href="http://marcevansmusic.com/">Marc Evans</a>                  &nbsp;&nbsp;
+<a href="http://limon.org/dance-company/dancers/">Angela Falk</a>                  &nbsp;&nbsp;
+<a href="https://www.youtube.com/watch?v=WEBMl847GVo">Peter Farrow</a>              &nbsp;&nbsp;
+<a href="http://wasatchcontemporary.com/?page_id=16">Eliza (Lanham) Jones</a>     &nbsp;&nbsp;
+<a href=" https://sooakim.com/">SooA Kim</a>                  &nbsp;&nbsp;
+<a href=" https://hsindylin.com/">Cindy Lin</a>                  &nbsp;&nbsp;
+<a href=" https://juliannma.com/">Juliann Ma</a>               &nbsp;&nbsp;
+<a href=" https://jesseobremski.com/">Jesse Obremski</a>           &nbsp;&nbsp;
+<a href=" http://hannahsun.com/">Hannah Sun</a>               &nbsp;&nbsp;
+<a href="https://www.youtube.com/watch?v=QQFJMgqY_Ug">Miranda Wienecke</a> &nbsp;&nbsp;
+<a href=" https://www.generosity.com/fundraising/thomas-europe-tour">Thomas Woodman</a>
 {: .centered }
 
 To support or find out how you may join SEAS, [contact Juliann Ma](/#contact) .
