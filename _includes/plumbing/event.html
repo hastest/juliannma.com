@@ -1,4 +1,11 @@
 
+{% assign date = "" %}
+{% assign time = "" %}
+{% assign title = "" %}
+{% assign location = "" %}
+{% assign id = "" %}
+{% assign excerpt = "" %}
+
 {% if include.event.show-date %}
   {% assign date = include.event.show-date %}
 {% else %}
@@ -10,8 +17,6 @@
 
   {% if include.time %}
     {% assign time = include.event.date | date: ", %-I:%M %p" %}
-  {% else %}
-    {% assign time = "" %}
   {% endif %}
 {% endif %}
 

@@ -12,6 +12,10 @@ section-class: "fullpage-section"
 
 {% assign next_event = site.events | where_exp: "event", "event.date >= site.time" | sort 'date' | first %}
 
+{% assign date = "" %}
+{% assign title = "" %}
+{% assign location = "" %}
+
 {% if next_event %}
   {% if next_event.show-date %}
     {% assign date = next_event.show-date %}
