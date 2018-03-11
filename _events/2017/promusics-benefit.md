@@ -1,6 +1,6 @@
 ---
 title: Pro Musicis Benefit
-date: 2017-03-22 18-30
+date: 2017-03-22 18:30
 location: Louis K. Meisel Art Gallery, NY
 ---
 

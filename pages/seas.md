@@ -9,9 +9,9 @@ page-id: "seas-page"
 SEAS: Sustainable Environment through the Arts & Sciences
 ===========================================================
 
-Climate change and environmental sustainability are immense and immediate global concerns still poorly understood. Recognizing the problem as one of (mis)communication and driven to bring these issues to public attention, Juliann began searching for creative new languages to spark reform in how we understand and treat our planet. Thus, SEAS was born.
+Climate change and environmental sustainability are rapidly snowballing global concerns, still poorly understood, inadequately addressed. Recognizing the problem as arising from (mis)communication, and driven to bring these issues to public attention, Juliann began searching for creative new languages to spark reform of how we understand and treat our planet.
 
-A melting pot of eclectic talents, SEAS unites artists and environmental experts in creating unique performing arts experiences translating scientific research and data into immediate, visceral experiences, awakening audiences to the impact we have on nature.
+A melting pot of eclectic talents, SEAS unites artists and scientists in creating unique performing arts experiences translating environmental research into immediate, visceral experiences, awakening audiences to the impact we have on nature.
 
 SEAS seeks to challenge and diversify traditional audiences, roles, and settings of classical music, contemporary dance, and scientific research, serving as an innovative platform for professionals and audiences to interact and share ideas across often-segregated fields that would benefit through collaboration.
 
@@ -23,18 +23,17 @@ In their debut music video, SEAS draws us into the world of birds. The artists s
 
 It is Juliann’s hope that these works will stir audiences to take an active role in safeguarding the home they share with all life on Earth through mindful lifestyle practices (e.g. responsible recycling, composting, disposing, keeping up to date on environmental news, research, and policy), outreach, education, support for sustainable energy and conservation efforts.
 
-
 ## Events
 
-SEAS will feature their first major production this April 11th, 2018, at 7 P.M. in Yamaha Artist Services New York, located in the heart of midtown Manhattan on Fifth Avenue and 54th Street. This will be a 1 1/2 hour event, including world premieres of all-new musical compositions and choreography, highlighting 3 global concerns centering on the ocean: disappearing coral reefs, disappearing ice, and the pervasiveness and hazards of plastic.
+SEAS features their first major production April 11th, 2018, at 7 P.M. at Yamaha Artist Services New York, located in the heart of midtown Manhattan on Fifth Avenue and 54th Street. This will be a 1 1/2 hour event, including world premieres of all-new musical compositions and choreography, highlighting 3 global concerns centering on the ocean: disappearing coral reefs, disappearing ice, and the pervasiveness and hazards of plastic.
 
 Previously, SEAS presented their first Open Workshop in May of 2016, in which they tested and built upon their choreography live in an interactive demo + discussion workshop with the audience. In November the same year, SEAS, gave its world premiere performance of Ravel's complete ***Miroirs*** suite as part of Mannes Sounds Festival: Mirrors of Nature, curated by J.Y. Song.
 
-This past November, SEAS featured a live performance of 'Rise, Awaken' specially choreographed for Juliann's [solo debut at Carnegie Hall's Weill Recital Hall](/concerts-gatherings/)[RSVP here](https://www.carnegiehall.org/SiteCode/Purchase/SeatSelectionPerformance.aspx?startWorkflow=true&quickBuy=false&quantity=1&eventId=31030).
+This past November, SEAS featured a live performance of 'Rise, Awaken' especially choreographed for Juliann's [solo debut at Carnegie Hall's Weill Recital Hall](/concerts-gatherings/) [RSVP here](https://www.carnegiehall.org/SiteCode/Purchase/SeatSelectionPerformance.aspx?startWorkflow=true&quickBuy=false&quantity=1&eventId=31030).
 
 ## Support
 
-***Rise, Awaken*** was made possible in part thanks to the Marin Alsop Entrepreneurship Award and Father Merlet Grant. SEAS salutes Maestro Marin Alsop (Baltimore Symphony Orchestra), Ms. Norma Deull, and Pro Musicis Foundation for their support through these grants, and to Mannes: The New School for Music and Yamaha Artist Services Inc. for generous extension of their resources.
+***Rise, Awaken*** music video was made possible in part thanks to the Marin Alsop Entrepreneurship Award and Father Merlet Grant. SEAS salutes Maestro Marin Alsop (Baltimore Symphony Orchestra), Ms. Norma Deull, and Pro Musicis Foundation for their support through these grants, and to Mannes: The New School for Music and Yamaha Artist Services Inc. for generous extension of their resources. Filmed at The New School, New York City.
 
 If you would like to support SEAS directly, please consider donating to our cause.
 <div class="centered"><button data-iframe="false"><a href="https://www.paypal.me/juliannma">Gift via Paypal</a></button></div>
@@ -58,7 +57,7 @@ SEAS thanks also the following individuals for their donated consultation, contr
 <a href=" https://www.generosity.com/fundraising/thomas-europe-tour">Thomas Woodman</a>
 {: .centered }
 
-To support or find out how you may join SEAS, [contact Juliann Ma](/#contact) .
+To support, partner with, find out how you may join SEAS, [contact Juliann Ma](/#contact) .
 
 <!--
 This is some plumbing to get the video working.
