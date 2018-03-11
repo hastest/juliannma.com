@@ -1,6 +1,7 @@
 ---
 title: Silk Road Global Musician Workshop Concerts
 date: 2017-06-02-05 19:30
+show date: June 2-5, 2017
 location: Kresge Auditorium, DePauw University, IN
 short-location: DePauw University, IN
 ---
