@@ -40,8 +40,8 @@ section-class: "fullpage-section"
     <p>
       at {{ location }}
       <br>{{ date }}.
-      {% if next_event.rsvp_link %}<br><a href="{{ next_event.rsvp_link }}">RSVP</a>{% endif %}
     </p>
+    {% if next_event.rsvp_link %}<button data-iframe="false" style="float:left;"><a href="{{ next_event.rsvp_link }}">RSVP</a></button>{% endif %}
   </div>
 {% endif %}
 
