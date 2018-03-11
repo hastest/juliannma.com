@@ -213,15 +213,15 @@ GitLab pages is nice enough to offer custom certificates! We use the excellent a
 Do be careful, as the terminal won't ask you for confirmations and there is no way to un-delete things if you accidentally move a file over a folder with the same name, for example.
 
 Your file system is a tree rooted in a folder called `/`, with _everything_ in your computer residing in various sub-folders.
-A hypothetical `file.txt` in this root folder has the path `/file.txt`, and `/subfolder/another_file.txt` is th epath to a file called `anoter_file.txt` in a subfolder named `subfolder` of the root.
+A hypothetical `file.txt` in this root folder has the path `/file.txt`, and `/subfolder/another_file.txt` is the epath to a file called `anoter_file.txt` in a subfolder named `subfolder` of the root.
 Apple likes to make it seem like a bunch of special and separate folders (`Applications`, `Desktop`, `Downloads`, etc.), but they too are rooted in `/`.
-For example, a sub-folder named `juliannma.com` in a folder `projects` on the desktop of on my laptop really lives in `/Users/ilebedev/Desktop/projects/juliannma.com`.
+For example, a sub-folder named `juliannma.com` in a folder `projects` on the desktop on my laptop really lives in `/Users/ilebedev/Desktop/projects/juliannma.com`.
 Apple's *Finder* app on a Mac lets you see the contents of a folder and go up/down along the tree. It unfortunately makes it difficult to get out of places like `/Users/ilebedev/Desktop` by pretending these paths are special.
 
 The *Terminal* is very similar (it works in one folder at a time), but uses text commands instead of buttons/keys/menus, and does things without confirmations and with no possibility to undo mistakes (no trash can, sorry).
 
 To open a terminal in a given folder:
-1. Open up a termianl
+1. Open up a terminal
 2. Type `cd ` (with a space).
 3. Drag the folder from a finder/desktop window onto the terminal window. It will paste the path to that folder.
 4. Press `enter` on your keyboard.

@@ -6,5 +6,3 @@ date: 2015-06-27 14:00
 location: Ida K. Lang Recital Hall, Hunter College, NYC
 short_location: Hunter College, NYC
 ---
-
-?
