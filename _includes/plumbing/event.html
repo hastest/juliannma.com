@@ -7,6 +7,12 @@
   {% else %}
     {% assign date = include.event.date | date: "%b %-d, %Y" %}
   {% endif %}
+
+  {% if include.time %}
+    {% assign time = include.event.date | date: ", %-I:%M %p" %}
+  {% else %}
+    {% assign time = "" %}
+  {% endif %}
 {% endif %}
 
 {% if include.event.short_title %}
@@ -29,7 +35,7 @@
 
 <li>
   <span class="event_heading">
-    <span class="calendar_tile">{{ date }}:</span>
+    <span class="calendar_tile">{{ date }}{{ time }}:</span>
     <b>{% if excerpt %}<a onclick="toggle_block('{{ id }}')">{{ title }}</a>{% else %}{{ title }}{% endif %}</b>, <cite>{{ location }}</cite>
     {% if include.rsvp and include.event.rsvp_link %}
       (<a href="{{ include.event.rsvp_link }}">RSVP</a>)

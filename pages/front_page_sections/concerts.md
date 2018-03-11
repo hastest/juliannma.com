@@ -13,7 +13,7 @@ layout: partials/section
   <h2>Upcoming</h2>
   <ul>
     {% for event in upcoming_events %}
-      {% include plumbing/event.html event=event longdate=true rsvp=true %}
+      {% include plumbing/event.html event=event longdate=true time=true rsvp=true %}
     {% endfor %}
   </ul>
 {% endif %}
@@ -22,7 +22,7 @@ layout: partials/section
   <h2>Notable</h2>
   <ul>
     {% for event in past_events limit:7 %}
-      {% include plumbing/event.html event=event %}
+      {% include plumbing/event.html event=event time=false %}
     {% endfor %}
     <li><a href="/concerts-gatherings/">... older events</a></li>
   </ul>
