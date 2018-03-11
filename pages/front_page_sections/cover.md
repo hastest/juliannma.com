@@ -16,7 +16,7 @@ section-class: "fullpage-section"
   {% if next_event.show-date %}
     {% assign date = next_event.show-date %}
   {% else %}
-    {% assign date = next_event.date | date: "%b %-d, %Y" %}
+    {% assign date = next_event.date | date: "%b %-d, %Y, %-I:%M %p" %}
   {% endif %}
 
   {% if next_event.short_title %}

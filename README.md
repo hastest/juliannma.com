@@ -20,6 +20,7 @@ If you accidentally publish passwords, sensitive information, etc, you should tr
 ## Feature Requests
 
 - Fix HTML showing in hover text on images.
+- Simplify event time - it's kinda awkward rightnow.
 - Add carousel view.
 - Update this readme
 - Blog entries, to be discussed with Jules
