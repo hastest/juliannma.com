@@ -23,18 +23,18 @@ SEAS: Sustainable Environment through the Arts & Sciences
 
 Climate change and environmental sustainability are rapidly snowballing global concerns, still poorly understood, inadequately addressed. Recognizing the problem as arising from (mis)communication, and driven to bring these issues to public attention, Juliann began searching for creative new languages to spark reform of how we understand and treat our planet.
 
-A melting pot of eclectic talents, SEAS unites artists and scientists in creating unique performing arts experiences translating environmental research into immediate, visceral experiences, awakening audiences to the impact we have on nature.
+A melting pot of eclectic talents, SEAS unites artists and scientists in creating unique performing arts immersions translating environmental research into tangible, visceral experiences, awakening audiences to the impact we have on nature.
 
 SEAS seeks to challenge and diversify traditional audiences, roles, and settings of classical music, contemporary dance, and scientific research, serving as an innovative platform for professionals and audiences to interact and share ideas across often-segregated fields that would benefit through collaboration.
 
-##  SEAS Presents: Plastics, Coral, Fire, and Ice
+##  SEAS Presents: Plastics, Coral, Ice & Earth
 {:id="event"}
 
 **Wednesday, April 11, 7 pm, the Yamaha Artist Services, New York. [RSVP here](https://goo.gl/forms/8doBZwlqFVhtzbCA3)**
 
 We at the SEAS project invite you to join us at New York's Yamaha Artist Services for an interactive concert and open discussion of our responsibilities in the face of a changing climate, and our common aspiration to manage human impact on our environment, and to achieve sustainability.
 
-Plastic, Coral, & Ice bring together leaders from diverse fields including music, dance, film, science, and education to join the audience in an open discussion of of our shared responsibility to better our environment.
+'Plastic, Coral, Ice & Earth' bring together leaders from diverse fields including music, dance, film, science, and education to join the audience in an open discussion of of our shared responsibility to better our environment.
 
 Given the limited reach of scientific publication, and the polarizing nature of the topic, communicating the subtle gravitas of climate change is notoriously challenging. SEAS attempts instead to communicate this global issue as a visceral, emotional message via its unique collaboration. We distill the scientific argument into an accessible message expressed as a performance, tangibly felt and easily shared.
 
@@ -83,20 +83,19 @@ SEAS thanks also the following individuals for their donated consultation, contr
 
 ## Our Collaborators
 
-<a href="http://fischer.atmos.colostate.edu/index.php">Jared Brewer</a>             &nbsp;&nbsp;
-<a href="http://www.karachandance.com/">Kara Chan</a>                  &nbsp;&nbsp;
-<a href="http://marcevansmusic.com/">Marc Evans</a>                  &nbsp;&nbsp;
-<a href="http://limon.org/dance-company/dancers/">Angela Falk</a>                  &nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=WEBMl847GVo">Peter Farrow</a>              &nbsp;&nbsp;
-<a href="http://wasatchcontemporary.com/?page_id=16">Eliza (Lanham) Jones</a>     &nbsp;&nbsp;
-<a href=" https://sooakim.com/">SooA Kim</a>                  &nbsp;&nbsp;
-<a href=" https://hsindylin.com/">Cindy Lin</a>                  &nbsp;&nbsp;
-<a href=" https://juliannma.com/">Juliann Ma</a>               &nbsp;&nbsp;
-<a href=" https://jesseobremski.com/">Jesse Obremski</a>           &nbsp;&nbsp;
-<a href=" http://hannahsun.com/">Hannah Sun</a>               &nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=QQFJMgqY_Ug">Miranda Wienecke</a> &nbsp;&nbsp;
-<a href=" https://www.generosity.com/fundraising/thomas-europe-tour">Thomas Woodman</a>
-{: .centered }
+[Jared Brewer](http://fischer.atmos.colostate.edu/index.php)&nbsp;&nbsp;
+[Kara Chan](http://www.karachandance.com/)&nbsp;&nbsp;
+[Marc Evans](http://marcevansmusic.com/)&nbsp;&nbsp;
+[Angela Falk](http://limon.org/dance-company/dancers/)&nbsp;&nbsp;
+[Peter Farrow](https://www.youtube.com/watch?v=WEBMl847GVo)&nbsp;&nbsp;
+[Eliza Lanham Jones](http://wasatchcontemporary.com/?page_id=16) &nbsp;&nbsp;
+[SooA Kim](https://sooakim.com/)&nbsp;&nbsp;
+[Cindy Lin](https://hsindylin.com/) &nbsp;&nbsp;
+[Juliann Ma](https://juliannma.com/) &nbsp;&nbsp;
+[Jesse Obremski](https://jesseobremski.com/) &nbsp;&nbsp;
+[Hannah Sun](http://hannahsun.com/) &nbsp;&nbsp;
+[Miranda Wienecke](https://www.youtube.com/watch?v=QQFJMgqY_Ug) &nbsp;&nbsp;
+[Thomas Woodman](https://www.generosity.com/fundraising/thomas-europe-tour)
 
 To support, partner with, or find out how you may join or feature SEAS, [contact Juliann Ma](/#contact) .
 
