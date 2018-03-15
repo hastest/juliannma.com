@@ -11,7 +11,7 @@ SEAS: Sustainable Environment through the Arts & Sciences
 
 <div class="gap_at_top_of_page">
 <div class="title_announcement">
-  <h1>Upcoming event: <a href="#event">SEAS: Plastics, Coral, Fire, and Ice</a></h1>
+  <h1>Upcoming event: <a href="#event">SEAS: Plastics, Coral, Ice, and Earth</a></h1>
   <p>
     at the Yamaha Artist Services, New York
     <br>
@@ -44,15 +44,15 @@ Each performance will be introduced by Jared Brewer (PhD candidate in Atmospheri
 
 SEAS will also present our debut music video, and discuss the storied history of the formation of our artistic collective. The event will be filmed and edited into a mini-documentary, in the hopes that it may inspire action beyond the guests of the the event.
 
-Please join us on April 11, at 7pm, and bring an open mind and a desire to do good. Entry is free and open to all, but you are encouraged to support our work via a [donation](https://www.paypal.me/juliannma). This event, and our continued collaboration is made possible by generous support from our [sponsors](#support).
+Please join us on April 11, at 7pm, and bring an open mind and a desire to do good. Entry is free and open to all, but you are encouraged to support our work via a [donation](https://www.paypal.me/SEASProductions). This event, and our continued collaboration is made possible by generous support from our [sponsors](#support).
 
 ### Program:
 
-- 'Mircro Scope' choreography by Angela FALK & Jesse OBREMSKI, music by Hannah SUN ('The Whales' 2018). Plastics in the ocean.
-- ‘Isostasy’ choreographed by Peter FARROW & Thomas WOODMAN, music by Marc EVANS (‘Formations’ 2014). Calving and melting of ice mass wordwide, rising sea levels.
-- ‘The Protest’, choreography by Juliann MA, music by Maurice RAVEL (‘A boat on the ocean’ 1905) - Vanishing coral reefs.
 - ‘Rise, Awaken’, choreography by SEAS, music by Maurice RAVEL (‘Sad Birds’ 1905) - Deforestation.
-- ‘Fire & Earth’, choreography by SEAS, Igor STRAVINSKY (‘The Firebird Suite’ 1910 arr. Guido AGOSTI) - Climate change - 2017 mudslides and fires.
+- 'Mircro Scope' choreography by Angela FALK & Jesse OBREMSKI, music by Hannah SUN ('The Whales' 2018). Plastics in the ocean. World premiere!
+- ‘Isostasy’ choreographed by Peter FARROW & Thomas WOODMAN, music by Marc EVANS (‘Formations’ 2014). Calving and melting of ice mass wordwide, rising sea levels. World premiere!
+- ‘Greef’, choreography by Juliann MA, music by Maurice RAVEL (‘A boat on the ocean’ 1905) - Vanishing coral reefs.
+- ‘Rebirth’, solo Igor STRAVINSKY (‘The Firebird Suite’ 1910 arr. Guido AGOSTI) - Climate change - 2017 mudslides and fires.
 
 
 ## Rise, Awaken
@@ -65,21 +65,21 @@ It is Juliann’s hope that these works will stir audiences to take an active ro
 
 ## Events
 
-SEAS features their first major production April 11th, 2018, at 7 P.M. at Yamaha Artist Services New York, located in the heart of midtown Manhattan on Fifth Avenue and 54th Street. This will be a 1 1/2 hour event, including world premieres of all-new musical compositions and choreography, highlighting 3 global concerns centering on the ocean: disappearing coral reefs, disappearing ice, and the pervasiveness and hazards of plastic.
+SEAS features their first major production April 11th, 2018, at 7 P.M. at Yamaha Artist Services New York, located in the heart of midtown Manhattan on Fifth Avenue and E 54th Street. This will be a 1 1/2 hour event, including 2 world premieres of all-new musical compositions and choreography, highlighting 3 global concerns centering on the ocean: disappearing coral reefs, disappearing ice, and the pervasiveness and hazards of plastic. An open discussion panel will be led by the team's environmental consultant, Jared Brewer, NOAA, PhD candidate, Colorado State University.
 
 Previously, SEAS presented their first Open Workshop in May of 2016, in which they tested and built upon their choreography live in an interactive demo + discussion workshop with the audience. In November the same year, SEAS, gave its world premiere performance of Ravel's complete ***Miroirs*** suite as part of Mannes Sounds Festival: Mirrors of Nature, curated by J.Y. Song.
 
-This past November, SEAS featured a live performance of 'Rise, Awaken' especially choreographed for Juliann's [solo debut at Carnegie Hall's Weill Recital Hall](/concerts-gatherings/) [RSVP here](https://www.carnegiehall.org/SiteCode/Purchase/SeatSelectionPerformance.aspx?startWorkflow=true&quickBuy=false&quantity=1&eventId=31030).
+This past November, SEAS featured a live performance of 'Rise, Awaken' choreographed uniquely for Juliann Ma's [solo debut at Carnegie Hall's Weill Recital Hall](/concerts-gatherings/) [RSVP here](https://www.carnegiehall.org/SiteCode/Purchase/SeatSelectionPerformance.aspx?startWorkflow=true&quickBuy=false&quantity=1&eventId=31030).
 
 ## Support
 {:id="support"}
 
-***SEAS*** is made possible in part thanks to the [Marin Alsop Entrepreneurship Award](https://www.wherevent.com/detail/Mannes-Entrepreneurship-Alsop-Entrepreneurship-Awards-Launch-Event-with-Marin-Alsop) and Father Merlet Grant. SEAS salutes Maestro Marin Alsop (Baltimore Symphony Orchestra), Ms. Norma Deull, and [Pro Musicis Foundation](https://promusicis.org/) for their support through these grants, and to Mannes: [The New School for Music](https://www.newschool.edu/mannes/) and [Yamaha Artist Services Inc.](http://www.yamaha.com/yasi/) for generous extension of their resources.
+***SEAS*** is made possible in part thanks to the [Marin Alsop Entrepreneurship Award](https://www.wherevent.com/detail/Mannes-Entrepreneurship-Alsop-Entrepreneurship-Awards-Launch-Event-with-Marin-Alsop) and Father Merlet Grant. SEAS salutes Maestro Marin Alsop (Baltimore Symphony Orchestra), Ms. Norma Deull, and [Pro Musicis Foundation](https://promusicis.org/) for their support through these grants, and to Mannes: [The New School for Music](https://www.newschool.edu/mannes/) and [Yamaha Artist Services Inc.](http://www.yamaha.com/yasi/) for generous extension of their resources and filming locations.
 
 If you would like to support SEAS directly, please consider donating to our cause.
-<div class="centered"><button data-iframe="false"><a href="https://www.paypal.me/juliannma">Gift via Paypal</a></button></div>
+<div class="centered"><button data-iframe="false"><a href="https://PayPal.Me/SEASProductions ">Gift via Paypal</a></button></div>
 
-SEAS thanks also the following individuals for their donated consultation, contributions, and general support: Stefania Bulbarella, Shimon Dotan, Hope Dougherty, Stanislav Fridman, John Haag, Casey Hess, Tanya Kalmanovitch, Ilia Lebedev, Qing Qing Miao, Aaron Ross, Lara Saldanha, Benjamin Simoens, and J.Y. Song.
+SEAS thanks also the following individuals for their donated consultation, contributions, and general support: Stefania Bulbarella, Shimon Dotan, Hope Dougherty, Stanislav Fridman, John Haag, Casey Hess, Tanya Kalmanovitch, Ilia Lebedev, Qing Qing Miao, Aaron Ross, Lara Saldanha, Benjamin Simoens, J.Y. Song, and James Waldo.
 
 ## Our Collaborators
 
@@ -98,7 +98,7 @@ SEAS thanks also the following individuals for their donated consultation, contr
 <a href=" https://www.generosity.com/fundraising/thomas-europe-tour">Thomas Woodman</a>
 {: .centered }
 
-To support, partner with, find out how you may join SEAS, [contact Juliann Ma](/#contact) .
+To support, partner with, or find out how you may join or feature SEAS, [contact Juliann Ma](/#contact) .
 
 <!--
 This is some plumbing to get the video working.
