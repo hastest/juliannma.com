@@ -350,6 +350,15 @@ footer {
   }
 }
 
+.gap_at_top_of_page {
+  position: relative;
+  min-height: 40vh;
+  margin-bottom: 2vh;
+  background-color: #2C292F;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .title_card {
   position: absolute;
   top: 50%;
