@@ -19,7 +19,7 @@ Each performance will be introduced by Jared Brewer (PhD candidate in Atmospheri
 
 SEAS will also present our debut music video, and discuss the storied history of the formation of our artistic collective. The event will be filmed and edited into a mini-documentary, in the hopes that it may inspire action beyond the guests of the the event.
 
-Please join us on April 11, at 7pm, and bring an open mind and a desire to do good. Entry is free and open to all, but you are encouraged to support our work via a [donation](https://www.paypal.me/juliannma). This event, and our continued collaboration is made possible by generous support from our [sponsors](/seas/#support).
+Please join us on April 11, at 7pm, and bring an open mind and a desire to do good. Entry is free and open to all, but you are encouraged to support our work via a [donation](https://www.paypal.me/SEASProductions). This event, and our continued collaboration is made possible by generous support from our [sponsors](/seas/#support).
 
 Program:
 
