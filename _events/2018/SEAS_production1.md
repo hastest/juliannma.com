@@ -1,5 +1,5 @@
 ---
-title: "SEAS: Plastics, Coral, Fire, and Ice"
+title: "SEAS: Plastics, Coral, Ice, and Earth"
 #link: (permalink to the event should go here)
 date: 2018-04-11 19:00 # sometime in a not-so-distant future
 # Set to the *NEXT* month if you want to only show a month
@@ -9,7 +9,7 @@ rsvp_link: https://goo.gl/forms/8doBZwlqFVhtzbCA3
 
 We at the SEAS project invite you to join us at New York's Yamaha Artist Services for an interactive concert and open discussion of our responsibilities in the face of a changing climate, and our common aspiration to manage human impact on our environment, and to achieve sustainability.
 
-Plastic, Coral, & Ice bring together leaders from diverse fields including music, dance, film, science, and education to join the audience in an open discussion of of our shared responsibility to better our environment.
+Plastics, Coral, Ice, and Earth bring together leaders from diverse fields including music, dance, film, science, and education to join the audience in an open discussion of of our shared responsibility to better our environment.
 
 Given the limited reach of scientific publication, and the polarizing nature of the topic, communicating the subtle gravitas of climate change is notoriously challenging. SEAS attempts instead to communicate this global issue as a visceral, emotional message via its unique collaboration. We distill the scientific argument into an accessible message expressed as a performance, tangibly felt and easily shared.
 
