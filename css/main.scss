@@ -394,6 +394,14 @@ footer {
   z-index: 99;
 }
 
+@media screen and (max-width:720px) {
+  .title_announcement {
+    h1 {
+      font-size: 2em;
+    }
+  }
+}
+
 section {
   padding: 16px;
   position: relative;
