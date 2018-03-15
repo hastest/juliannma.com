@@ -9,7 +9,7 @@ page-id: "seas-page"
 SEAS: Sustainable Environment through the Arts & Sciences
 ===========================================================
 
-<p class="gap_at_top_of_page">
+<div class="gap_at_top_of_page">
 <div class="title_announcement">
   <h1>Upcoming event: <a href="#event">SEAS: Plastics, Coral, Fire, and Ice</a></h1>
   <p>
@@ -19,7 +19,7 @@ SEAS: Sustainable Environment through the Arts & Sciences
   </p>
   <button data-iframe="false" style="float:left;"><a href="https://goo.gl/forms/8doBZwlqFVhtzbCA3">RSVP</a></button>
 </div>
-</p>
+</div>
 
 Climate change and environmental sustainability are rapidly snowballing global concerns, still poorly understood, inadequately addressed. Recognizing the problem as arising from (mis)communication, and driven to bring these issues to public attention, Juliann began searching for creative new languages to spark reform of how we understand and treat our planet.
 
