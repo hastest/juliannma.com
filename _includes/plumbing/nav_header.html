@@ -1,11 +1,11 @@
 <nav>
   <ul class="nav_menu" id="menu">
-    {% for section in include.sections %}
-      <li data-menuanchor="{{ section }}"><a class="page-link" href="{{ include.prefix }}{{ section | slugify }}">{{ section | capitalize }}</a></li>
-    {% endfor %}
     <li class="icon">
       <a href="javascript:void(0);" onclick="toggle_nav()">&#9776;</a>
     </li>
+    {% for section in include.sections %}
+      <li data-menuanchor="{{ section }}"><a class="page-link" href="{{ include.prefix }}{{ section | slugify }}">{{ section | capitalize }}</a></li>
+    {% endfor %}
   </ul>
 </nav>
 
