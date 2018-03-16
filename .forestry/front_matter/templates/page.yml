@@ -1,0 +1,27 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Page Title
+  description: This is what the browser tab will say
+  config:
+    required: true
+- type: text
+  name: permalink
+  label: URL inside the site
+  description: "/path/to/this/page/    (for example: /seas/)"
+  config:
+    required: true
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - page
+    - gallery
+    - sectioned_page
+    required: true
+  label: Page type
+  name: layout
+  description: Which layout type should this page use?
