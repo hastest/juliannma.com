@@ -1,0 +1,36 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Event Name
+  description: A (short) name for this event. This will be used everywhere the event
+    is mentioned.
+  config:
+    required: true
+- type: datetime
+  config:
+    date_format: MM/DD/YYY
+    time_format: h:mm
+    required: true
+  label: Event date
+  name: date
+  description: This one is for sorting events into past and future. (Unless you also
+    set a "show-date", which would be printed instead). If you don't know when the
+    event is, approximate.
+- type: text
+  name: location
+  label: Where is the event?
+  description: Do be brief, descriptive, and complete. "Yamaha Artist Services, New
+    York", instead of "French Embassy", for example.
+  config:
+    required: true
+- type: text
+  name: show-date
+  label: "(Optional) unusual event date"
+  description: This is printed instead of "EVENT DATE", if you write something here.
+- type: text
+  name: rsvp_link
+  label: "(Optional) URL to RSVP"
+  description: Make sure this link works! It will show up as a button everywhere the
+    event is mentioned.
