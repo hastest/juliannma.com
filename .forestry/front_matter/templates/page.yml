@@ -25,3 +25,4 @@ fields:
   label: Page type
   name: layout
   description: Which layout type should this page use?
+  default: page
