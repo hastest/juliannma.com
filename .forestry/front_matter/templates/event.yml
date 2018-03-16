@@ -1,6 +1,4 @@
 ---
-pages:
-- _events/2018/test-event.md
 hide_body: false
 fields:
 - type: text
